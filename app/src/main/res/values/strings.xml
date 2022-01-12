@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TripTo</string>
+    <string name="btn_cafe">Restaurants</string>
+    <string name="btn_places">Tourist places</string>
+    <string name="btn_hospital">Hospitals</string>
+    <string name="btn_hotel">Hotels</string>
+    <string name="btn_pieces">Museums</string>
+    <string name="api_key">AIzaSyCpZLB-aAPAVWSHVav8T94FocV8xSdOwZw</string>
+
+    <string-array name="Languages">
+        <item>Select Your Language</item>
+        <item>Arabic</item>
+        <item>English</item>
+        <item>French</item>
+    </string-array>
+
+    <string-array name="City">
+        <item>Where Your Destination?</item>
+        <item>Cairo</item>
+        <item>Alexandria</item>
+        <item>Giza</item>
+        <item>Sharm El-Shaikh</item>
+        <item>Hurghada</item>
+        <item>Fayoum</item>
+        <item>Beni Suef</item>
+        <item>Luxor</item>
+        <item>Aswan</item>
+    </string-array>
+</resources>

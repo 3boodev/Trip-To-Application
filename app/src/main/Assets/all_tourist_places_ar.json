@@ -1,0 +1,389 @@
+{
+        "cairo_tourist_places":[
+        {
+        "id":1,
+        "name":"المتحف المصري",
+        "description":"هذا الشهيرة ويضم المتحف أكبر مجموعة في العالم من المصرية القديمة الأثرية (أكثر من 120 ، 000 العناصر على الشاشة) يضم الشهير توت عنخ آمون مجموعة جميلة من الذهب قناع الموت و التابوت و غرفة المومياء الملكية ، الذي يضم إضافية عشر الفرعونية الشخصيات.",
+        "location":"الميدان El Tahrir الجمعية الجغرافية Building, القاهرة 11511 مصر",
+        "location_map":{"lang":"30.0475827","late":"31.2358026"},
+        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F1.jpg?alt=media&token=d2ba04df-053d-4d96-8749-bec62e7f7d56"
+        },
+        {
+        "id":2,
+        "name":"نهر النيل",
+        "description":"تمتد 4,187 ميل, أطول نهر في العالم يتدفق من المصدر الرئيسي, بحيرة فيكتوريا في وسط شرق أفريقيا من خلال أوغندا والسودان وإثيوبيا شمالا إلى مصر إلى البحر الأبيض المتوسط.",
+        "location":"القاهرة 15662 مصر",
+        "location_map":{"lang":"23.2986165","late":"41.1961389"},
+        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F2.jpg?alt=media&token=11fd04f0-c9a9-4cdf-9c0d-c0efef1413a4"
+        },
+        {
+        "id":3,
+        "name":"أهرامات الجيزة",
+        "description":"ربما الأكثر شهرة من بين عجائب الدنيا السبع في العالم الدقيق أصل هذه مهيب الأهرامات لا تزال شرارة النقاش.","location":"الحرم Str., الجيزة 12611 مصر",
+        "location_map":{"lang":"29.9782653","late":"31.1355374"},
+        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F3.jpg?alt=media&token=695e0d8c-a7c0-437f-9e16-b3c1949fafd2"
+        },
+        {"id":4,"name":"القاهرة القبطية","description":"مرة واحدة تعرف باسم الرومانية معقل بابل, القاهرة أقدم القسم هو قلب القديم من الطائفة المسيحية القبطية يضم خمسة الأصلي الكنائس ، أول مسجد بني في مصر و أقدم كنيس يهودي.","location":"مصر القاهرة","location_map":{"lang":"30.006109","late":"31.2304747"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F4.jpg?alt=media&token=1989d1b9-f4bf-4ca8-9554-738585238697"},
+        {"id":5,"name":"ممفيس سقارة","description":"ممفيس من السهل أن تصل من القاهرة عن طريق البر و أيضا ميزات كبيرة تمثال رمسيس الثاني 2nd أكبر تمثال أبو الهول في مصر بالإضافة إلى سقارة وهو بضع دقائق بعيدا.","location":"سقارة ، البدرشين, البدرشين, الجيزة","location_map":{"lang":"29.8500535","late":"31.2188678"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F5.jpg?alt=media&token=5825cc48-5f88-457e-a7dd-b1532dcd5cda"},
+        {"id":6,"name":"الهرم الأكبر خوفو (خوفو)","description":"أكبر و أقدم من أهرامات الجيزة ، وهذا ضخم هيكل تقف ما يقرب من 500 أقدام.","location":"الجيزة مصر","location_map":{"lang":"29.9792345","late":"31.1363906"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F6.jpg?alt=media&token=5b4f510b-80b1-437d-b4cc-7f37c57194e1"},
+        {"id":7,"name":"مسجد محمد علي","description":"يقع في القلعة هذا المسجد تم بناؤه بين عام 1824 و 1857 على الطراز العثماني من محمد علي باشا حاكم مصر.","location":"آل Abageyah حلوان, القاهرة 11511 مصر","location_map":{"lang":"30.0287015","late":"31.2620993"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F7.jfif?alt=media&token=e18008eb-096e-4306-ba85-334f4864ee16"},
+        {"id":8,"name":"هضبة الجيزة","description":"موطن آخر ما تبقى من عجائب العالم ، أهرامات الجيزة مباشرة خارج حدود القاهرة.","location":"الجيزة مصر","location_map":{"lang":"29.9769346","late":"31.1414059"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F8.jfif?alt=media&token=22044a35-4fad-49e9-8cf2-3e966fbf83f8"},
+        {"id":9,"name":"أبو الهول","description":"في أكثر من 240 أقدام طويلة و 66 قدم عالية من العجيب أن هذا الغامض النحت كانت منحوتة من صلب الحجر الجيري كتلة.","location":"Al-الهرم-الجيزة-مصر","location_map":{"lang":"29.9752687","late":"31.1397561"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F9.jpg?alt=media&token=77e719e1-22f8-4043-8526-fa6051507259"},
+        {"id":10,"name":"حديقة الأزهر","description":"الأزهر بارك هي واحدة من أكبر الحدائق في القاهرة تقع على مساحة 80 فدانا.","location":"صلاح سالم, Al-الدرب الأحمر, محافظة القاهرة","location_map":{"lang":"30.040758","late":"31.2669214"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F10.jpg?alt=media&token=9243152b-904d-4289-82f7-f2c33457dd64"},
+        {"id":11,"name":"خان الخليلي","description":"يقع في قلب القاهرة الإسلامية ، هذا مشغول الملونة في الهواء الطلق سوق مليء فريدة من نوعها و العناصر الغريبة من التوابل و العطور والمجوهرات والهدايا التذكارية.","location":"مصر القاهرة","location_map":{"lang":"30.0477386","late":"31.2644425"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F11.jpg?alt=media&token=c64df4df-f5c1-4034-b6d7-4d90d0cdc836"},
+        {"id":12,"name":"Cairo Citadel","description":"هذا الحجرية الضخمة القلعة التي بناها صلاح الدين في القرن 12th, توج مع مسجد محمد علي 700 سنة في وقت لاحق.","location":"آل Abageyah شار ع صالح سالم, القاهرة 11511 مصر","location_map":{"lang":"30.0417347","late":"31.2689133"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F12.jpg?alt=media&token=64ccbdbd-e37b-43aa-99e2-05d3fece56fb"},
+        {"id":13,"name":"كهف الكنيسة","description":"كهف الكنيسة يقع في جبل المقطم في جنوب القاهرة ، مصر ، في المنطقة المعروفة باسم 'القمامة في المدينة.","location":"شوقي آل Abaji, حلوان, محافظة القاهرة","location_map":{"lang":"30.0417335","late":"31.2853287"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F13.jpg?alt=media&token=c86db551-0d4a-40eb-8421-ba9a386f601b"},
+        {"id":14,"name":"سقارة (سقارة) الأهرامات","description":"هذا هو واحد من الأكثر شمولا المواقع الأثرية التي تضم العديد من المعالم الهامة مثل خطوة هرم زوسر, هرم أوناس, الهرم من Sekhemket.","location":"محافظة الجيزة الصحراء, الجيزة مصر","location_map":{"lang":"29.8606869","late":"31.2341207"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F14.jpg?alt=media&token=c99ac2b5-94ee-4e8c-971b-b7b233789639"},
+        {"id":15,"name":"دهشور","description":"دهشور هي واحدة من القرى التي Al-البدرشين لم تتركز في محافظة الجيزة. دهشور هي واحدة من المناطق السياحية للزوار من جميع أنحاء العالم بسبب العديد من عظيم الآثار الفرعونية.","location":"الجيزة مصر","location_map":{"lang":"29.7939806","late":"31.2497123"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F15.jpg?alt=media&token=1394eaf9-7839-4269-8e7b-1aba8d57a5c0"},
+        {"id":16,"name":"كايرو فستيفال سيتي مول","description":"أجمل مول في مصر ، والكامل من المحلات من الماركات الشهيرة من جميع أنحاء العالم ، أيضا عندما كنت في حاجة إلى تناول سوف تجد أصناف من مطعم مول يحتوي على مجموعة كبيرة لوقوف السيارات.","location":"أول القاهرة الجديدة محافظة القاهرة","location_map":{"lang":"30.0289498","late":"31.4107969"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F16.jpg?alt=media&token=22f91843-1eab-4a3d-902e-0e7ec482c8a2"},
+        {"id":17,"name":"القاهرة الإسلامية","description":"بعد المسلمين غزا مصر عام 641 م ، بنوا مدينتهم, Al-الفسطاط, على ما هو الآن على الحدود الجنوبية الحديثة القاهرة. اليوم هذا القسم من المدينة يحتوي على العديد من المواقع الهامة ومنها مسجد السلطان حسن.","location":"الميدان حیث قد نهت الکتب ad-Din ، القاهرة 11511 مصر","location_map":{"lang":"30.0417347","late":"31.2700077"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F17.jpg?alt=media&token=00e8d4c1-aa08-4b10-aa22-5e031c73ef96"},
+        {"id":18,"name":"مسجد الأزهر","description":"أقدم جامعة في العالم بنيت حول هذا المسجد القديم ، التي كانت مركز المعرفة الإسلامية منذ 975 م.","location":"محمد عبده-ش-ش درب الأحمر ، القاهرة 11511 مصر","location_map":{"lang":"30.045688","late":"31.2648738"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F18.jpg?alt=media&token=e86f6ead-460e-410c-b6d0-27981c1ece72"},
+        {"id":19,"name":"لهرم خفرع","description":"بجانب الهرم الأكبر خوفو ، وهذا هو ثاني أكبر أهرامات الجيزة; خفرع ابن خوفو.","location":"الهرم, الجيزة مصر","location_map":{"lang":"29.9757265","late":"31.1329888"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F19.jpg?alt=media&token=f0453195-8f60-43cc-9e1e-92495751ac94"},
+        {"id":20,"name":"الشريعة مو'izz ولى الدين الله","description":"القاهرة الشارع الرئيسي والتي أصبحت في الآونة الأخيرة للمشاة فقط يتم تعبئة مع المواقع التاريخية.","location":"المعز Ldin الله آل فاطمي ، القاهرة 11511 مصر","location_map":{"lang":"30.0508893","late":"31.2638155"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F20.jpg?alt=media&token=912daf9d-9ce5-43b6-91cb-109b86ca4840"},
+        {"id":21,"name":"معلقة الكنيسة","description":"هذه الكنيسة بنيت في الأصل في القلعة القديمة بابل في القاهرة القديمة حوالي 4 الميلادي ، تستمد اسمها من موقعها علقت فوق اثنين من البوابة الرومانية الأبراج.","location":"شار ع ماري جرجس Street, القاهرة 11511 مصر","location_map":{"lang":"30.0052663","late":"31.2323713"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F21.jpg?alt=media&token=1f726635-1c1d-49df-90a9-0628e8458c6c"},
+        {"id":22,"name":"مسجد و مدرسة السلطان حسن","description":"ويصنف هذا أهم العمارة الإسلامية من أي وقت مضى مع أكبر الحجر شيدت قبو لديه u فريدة من نوعها حجر والأعتاب تفاصيل البناء.","location":"Al-الدرب الأحمر-قسم الخليفة ، محافظة القاهرة","location_map":{"lang":"30.0322791","late":"31.2583591"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F22.jpg?alt=media&token=24f57172-1845-43d8-b7a9-45dbdacf6f13"},
+        {"id":23,"name":"المتحف القبطي","description":"الإسكان بعض من أفضل مجموعات الفن القبطي يعود تاريخها إلى مصر في العصر المسيحي, هذا المتحف يضم مجموعات القديمة أنكهس و حورس-مثل الصقور.","location":"لا 4 فخرى عبد النور شارع العباسية, القاهرة 11511 مصر","location_map":{"lang":"30.0055737","late":"31.2323178"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F23.jpg?alt=media&token=9ef482fb-7564-47d3-ab4e-6d5f9d3cb718"},
+        {"id":24,"name":"سيتي ستارز مول","description":"سيتي ستارز مول هو مركز تجاري تم افتتاحه في كانون الأول / ديسمبر 2004. وهو يقع في مدينة نصر و هو أول مشروع التنمية الشاملة من نوعه في الشرق الأوسط و أفريقيا و هو أكبر مركز تسوق في مصر.","location":"عمر بن الخطاب, المهندسين مساكن, مدينة نصر, محافظة القاهرة","location_map":{"lang":"30.072979","late":"31.3482387"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F24.jpg?alt=media&token=240d3b00-7bb3-42f5-beba-c9500e535cd7"},
+        {"id":25,"name":"متحف الفنون الإسلامية","description":"متحف الفن الإسلامي بالقاهرة يعد أكبر متحف الفن الإسلامي في العالم. ويشمل مجموعات مختلفة من الفنون الإسلامية من الهند والصين وإيران مرورا بفنون الجزيرة العربية والشام ومصر وشمال أفريقيا والأندلس.","location":"بورسعيد شارع الدرب الأحمر, محافظة القاهرة 11638","location_map":{"lang":"30.0444039","late":"31.2545405"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F25.jpg?alt=media&token=e5afe730-f51d-464b-85ef-c0de768c76c1"},
+        {"id":26,"name":"برج القاهرة","description":"على ارتفاع 600 قدم هذا البرج يوفر إطلالات رائعة على المدينة بأكملها المعالم من دوار على السطح ومطعم وبار.","location":"El-الجزيرة, القاهرة 11511 مصر","location_map":{"lang":"30.045915","late":"31.2264785"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F26.jpg?alt=media&token=5b39e148-042f-4e73-b09c-d4227b178787"},
+        {"id":27,"name":"القرية الفرعونية","description":"الفراعنة المبحرة المطاعم تخيل الذهاب إلى مكان على بعد بضعة أميال من وسط القاهرة, مصر. حيث بأكمله في مصر التاريخ والفن يأتي على قيد الحياة! مثل هذا المكان موجود في الفرعونية قارب على يعقوب جزيرة في النيل.","location":"3 ش البحر الاعظم St, الجيزة مصر","location_map":{"lang":"29.9973692","late":"31.2170097"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F27.jpeg?alt=media&token=70a77ffe-dba7-450c-83b6-01ec35c2bb08"},
+        {"id":28,"name":"مسجد ابن طولون","description":"وتعتبر هذه واحدة من مصر أكبر و أقدم المساجد التي بنيت بين الإعلان 876 الإعلانية 879 قبل الحاكم العباسي أرسلت من بغداد إلى حكم مصر.","location":"Al-حي البساتين, off Al-صليبا Street, القاهرة 11511 مصر","location_map":{"lang":"30.028691","late":"31.2515828"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F28.jpg?alt=media&token=c080ff63-c251-4877-ac62-969752bfe5c8"},
+        {"id":29,"name":"متحف قصر المنيل","description":"بناها الأمير محمد علي (1875-1955) بين 1901 و 1929 ، وهذا مجمع القصر المنازل ستة الهياكل بما في ذلك الصيد متحف ينتمون إلى الملك الراحل فاروق الأمير الإقامة و المفروشات و حديقة جميلة.","location":"1 سراي شارع رمسيس, القاهرة 11511 مصر","location_map":{"lang":"30.0274437","late":"31.2311671"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F29.jpg?alt=media&token=c4536cac-cb38-424d-86bc-2c9267ee3243"},
+        {"id":30,"name":"Musee de la برقو Solaire","description":"خوفو قارب متحف أو الجيزة الشمسية متحف متحف تم بناؤه في عام 1985م. هو متحف مخصص لعرض إعادة خوفو الشمسية السفينة.","location":"نزلة آل السمان, الهرم, الجيزة","location_map":{"lang":"29.9779602","late":"31.1367954"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F30.JPG?alt=media&token=8ffd485f-54e6-40a3-9803-9854cdb97354"},
+        {"id":31,"name":"جاير أندرسون المتحف","description":"هذا المتحف يضم عناصر من العصور القديمة التي تم جمعها من قبل جون جاير أندرسون البريطاني عضو المصرية الخدمة المدنية في 1930s و '40s ، الذي أعاد اثنين المتاخمة 16 - و 17-قرن المنازل مزينة mashrabiyya شاشات والرخام.","location":"4 المدان بن طولون مصر القديمة, القاهرة 11511 مصر","location_map":{"lang":"30.02833","late":"31.2529327"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F31.jpg?alt=media&token=9fbe27f7-6a8f-4032-baab-43bf01cdd6f9"},
+        {"id":32,"name":"الزمالك (الجزيرة)","description":"هذه الجزيرة تقع في نهر النيل بين القاهرة والجيزة ، وتتميز الفنادق الراقية والمطاعم لطيفة الحدائق.","location":"مصر القاهرة","location_map":{"lang":"30.0558686","late":"31.2392809"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F32.jpg?alt=media&token=f8e59846-cc92-4f42-aa53-fce7e254e02d"},
+        {"id":33,"name":"وكالة ش Ghouri مركز الفنون","description":"أداء مسرح الفنون في القاهرة.","location":"3 محمد عبده Street, Off الأزهر Street, دار الأحمر, محافظة القاهرة 12411","location_map":{"lang":"30.0460471","late":"31.262398"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F33.jpg?alt=media&token=00a97259-0fb1-43a1-a5cc-9112bdaff09d"},
+        {"id":34,"name":"كنيسة القديس سرجيوس وباخوس","description":"أبو Serjah الأثرية الكنيسة أو كنيسة الشهداء سرجيوس Wakhs هو الأثرية الكنيسة بنيت فوق المكان حيث العائلة المقدسة عاش خلال الرحلة وقد كهف الهروب في المعبد.","location":"ماري جرجس, كوم غراب, مصر كاديما District, محافظة القاهرة","location_map":{"lang":"30.0062632","late":"31.2328547"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F34.jpg?alt=media&token=7e71b717-9383-4f75-b48f-7dd5572b0480"},
+        {"id":35,"name":"مول العرب-القاهرة","description":"مول العرب في مصر أكبر مركز تسوق من حيث المساحة و عدد من المتاجر.","location":"Mehwer 26 يوليو-مدينة 6 اكتوبر ميدان جهينة, القاهرة 11511 مصر","location_map":{"lang":"30.0071845","late":"30.9767315"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F35.jpg?alt=media&token=307ea123-fa29-4809-b73d-488c29bdf883"},
+        {"id":36,"name":"رمسيس ش ويصا واصف للفنون","description":"متحف في مصر.","location":"محور Labini, Al-Harrania, أبو Nomros, الجيزة","location_map":{"lang":"29.9687013","late":"31.1781277"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F36.jpg?alt=media&token=4eda0c8c-9d69-4586-9f68-76e5ba43cb3e"},
+        {"id":37,"name":"متاحف قصر عابدين","description":"سابقا بمثابة القصر الملكي حتى نهاية الحكم الملكي في عام 1952 ، هذا المتحف يضم مجموعة كبيرة من الأسلحة و الميداليات بما في ذلك السكاكين والبنادق والمدافع معرضا من الميداليات.","location":"مصطفى عبد الزعيم الشارع قبالة ساحة عابدين, القاهرة 11511 مصر","location_map":{"lang":"30.0430033","late":"31.2499683"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F37.jpg?alt=media&token=39a8f7c2-0a52-4b17-a507-78e99c8053c9"},
+        {"id":38,"name":"الرفاعي مسجد","description":"الرفاعي المسجد هو واحد من أشهر المساجد الأثرية في القاهرة. أمر ببناء Khushiar هانم والدة الخديوي إسماعيل في 1286 هـ / 1869 م.","location":"الرفاعي الدرب الأحمر, محافظة القاهرة","location_map":{"lang":"30.0327091","late":"31.2591916"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F38.jpg?alt=media&token=f3efb84d-ab63-496b-8d98-ec3c6cdb7f70"},
+        {"id":39,"name":"اليونانية الأرثوذكسية القديس جورج (ماري جرجس)","description":"بنيت أصلا في 684 م من قبل الأثرياء الكاتب أثناسيوس هذا الموقع الديني المعروف جميلة Qaa el-عرسان (الزفاف الدائرة) والتي يعود تاريخها من القرن 4.","location":"القريبة القلعة الرومانية القديمة (القبطية) القاهرة, القاهرة 11511 مصر","location_map":{"lang":"30.0062417","late":"31.2322287"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F39.jpg?alt=media&token=fe2056aa-46c0-4d20-b71d-3608f122571f"},
+        {"id":40,"name":"مصر الجديدة","description":"مصر الجديدة هي واحدة من أرقى الأحياء في القاهرة. هي واجهة القاهرة من الجهة الشرقية ، أحد مداخل العاصمة الأولى لاستقبال الوافدين من جميع أنحاء العالم بسبب وجود مطار القاهرة الدولي ، وأحد مداخل العاصمة للقادمين من الإسماعيلية و السويس.","location":"مصر القاهرة","location_map":{"lang":"30.1123143","late":"31.3526055"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F40.jpg?alt=media&token=b81cfd70-213c-41ec-b030-5183d7eafeb6"},
+        {"id":41,"name":"مقياس النيل","description":"من المعالم التاريخية في مصر.","location":"مصر القاهرة","location_map":{"lang":"30.006949","late":"31.2271638"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F41.jpg?alt=media&token=bdd03e7b-1f02-44a4-88da-58fbb08ae4b6"},
+        {"id":42,"name":"القديس سمعان الخراز الدير","description":"سمعان al Kharraz, المعروف أيضا باسم سمعان الدباغ ، عاش في القرن العاشر في مصر في عهد الخليفة المعز al-Din al-الفاطمي و في عهد البطريرك القبطي أبرام آل Syriani, ولا يعرف الكثير عن تفاصيل حياته. وقال انه هو واحد من القديسين من الكنيسة القبطية الأرثوذكسية.","location":"مصر القاهرة","location_map":{"lang":"30.0307397","late":"31.2781608"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F42.jpg?alt=media&token=4c410d95-decb-49c8-82ee-980fc6630f70"},
+        {"id":43,"name":"كنيس بن عزرا","description":"أقدم القائمة كنيس يهودي في القاهرة كان في الأصل كنيسة في القرن 8.","location":"القبطية القاهرة, القاهرة 11511 مصر","location_map":{"lang":"30.0057322","late":"31.2332223"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F43.jpg?alt=media&token=199c0cae-7483-43df-8119-627b8ad35999"},
+        {"id":44,"name":"دار أوبرا القاهرة","description":"هذا الثقافية مكان ، والمركز الثقافي الوطني هو جزء من وزارة الثقافة و بمثابة مظلة منظمة جميع الموسيقى أو الرقص الشركات والمعارض والمتاحف التعليمية البرامج أوبرا القاهرة.","location":"الجزيرة ارض Elopera, الجزيرة, الزمالك, القاهرة 11511 مصر","location_map":{"lang":"30.0424866","late":"31.2266455"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F44.jpg?alt=media&token=ff8de77a-4a56-4798-9798-9397fabc5411"},
+        {"id":45,"name":"مدينة الموتى (شمال المقبرة)","description":"العديد من جنائزي مهيب المجمعات تقع هنا بما في ذلك مسجد Qaitbey (أنجزت في 1474 م) ، مجمع السلطان أشرف Barsbey و ضريح ابن Barquq.","location":"الشرق الشريعة صلاح سالم, القاهرة 11511 مصر","location_map":{"lang":"30.0419056","late":"31.273325"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F45.jpg?alt=media&token=5f27867e-54f2-433a-9611-0dd81aa7d07e"},
+        {"id":46,"name":"حديقة حيوان الجيزة","description":"حديقة حيوان الجيزة أو حديقة الحيوان في الجيزة تأسست سنة 1891 م. وهي أكبر حديقة للحيوانات في مصر والشرق الأوسط ، و أول و أقدم حديقة حيوان في أفريقيا.","location":"أولا, الجيزة","location_map":{"lang":"30.02795","late":"31.2181573"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F46.jpg?alt=media&token=7d8cbecf-5dad-4ab0-96ab-1c20a189e303"},
+        {"id":47,"name":"القطامية داون تاون مول","description":"مركز للتسوق في مدينة القاهرة الجديدة.","location":"المنطقه أ-سيتي سنتر, 5th District, شارع 90, محافظة القاهرة","location_map":{"lang":"30.0174272","late":"31.4146092"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F47.jpg?alt=media&token=624a1c7e-34fb-469f-ac41-3bf1b0660950"},
+        {"id":48,"name":"باب Zuweila","description":"على Zuweila البوابة أو Mitwali البوابة هو أحد أبواب القاهرة القديمة في العاصمة المصرية القاهرة.","location":"Al-Muiz دين الله, Al-الدرب الأحمر, محافظة القاهرة","location_map":{"lang":"30.0428454","late":"31.2600258"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F48.jpg?alt=media&token=bbcebff8-d3d2-47f2-b987-bc0411e8ce0d"},
+        {"id":49,"name":"شارع Tentmakers (الشريعة Khayamiya)","description":"شارع Tentmakers (الشريعة Khayamiya) يقع في القاهرة.","location":"مصر القاهرة","location_map":{"lang":"30.0422066","late":"31.2597839"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F49.jpg?alt=media&token=2f835c04-8394-4c6d-bd46-a4229397fed6"},
+        {"id":50,"name":"المرمر أبو الهول","description":"هذا مثير للإعجاب النصب المنحوت في شرف مجهول فرعون خلال 18 أسرة ، 26 أقدام طويلة ، 13 أقدام ويزن حوالي 90 ألف طن.","location":"معهد ماساتشوستس للتكنولوجيا Rahina متحف القاهرة 11511 مصر","location_map":{"lang":"29.849537","late":"31.2570977"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F50.jpg?alt=media&token=2e869dcf-df1e-4b76-a50e-f8032d89f887"},
+        {"id":51,"name":"متحف طه حسين","description":"طه حسين المتحف هو فيلا طه حسين أو Ramtan التي المصري وزارة الثقافة تحولت إلى متحف لإحياء ذكرى عميد الأدب العربي. وهو يتألف من طابقين و مكتبة.","location":"11 د. ش طه حسين الغربية العمران إدارة العمران, الجيزة","location_map":{"lang":"30.0051881","late":"31.1871148"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F51.jpg?alt=media&token=965f2095-f6b9-46b9-9447-ff2fb4cb0dc9"},
+        {"id":52,"name":"مسجد القاهرة زينب","description":"إن السيدة زينب مسجد في القاهرة هي واحدة من أكبر وأشهر مساجد القاهرة عاصمة مصر, و هو ينسب إلى زينب بنت علي بن أبي طالب.","location":"ميدان السيدة زينب, السيدة زينب, محافظة القاهرة","location_map":{"lang":"30.031645","late":"31.2442961"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F52.jfif?alt=media&token=53dde3fd-34a8-4803-9c24-231906a1efc7"},
+        {"id":53,"name":"هرم منقرع","description":"هرم منقرع أو هرم منكاورع هو أحد أهرامات الجيزة في مصر. بنيت من قبل الفرعون منقرع ابن الملك Khafra. كل جانب 108.5 مترا 65.5 مترا.","location":"الأهرام الصحراء خلف محافظة الجيزة, الجيزة","location_map":{"lang":"29.9723877","late":"31.1304712"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F53.jpg?alt=media&token=53469746-e421-43bd-9cac-43307956ca2b"},
+        {"id":54,"name":"وادي دجلة","description":"يقع على بعد 15 دقيقة فقط من القاهرة ضاحية المعادى, هذا وعرة وادي يحتوي على مجموعة متنوعة من الحياة الحيوانية بما في ذلك الغزلان والأرانب البرية الأحمر الثعالب والزواحف المصرية السلاحف.","location":"مصر القاهرة","location_map":{"lang":"29.9723691","late":"31.1983234"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F54.jpg?alt=media&token=8294fedd-ebbe-4734-ab77-255f08059ca0"},
+        {"id":55,"name":"مسجد عمرو بن العاص","description":"مسجد عمرو بن العاص. وكان بني في مدينة الفسطاط التي أسسها المسلمون في مصر بعد الفتح. كان يسمى أيضا الفتح المسجد العتيق مسجد تاج المسجد.","location":"Hassan Al-Anwar Al-ديورا مصر Al-الحلقة القديمة District, محافظة القاهرة","location_map":{"lang":"30.0101215","late":"31.2353255"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F55.jpg?alt=media&token=7824100d-a8fc-4c1e-b8c9-78f8981eb4b3"},
+        {"id":56,"name":"Midan حسين","description":"معلما تاريخيا.","location":"El-Gamaleya, 6 District, قسم الجمالية","location_map":{"lang":"30.0520835","late":"31.2812165"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F56.jpg?alt=media&token=d92fdbe6-ca29-486c-988f-cdd61ae4bb96"},
+        {"id":57,"name":"المصري النهضة النحت","description":"إن نهضة مصر تمثال ضخم من الجرانيت الحجر التمثال الذي هو رمز مصر الحديثة وأهم أعمال الفنان المصري ، النحات محمود مختار علي.","location":"أولا Omrania, الجيزة","location_map":{"lang":"30.0283309","late":"31.2181218"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F57.jpg?alt=media&token=745f9ced-d014-4974-b0f8-d4286aa0944a"},
+        {"id":58,"name":"قصر البارون","description":"هل تستمع لي قصر تاريخي قصر مستوحاة من العمارة الهندية التي شيدت من قبل المليونير البلجيكي البارون إدوارد Empain ، الذي جاء إلى مصر من الهند في نهاية القرن التاسع عشر.","location":"Al-Oruba, المنتزه, مصر الجديدة الإدارة القاهرة المحافظة","location_map":{"lang":"27.0296432","late":"33.8863993"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F58.jpg?alt=media&token=2669d435-ca75-4e08-8f83-83a6f9e311a0"},
+        {"id":59,"name":"شمال الهرم (Pirámide روجا)","description":"الهرم الأحمر هو أعلى الرئيسية الثلاثة أهرامات دهشور. اسمها هو الأحمر ، بسبب الصدأ الأحمر طبقة فوق الحجارة ، وهي ثالث أكبر هرم مصري بعد أهرامات خوفو Khafra ، ثم بنيت في الجيزة.","location":"الصحراء خلف محافظة الجيزة, الجيزة","location_map":{"lang":"29.8088816","late":"31.2083015"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F59.jpg?alt=media&token=11ae5a12-9981-492f-9be9-9dc3f8ed3545"},
+        {"id":60,"name":"Bayt Al-Suhaymi","description":"Al-Suhaimi بيت أو منزل الشيخ عبد الوهاب آل Tablawy, عربية المنزل مع مجموعة مميزة شرق العمارة تقع في درب آل أسفار Lane, المتفرعة من شارع المعز ، إلى دين الله الفاطمي في Al-Gamalia حي في قلب القاهرة.","location":"9 Al-Tembekash, Al-Gamalia, قسم الجمالية, محافظة القاهرة","location_map":{"lang":"30.0522899","late":"31.2647657"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F60.jpg?alt=media&token=d93388be-6311-4faf-a303-3c8d7dbf2727"},
+        {"id":61,"name":"المتحف الوطني للحضارة المصرية NEMC","description":"يقع المتحف في مدينة الفسطاط, القاهرة, على مساحة 33.5 فدانا.","location":"Al-Doura مصر Al-الحلقة القديمة District, محافظة القاهرة","location_map":{"lang":"30.0064198","late":"31.2523243"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F61.jpg?alt=media&token=262ed3d2-c5c8-4b89-804b-12753ceb2a97"},
+        {"id":62,"name":"قلاوون المعقدة","description":"مسجد, مدرسة ابن قبة الناصر محمد بن قلاوون, Al-شارع المعز أو آل الناصرية المدرسة هي المدرسة المجاورة المنصور قلاوون قبة.","location":"Al-Gamalia, قسم الجمالية, محافظة القاهرة","location_map":{"lang":"30.0493992","late":"31.2631504"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F62.jpg?alt=media&token=eb658c8c-41aa-4a31-8963-d730f2160441"},
+        {"id":63,"name":"جنينة مول","description":"جنينة مول أنشئ في عام 1999 على قناة شارع البطراوى, وهو متفرع من شارع عباس العقاد في مدينة نصر ، ردا على البلاد الاتصال من أجل التنمية.","location":"St, قبالة, 9 ش البطراوى-عباس العقاد, شارع, مدينة نصر, محافظة القاهرة 11432","location_map":{"lang":"30.0611596","late":"31.3342131"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F63.jpg?alt=media&token=15ac73f8-90a0-4250-a1b5-5f119635e6b2"},
+        {"id":64,"name":"متحف أم كلثوم","description":"متحف في مصر.","location":"1-الملك الصالح, المنيل الروضة-طريق مصر Al-الحلقة القديمة District, محافظة القاهرة","location_map":{"lang":"30.0074346","late":"31.2272804"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F64.jpg?alt=media&token=080e76cc-90d2-4454-8afe-178dbcd151b2"},
+        {"id":65,"name":"الحكيم المسجد","description":"Al-جامع الحاكم بأمر الله مسجد بني عام 380 هـ في عهد العزيز بالله-الزيتون-Al-Fatimi ، الذي بدأ في سنة 379 هـ في بناء مسجد آخر خارج باب أخذها لكنه مات قبل إتمامه.","location":"154 آل المعز الدين الله آل Fatimi, Al-Gamalia قسم الجمالية محافظة القاهرة","location_map":{"lang":"30.0550097","late":"31.2652695"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F65.jpg?alt=media&token=8f881b5d-3555-4d70-be57-fb13d6580557"},
+        {"id":66,"name":"متحف النسيج المصري","description":"متحف في القاهرة.","location":"Al-Gamalia, قسم الجمالية, محافظة القاهرة","location_map":{"lang":"30.0498081","late":"31.2634642"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F66.jpg?alt=media&token=f88060a2-f978-42a4-bb09-99b952dcddd1"},
+        {"id":67,"name":"حصن بابل","description":"حصن بابليون الآن في مدينة القاهرة في مصر Al-الحلقة القديمة حي في كاتدرائية القديس جرجس لمترو الأنفاق. الإمبراطور تراجان قد أمر بنائه في القرن الثاني الميلادي أثناء الاحتلال الروماني لمصر.","location":"القبطية القاهرة, القاهرة 11511 مصر","location_map":{"lang":"30.006235","late":"31.2341774"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F67.jpg?alt=media&token=8706728b-b342-4719-babf-b5cb4274af7a"},
+        {"id":68,"name":"ساحة التحرير (الميدان El-Tahreer)","description":"الثقافية والتاريخية مكان.","location":"وسيم حسن شارع القاهرة","location_map":{"lang":"30.0445393","late":"31.2374545"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F68.jpg?alt=media&token=a3729829-8423-4cc9-86b9-db3b1f7ecb5c"},
+        {"id":69,"name":"كنيسة القديسة بربارة","description":"الكنيسة في مصر.","location":"الحضرية القسم, الجيزة","location_map":{"lang":"29.9986158","late":"31.210664"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F69.jpg?alt=media&token=8c931bd4-47b3-47d6-9f07-0a1eabaf2476"},
+        {"id":70,"name":"وادي النطرون","description":"وادي النطرون ، اتبع المدينة المصرية بمحافظة البحيرة. وهي تقع في شمال شرق ضواحي صحراء مصر الغربية ، حول في منتصف الطريق من الطريق الصحراوي الذي يربط القاهرة و الإسكندرية, و التي تواجه مدينة السادات.","location":"بمحافظة البحيرة","location_map":{"lang":"30.4533522","late":"30.4245788"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F70.jpg?alt=media&token=ceccab13-7ea8-41fb-984e-39f8704b3faa"},
+        {"id":71,"name":"متحف الطفل","description":"الطفل المتحف المعروف أيضا باسم الطفل للحضارة والإبداع مركز واحد من مصر الجديدة جمعية المشاريع الكبرى.","location":"34 ش ابو بكر الصديق, مصر الجديدة, مصر الجديدة, القاهرة 11511 مصر","location_map":{"lang":"30.1022381","late":"31.3391347"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F71.jpg?alt=media&token=c48d0629-e0af-44d0-86b3-7aec9830ca18"},
+        {"id":72,"name":"SunCity مول","description":"مركز التسوق في مصر.","location":"طريق النصر مساكن شيراتون المطار, قسم ش النزهة, محافظة القاهرة","location_map":{"lang":"30.1023662","late":"31.3880345"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F72.jpg?alt=media&token=054c84ee-3c4f-4124-9713-14dcfc45ad9c"},
+        {"id":73,"name":"باب يخبرنا","description":"باب يخبرنا هو أحد أبواب القاهرة الجدار بنيت في 1087 م من قبل جوهر آل Skali ثم الأمير بدر الجمالي المتجدد ووضعها في موقعها الحالي عند مدخل المعز شارع لدين الله الفاطمي بجوار al-جامع الحاكم بأمر الله.","location":"باب مناهج البحث, El-Gamalia, قسم الجمالية, محافظة القاهرة","location_map":{"lang":"30.0554818","late":"31.2656059"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F73.jpg?alt=media&token=a3313058-403c-4c33-8dc8-639b7dd12488"},
+        {"id":74,"name":"National Geographic Society Museum","description":"هذا المجمع يضم المتحف الإثنوغرافي, مناظرات غرفة صغيرة المكتبة التاريخية.","location":"القصر العينى العيني شارع ش مجلس الشورى مجمع القاهرة 11511 مصر","location_map":{"lang":"30.041119","late":"31.238236"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F74.jpg?alt=media&token=8a56b529-98c0-40ff-b9d7-56d5ff6e2c67"},
+        {"id":75,"name":"السادس من أكتوبر الجسر","description":"6 أكتوبر جسر أو كوبري 6 أكتوبر كما هو معروف في مصر و هو أطول جسر في مصر و أفريقيا ويمتد من المتحف الزراعي بالدقي بمحافظة الجيزة إلى شارع النصر في مدينة نصر في القاهرة خلال الزمالك القاهرة الأكثر شهرة في ساحة ميدان التحرير في القاهرة ازدحاما ساحة ميدان رمسيس. الجسر هو 20.5 كم.","location":"كوبري 6 أكتوبر ، محافظة القاهرة","location_map":{"lang":"30.0672455","late":"31.2613224"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F75.jpg?alt=media&token=0157c49b-919c-41c0-968b-60abe86ac336"},
+        {"id":76,"name":"مسجد السلطان الأشرف Barsbay","description":"مسجد و مدرسة السلطان الأشرف Barsbay أو المدرسة الأشرفية.","location":"Street No. 67, العبور, محافظة القاهرة","location_map":{"lang":"30.0474356","late":"31.2622297"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F76.jfif?alt=media&token=80bb5e1b-36af-451e-b2b0-8c05698c9800"},
+        {"id":77,"name":"متحف القوات الجوية المصرية","description":"متحف في مصر.","location":"شيراتون المطار, قسم ش النزهة, محافظة القاهرة","location_map":{"lang":"30.0970998","late":"31.3548772"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F77.jpg?alt=media&token=d6b9750e-555f-4bcb-b139-4aa5f64afa95"},
+        {"id":78,"name":"أبو سيدي الأهرامات","description":"هذا المجمع يتكون من أربعة (الأصلي خمسة عشر) الأهرامات من 5 أسرة: أهرامات Neferefre, Neferirkare, Niuserre و Sahure.","location":"خارج القاهرة, القاهرة 11511 مصر","location_map":{"lang":"29.8970955","late":"31.2039891"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F78.jpg?alt=media&token=ac315733-e801-4aaf-8f89-edec9437a96a"},
+        {"id":79,"name":"بانوراما حرب أكتوبر","description":"في بانوراما حرب أكتوبر تم إنشاؤه بالتعاون بين مصر و كوريا الشمالية في عام 1983 للاحتفال والاحتفاء مصر النصر في السادس من تشرين الأول / أكتوبر حرب. وهي تقع في مصر الجديدة, شارع صلاح سالم, بجوار ستاد القاهرة الدولي.","location":"صلاح سالم, ملعب, مدينة نصر, محافظة القاهرة","location_map":{"lang":"30.0742728","late":"31.3089955"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F79.jpg?alt=media&token=226dee0d-bd7a-44ec-b623-f9fd4ddfd4d7"},
+        {"id":80,"name":"الحسين المسجد","description":"الإمام الحسين بن علي مسجد يقع في القاهرة بمصر في القاهرة القديمة في حي اسمه بعد الإمام. بجوار المسجد الشهير خان الخليلي و مسجد الأزهر.","location":"Al-Mashhad الحسيني آل مشهد الحسين Street, Hassan Al-العدوي-شارع امتداد","location_map":{"lang":"30.0476847","late":"31.2652472"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F80.jpg?alt=media&token=9f8b6a22-b33f-499d-8a73-47d3df6e2c83"},
+        {"id":81,"name":"النصب التذكاري للجندي المجهول","description":"قبر الجندي المجهول أو النصب التذكاري للجندي المجهول بمدينة نصر هو نصب تذكاري شيد على شكل هرم في القاهرة, مصر. يقع النصب في ضاحية مدينة نصر.","location":"شارع النصر, ملعب, مدينة نصر, محافظة القاهرة","location_map":{"lang":"30.0653787","late":"31.3161357"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F81.jpg?alt=media&token=f496ca50-7368-4f73-8efd-d2325f3bdd02"},
+        {"id":82,"name":"المتحف العسكري","description":"هذا المتحف العسكري سجلات التاريخ من قوات الجيش المصري من العصور الفرعونية إلى اليوم الحاضر ، ويضم المعروضات من الأسلحة, ميداليات, المعدات العسكرية ، زي و 220 الدهانات من المعارك الشهيرة.","location":"قلعة, القاهرة 11511 مصر","location_map":{"lang":"30.030853","late":"31.2647457"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F81.jpg?alt=media&token=f496ca50-7368-4f73-8efd-d2325f3bdd02"},
+        {"id":83,"name":"المتحف الزراعي","description":"المتحف الزراعي في مصر الغرض من إنشائه هو التوثيق مصر الزراعية الذاكرة ، ونافذة من خلالها جميع الأجيال تطل مصر الحضارة الزراعية ، فضلا عن كونها مدينة الثقافة الزراعية.","location":"6 أكتوبر جسر, الدقى","location_map":{"lang":"30.0459262","late":"31.21295"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F83.jpg?alt=media&token=44711319-29de-45ea-9a4d-feb1d662a5cc"},
+        {"id":84,"name":"ش عطارد بغرفة الكنيسة (أبو Seifien)","description":"بنيت في القرن 6 ، تجديده على نطاق واسع في القرن 12 ، هذه الكنيسة باسم القديس اثنين من السيوف يعتبر واحد فقط في القاهرة مع الأساس الأصلي.","location":"ماري جرجس Street, القاهرة 11511 مصر","location_map":{"lang":"30.015516","late":"31.2345987"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F84.jpg?alt=media&token=08a713e9-0236-4d85-b1a4-95d248e275f2"},
+        {"id":85,"name":"الرمادي المسجد (El-Aqmar المسجد)","description":"Al-Aqmar المسجد هو أحد مساجد القاهرة الفاطمية. هذا المسجد يقع في Nahhasin شارع بنيت من قبل وزير al-مأمون بن Batayeh بأمر من الخليفة أمير فسمعت الله أبي المنصور في سنة 519 هـ ، وهو أول مسجد في القاهرة الذي يحتوي على واجهة خاصة التصميم الهندسي.","location":"المعز دله آل Fatimi, Al-Gamalia, قسم الجمالية, محافظة القاهرة","location_map":{"lang":"30.0516134","late":"31.2640914"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F85.jpg?alt=media&token=58eae463-3602-4d7b-a317-df42e507dd34"},
+        {"id":86,"name":"سانت ماري القبطية الأرثوذكسية","description":"الكنيسة الأرثوذكسية في القاهرة.","location":"14 ش.massara, شبرا, 14 مسرة قصر روض الفرج, محافظة القاهرة","location_map":{"lang":"30.0730838","late":"31.2610844"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F86.jpg?alt=media&token=3984459d-77d7-4de6-b840-70071088ba62"},
+        {"id":87,"name":"طيبة اوتلت مول","description":"مول تأسس كمتنفس وحيد هو الغرض من إضافة إلى تجربة التسوق من الزبائن في القاهرة وكل أنحاء مصر.","location":"75 Al Nasr Road, القاهرة 11511 مصر","location_map":{"lang":"30.0675274","late":"31.3322628"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F87.jpg?alt=media&token=d1a5a77d-f16d-4db1-a1de-4f1d9d5d1a12"},
+        {"id":88,"name":"اركاديا مول","description":"اركاديا مول هو الأول من نوعه في مصر و تم تصميمه من قبل المهندس المعماري الأمريكي الشهير HOK ، التي احتلت المرتبة الأولى في العالم في متعددة الأغراض تصميم المبنى.","location":"4 أ كورنيش النيل ماسبيرو, القاهرة 11511 مصر","location_map":{"lang":"30.063981","late":"31.2403463"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F88.JPG?alt=media&token=14347f78-d9ba-4d82-8af9-a15e4619fa14"},
+        {"id":89,"name":"Mokkatom الجبل","description":"هذا الجبل تحتل مناطق شرق صلاح الدين القلعة ، ويعتبر من الجبال التي لعبت دورا هاما في أعمال البناء خلال القبطية و العصور الإسلامية.","location":"مصر القاهرة","location_map":{"lang":"30.0216659","late":"31.3120881"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F89.jpg?alt=media&token=f11f526d-ab68-4ed1-86b6-4742efb7ce88"},
+        {"id":90,"name":"ش مسجد مؤيد","description":"سلطان-مؤيد المسجد أو آل مؤيد المسجد أو آل Muayyid المسجد هو واحد من أشهر المساجد الأثرية في القاهرة ، فإنه يوصف بأنه فخر المساجد الشراكسة المماليك.","location":"Al-الشرقية, Al-الدرب الأحمر, محافظة القاهرة","location_map":{"lang":"30.0433568","late":"31.259644"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F90.jpg?alt=media&token=d627bfc2-f291-4de5-8f28-963c871f117f"},
+        {"id":91,"name":"متحف الخزف الإسلامي","description":"يقع في قصر الأمير إبراهيم في الزمالك ، هذا المتحف يقدم مجموعة رائعة من السيراميك المكتسبة من مختلف البلدان الإسلامية.","location":"الأمير إبراهيم قصر القاهرة 11511 مصر","location_map":{"lang":"30.0563832","late":"31.2252695"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F91.jpg?alt=media&token=b3887e59-7a58-47e0-8a2c-eeb25798c8db"},
+        {"id":92,"name":"أحمد شوقي متحف (Karmat بن هاني)","description":"هذا المتحف هو في الاعتراف الشاعر الكبير-على جائزة نوبل أحمد شوقي الذي يضم مجموعة واسعة من أكثر من 713 المخطوطات والمسودات ، مجموعة من اللوحات الزيتية, الأشياء العتيقة و صور الشاعر وعائلته.","location":"6 أحمد شوقي Street, القاهرة 11511 مصر","location_map":{"lang":"30.0212625","late":"31.2196228"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F92.jfif?alt=media&token=e63679c3-02e7-443d-8693-798cbd2f8473"},
+        {"id":93,"name":"باب عزب","description":"بنيت في عام 1754 خلال الفترة العثمانية ، وهذا البوابة الرئيسية المحمية الأصلية مدخل القلعة.","location":"آل الفسطاط خان كهليلي منطقة السوق, القاهرة 11511 مصر","location_map":{"lang":"30.0310472","late":"31.2598726"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F93.jpg?alt=media&token=7d1447ce-8cdb-41a4-b6bb-65a3a4181146"},
+        {"id":94,"name":"متحف السكك الحديدية","description":"متحف في القاهرة","location":"مصر القاهرة","location_map":{"lang":"31.3832778","late":"35.3071263"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F94.jpg?alt=media&token=47e87890-f688-49ba-8fb2-842f578262ed"},
+        {"id":95,"name":"الحديقة اليابانية","description":"الحديقة اليابانية أو الحدائق هي البساتين التي يتم العناية في اليابان حسب الطرق التقليدية ، ومن هذه الأساليب تعتمد على فن خاص يعود تاريخها إلى العصور القديمة.","location":"مصر القاهرة","location_map":{"lang":"27.5833683","late":"51.2962956"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F95.jpg?alt=media&token=ec6d1335-abdf-46c8-81c5-ed016a647209"},
+        {"id":96,"name":"متحف محمود مختار","description":"مختار المتحف هو متحف في القاهرة, مصر, التي تشمل تماثيل النحات المصري محمود مختار. مختار هي واحدة من عدد قليل من الرواد في فن النحت وصاحب شهرة النهضة النهضة تمثال له في متحف اسمه لا يزال موجودا.","location":"محمود مختار Street, الزمالك, محافظة القاهرة","location_map":{"lang":"30.0421222","late":"31.2255611"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F96.jpg?alt=media&token=2f9d261c-56c6-4c67-8fa1-d60cb12ced96"},
+        {"id":97,"name":"متحف الشمع في حلوان","description":"متحف الشمع في حلوان هو المتحف المصري يقع في مدينة حلوان ، القاهرة ، أنشئت في عام 1934 ، ويضم المتحف العديد من الأعمال الفنية من الشمع وكذلك مجموعات نادرة من مراحل تطور التاريخ المصري من الفراعنة إلى العصر الحديث.","location":"منصور, قسم حلوان, محافظة القاهرة","location_map":{"lang":"29.8601294","late":"31.3283009"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F97.jpg?alt=media&token=ffd4d43a-43ee-4793-a13b-4ae8b7fda887"},
+        {"id":98,"name":"سليمان باشا","description":"سليمان باشا المعروف Sariyat الجبل مسجد أنشئ في 1528 م. وهي تقع داخل صلاح عز الدين الأيوبي قلعة أو جبل القلعة في الجزء العلوي من جبل المقطم كان أنشأه سليمان باشا أحد العثمانيين مصر ، 1528/1529 الإعلانية.","location":"2 زقاق من Majas, Al-Abajiyya, حلوان, محافظة القاهرة","location_map":{"lang":"30.0310618","late":"31.2665351"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F98.jpg?alt=media&token=1494a15e-2cc8-48e8-ab37-32b307af48a8"},
+        {"id":99,"name":"جسر الجامعة","description":"القاهرة في مصر.","location":"النيل النادي تسمى الجيزة ضباط الشرطة أمام السفارة السعودية و بجانب جسر الجامعة","location_map":{"lang":"30.0310571","late":"31.2993661"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F99.jpg?alt=media&token=cd9426d2-69b1-4dbc-9877-27030ec5207d"},
+        {"id":100,"name":"ش الجمهورية المسرح","description":"أداء مسرح الفنون في القاهرة.","location":"12 ش الجمهورية Street, عابدين, عابدين, محافظة القاهرة","location_map":{"lang":"30.0455959","late":"31.2486119"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F100.jpg?alt=media&token=a5d70b24-5dd2-46eb-a8e2-dc79d2912603"}
+       
+    ],
+
+"alexandria_tourist_places":[
+            {
+            "id":1,
+            "name":"مكتبة الإسكندرية",
+            "description":"واحدة من أهم المعالم السياحية في الإسكندرية.",
+            "location":"الشاطبى, الاسكندرية 30100, مصر",
+            "location_map":{"lang":"31.2088705","late":"29.9113899"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F1.jpg?alt=media&token=e30b0a25-a4fa-4e65-86d0-6e8a459645a2"
+            },
+            {
+            "id":2,
+            "name":"حدائق المنتزه",
+            "description":"الحدائق الملكية من الملك فاروق. الملك كان آخر المصرية خادم الحرمين الشريفين.",
+            "location":"المنتزه قصر | Al Mandarah بحري, قسم El-المنتزه, الاسكندرية 21599, مصر",
+            "location_map":{"lang":"31.2884954","late":"30.0181579"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F2.jpg?alt=media&token=a0a64c65-6077-4d10-966f-7e45e386755b"
+            },
+            {
+            "id":3,
+            "name":"سراديب الموتى بكوم الشقافة ويقع",
+            "description":"قديمة درج دائري يؤدي إلى هذه القبور التي حفرت نفقا في الأساس خلال سن الأنطونية emporers (2 الميلادي).","location":"Mohmad وقال آل halawane | Mohmad وقال آل halawane, الاسكندرية 21599, مصر",
+            "location_map":{"lang":"31.1790209","late":"29.8935996"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F3.jpg?alt=media&token=e2f4ad81-1c54-4eea-a8d5-98ad6b61f34e"
+            },
+            {
+            "id":4,
+            "name":"فورت Qaitbey",
+            "description":"تشبه فرض القلعة القلعة هذه القلعة بنيت في 1480s من قبل السلطان Qaitbey على موقع منارة فاروس ، لحماية المدينة من الصليبيين الذين اعتادوا على مهاجمة المدينة عن طريق البحر.",
+            "location":"29 88545 ن 31. 21372 E, الاسكندرية 21599, مصر",
+            "location_map":{"lang":"31.214011","late":"29.887827"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F4.jpg?alt=media&token=1765fa01-9e89-407d-88c1-ca4f3f2d349c"
+            },
+            {
+            "id":5,
+            "name":"متحف المجوهرات الملكية",
+            "description":"المتاحف في الإسكندرية.",
+            "location":"21 ش احمد يحيى الشارع | كمبوند ذا جيت, الاسكندرية 21599, مصر",
+            "location_map":{"lang":"31.240736","late":"29.9654455"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F5.jpg?alt=media&token=a62917b6-9f5f-41cc-8822-315a1cf9f5db"
+            },
+            {   
+            "id":6,
+            "name":"متحف الاسكندرية القومى",
+            "description":"أكثر من 1800 قطعة أثرية معروضة زمنيا من طابق واحد إلى التالي.",
+            "location":"110-طريق الحرية -. محطة الرمل, محطة الرمل, الاسكندرية 21599, مصر",
+            "location_map":{"lang":"31.2007666","late":"29.9142795"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F6.jpg?alt=media&token=9cb86d13-8231-4c01-af6f-2d56e15e5415"
+            },
+            {
+            "id":7,
+            "name":"كوبري ستانلي",
+            "description":"جسر في الإسكندرية واحدة من المعالم.",
+            "location":"الإسكندرية, مصر",
+            "location_map":{"lang":"31.2350274","late":"29.9507874"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F7.jpg?alt=media&token=08784a93-e91b-474a-bee1-e861f7885a35"
+            },
+            {
+            "id":8,
+            "name":"الكورنيش",
+            "description":"الكورنيش هو المجيدة على بعد 3 كم ممشى على طول الميناء المنقطة مع المطاعم والأسواق والمعالم التاريخية.",
+            "location":"الإسكندرية, مصر.",
+            "location_map":{"lang":"31.2095857","late":"29.9098199"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F8.jpg?alt=media&token=38acb751-62d2-42ca-8c55-528fca9810ad"
+            },
+            {
+            "id":9,
+            "name":"منارة الإسكندرية",
+            "description":"المنارة واحدة من المعالم السياحية في الإسكندرية.",
+            "location":"الإسكندرية, مصر",
+            "location_map":{"lang":"31.2142398","late":"29.8935107"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F9.jpg?alt=media&token=efbab6ad-66c7-4725-971f-2ccf248e8169"
+            },
+            {
+            "id":10,
+            "name":"المدرج الروماني",
+            "description":"بنيت في القرن 2 م ، هذا المدرج الروماني من 13 الهلالية طبقات مصنوعة من الرخام الأبيض والرمادي.",
+            "location":"محطة الرمل مربع | في كوم الدكة بالقرب من المتحف الروماني بالإسكندرية 21599, مصر","location_map":{"lang":"31.1945194","late":"29.9050429"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F10.jpg?alt=media&token=a59c65ef-46c9-491a-8754-2fda110b8275"
+            },
+            {
+            "id":11,
+            "name":"الملك فاروق قصر",
+            "description":"هذا المترامية الاطراف الملكية الصيف المنزل المثيرة للجدل الملك فاروق الذي تولى السلطة في سن 16 سنة 1936.",
+            "location":"الإسكندرية, مصر",
+            "location_map":{"lang":"31.2884954","late":"30.0181579"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F11.jpg?alt=media&token=792cc750-d6b5-4752-9595-6349bfa39bff"
+            },
+            {
+            "id":12,
+            "name":"مسجد أبو العباس المرسي",
+            "description":"المبنى المعماري.",
+            "location":"Anfushi | القديمة الاسكندرية, الاسكندرية 21599, مصر",
+            "location_map":{"lang":"31.2057854","late":"29.8834883"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F12.jpg?alt=media&token=344e8e43-9218-4b8d-a370-b742268fedf6"
+            },
+            {
+            "id":13,
+            "name":"بومبي عمود",
+            "description":"هذا 25 متر وارتفاع عمود من الجرانيت شيدت تكريما للإمبراطور دقلديانوس في الإعلان 297.",
+            "location":"آل Karah واشنطن في Toubageyah WA كفر Ghates, الاسكندرية 21599, مصر","location_map":{"lang":"31.1823879","late":"29.8973923"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F13.jpg?alt=media&token=4cab6ec5-39bc-4b18-a74b-b536b9972c0b"
+            },
+            {
+            "id":14,
+            "name":"مكتبة الإسكندرية",
+            "description":"مكتبة الإسكندرية.",
+            "location":"الإسكندرية, مصر",
+            "location_map":{"lang":"31.2089944","late":"29.9102955"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F14.jpg?alt=media&token=262fd441-b998-4dd4-baf7-c4c90a69dd2f"
+            },
+            {
+            "id":15,
+            "name":"المعمورة الشاطئ",
+            "description":"الشاطئ على ساحل البحر الأبيض المتوسط.",
+            "location":"الإسكندرية, مصر",
+            "location_map":{"lang":"31.2899471","late":"30.0323639"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F15.jpg?alt=media&token=a81ef41a-2edf-462e-9310-9c76f7b938e2"
+            },
+            {
+            "id":16,
+            "name":"العاشر من رمضان ش Samaweya",
+            "description":"متحف التاريخ في الإسكندرية.",
+            "location":"ش بورسعيد الشاطبى, الاسكندرية 21599, مصر",
+            "location_map":{"lang":"31.2176467","late":"29.931426"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F16.jpg?alt=media&token=9509df9a-f00b-425f-a1e9-475d84a083e3"
+            },
+            {
+            "id":17,
+            "name":"كفافى المتحف",
+            "description":"كفافى المتحف السكنية متحف في مدينة الإسكندرية, مصر, و كان مرة في منزل الشاعر اليوناني قسطنطين B. كفافى حيث عاش معظم حياته.",
+            "location":"6 شارع شرم الشيخ | قبالة ش اسطنبول محطة الرمل, محطة الرمل, الاسكندرية 21599, مصر","location_map":{"lang":"31.197691","late":"29.9023322"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F17.jpg?alt=media&token=0fdc7a96-5795-476b-9975-261fb5c5e50c"
+            },
+            {
+            "id":18,
+            "name":"دير مار مينا (القديس مينا الدير)",
+            "description":"وهي تقع في الصحراء الغربية بالقرب من الإسكندرية. وهو مكرس سانت ميناس.",
+            "location":"9 برج العرب ش-الجديدة | Mariut, الاسكندرية 21599, مصر",
+            "location_map":{"lang":"30.8516487","late":"29.6672567"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F18.jpg?alt=media&token=52ffafd8-cbc6-47e5-8a32-ea93d6551e90"
+            },
+            {
+            "id":19,
+            "name":"Sarapeum (سيرابيون)",
+            "description":"هذا المعبد المخصص للإله سيرابيس هو من البطلمي والروماني.",
+            "location":"الإسكندرية, مصر",
+            "location_map":{"lang":"31.1824659","late":"29.897403"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F19.jpg?alt=media&token=3230001d-37bb-4db4-9f92-fe9f6e47fc32"
+            },
+            {
+            "id":20,
+            "name":"القديس مرقس القبطية الأرثوذكسية كاتدرائية",
+            "description":"المقر السابق القبطية الأرثوذكسية البطريرك قبل نقله إلى القاهرة في عام 1968.","location":"19 قسم آل العطارين, الاسكندرية, مصر",
+            "location_map":{"lang":"31.1980937","late":"29.9004577"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F19.jpg?alt=media&token=3230001d-37bb-4db4-9f92-fe9f6e47fc32"
+            },
+            {
+            "id":21,
+            "name":"مسجد القائد ابراهيم",
+            "description":"الموقع الديني في الإسكندرية.",
+            "location":"Mahtet الرمل مربع, الاسكندرية 21599, مصر",
+            "location_map":{"lang":"31.2037395","late":"29.9068335"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F21.jpg?alt=media&token=afeb4b5d-87a9-474d-8af6-cb5d1d76a329"
+            },
+            {
+            "id":22,
+            "name":"متحف الفنون الجميلة",
+            "description":"متحف الفن في الإسكندرية.",
+            "location":"1 مناشه ش محرم بك, الاسكندرية 21599, مصر",
+            "location_map":{"lang":"31.1943785","late":"29.9151162"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F22.jpg?alt=media&token=2f979ea7-b1b0-4d02-8099-53c07cd78b5d"
+            },
+            {
+            "id":23,
+            "name":"الاسكندرية دار الأوبرا",
+            "description":"حيث الحفلات الموسيقية والعروض.",
+            "location":"22 ش طريق الحرية -._ | محطة الرمل, محطة الرمل, الاسكندرية, مصر","location_map":{"lang":"31.1967889","late":"29.9042799"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F23.jpg?alt=media&token=5e62bd23-8475-4963-ab62-8f4cc4c158da"
+            },
+            {
+            "id":24,
+            "name":"حوض السمك متحف",
+            "description":"متحف صغير يضم العديد من الأنواع من الأسماك في البحرين الأبيض المتوسط والأحمر ، فضلا عن غيرها من الأنواع التي تعيش في المياه العذبة مثل النيل والأمازون.",
+            "location":"قايتباي سانت الانفوشى, الاسكندرية 21599, مصر",
+            "location_map":{"lang":"31.2128046","late":"29.8871955"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F24.jpg?alt=media&token=6cd6153b-52f2-4dc7-88f0-b7521ff9031f"},
+            {
+            "id":25,
+            "name":"مصطفى كامل مقبرة",
+            "description":"واحدة من المعالم السياحية في الإسكندرية.",
+            "location":"ش Moaaskar ش الغجر, الاسكندرية 21599, مصر",
+            "location_map":{"lang":"31.2308233","late":"29.948709"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F25.jpg?alt=media&token=b85c0b7c-72b0-40e7-b721-cd3818c507be"
+            },
+            {
+            "id":26,
+            "name":"كاتدرائية سانت كاثرين",
+            "description":"سانت كاترين على بعد كاتدرائية الروم الكاثوليك في النيابة الرسولية في الإسكندرية,مصر.",
+            "location":"سانت Katren, الاسكندرية 21599, مصر",
+            "location_map":{"lang":"31.1954116","late":"29.8948556"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F26.jpg?alt=media&token=53274ecf-0664-47c6-92d5-52639391fab1"
+            },
+            {
+            "id":27,
+            "name":"الاسكندرية معروف البحرية الجندي التذكارية",
+            "description":"النصب التذكاري المجهول جندي البحرية يقع في منطقة المنشية الإسكندرية.","location":"الاسكندرية كورنيش الاسكندرية 21599, مصر",
+            "location_map":{"lang":"31.1999705","late":"29.8947752"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F27.jpg?alt=media&token=2cd7b0aa-3659-4fcb-a387-1fb7bcb67765"
+            },
+            {
+            "id":28,
+            "name":"حديقة حيوان الإسكندرية",
+            "description":"ثاني أكبر حديقة الحيوان في مصر بعد حديقة حيوان الجيزة. وهي تقع في حي النزهة في الاسكندرية بالقرب من Antoniadis الحدائق سموحة الحي التابعة للإدارة المركزية من حدائق الحيوان.",
+            "location":"جابر | سموحة, oppositie إلى مستشفى سموحة, الاسكندرية 21599, مصر",
+            "location_map":{"lang":"31.2046862","late":"29.9448896"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F28.jpg?alt=media&token=c00d5608-8bc8-47ee-9fad-3c6b297d66db"
+            },
+            {
+            "id":29,
+            "name":"Antoniades حديقة",
+            "description":"الحديقة النباتية في الإسكندرية.",
+            "location":"Albeirt ش أوال ش. | سموحة, الاسكندرية 21599, مصر",
+            "location_map":{"lang":"31.2057545","late":"29.9480771"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F29.jpg?alt=media&token=2cb86809-c6d5-4935-9c17-8176ac92fbe8"
+            },
+            {
+            "id":30,
+            "name":"متحف محمود سعيد",
+            "description":"متحف الفن في الإسكندرية.",
+            "location":"6 ش محمد باشا متفرع من ش جناكليس, الاسكندرية 21599, مصر",
+            "location_map":{"lang":"31.2442616","late":"29.9700121"},
+            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F30.jpg?alt=media&token=9aaa0534-42f0-4c68-b862-4b8dcc5efd90"
+            }
+    ],
+
+
+    "luxor_tourist_places":
+    [
+        {"id":1,"name":"وادي الملوك","description":"هذه الصحراء وادي يحتوي على القديمة دفن العديد الفراعنة المصريين. من بين أكثر من 60 المقابر الملكية الشهيرة مقبرة توت عنخ آمون التي تم العثور عليها في حالة البكر.","location":"مدينة الأقصر, الأقصر 85511, مصر","location_map":{"lang":"25.7402232","late":"32.6015588"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_places_pic%2F1.jpg?alt=media&token=40fa6c3e-ac33-425e-8298-766a0750ad4e"},
+        {"id":2,"name":"معبد الكرنك","description":"هو مجموعة من المعابد والمباني والأعمدة ، كما توسع البناء استمر من العصر الفرعوني ، وعلى وجه التحديد وسط المملكة الملوك حتى العصر الروماني في مدينة الأقصر في مصر على الساحل الشرقي.","location":"الكرنك, الأقصر, مصر","location_map":{"lang":"25.7186444","late":"32.6582319"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_places_pic%2F2.jpg?alt=media&token=253ee94b-bbb4-4202-ac69-81abfcdd3202"},
+        {"id":3,"name":"معبد الأقصر","description":"معبد بني الطقوس تمارس في أهم المصرية القديمة مهرجان, مهرجان Opet.","location":"الأقصر 23512, مصر","location_map":{"lang":"25.6994633","late":"32.6398609"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_places_pic%2F3.jpg?alt=media&token=7893cc67-f8a8-46f3-8230-6ac7dbb5f7c0"},
+        {"id":4,"name":"متحف الأقصر","description":"المتحف يضم العناصر التي عثر عليها تحت معبد الأقصر ، من قبر الملك توت. أيضا على المعرض هو إعادة تجميعها جدار من معبد آتون.","location":"مركز الكورنيش Ave, الأقصر, مصر","location_map":{"lang":"25.7077099","late":"32.6451714"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_places_pic%2F4.jpg?alt=media&token=605e30e5-968e-4fb9-a3aa-f426b5d3f64b"},
+        {"id":5,"name":"معبد حتشبسوت في الدير الدير البحري","description":"مشرحة معبد مخصص الحاكم أطول من الإناث من مصر القديمة ، الملكة حتشبسوت. ويزين المعبد مع تماثيل أبي الهول ، و النقوش التي أعيدت دقة مع مرور الوقت.","location":"الملوك Valley Rd | دير الدير البحرى بالأقصر 23512, مصر","location_map":{"lang":"25.7372912","late":"32.6082291"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_places_pic%2F5.jpg?alt=media&token=eefb7701-7e45-43a3-8a9e-5371577bcd1d"},
+        {"id":6,"name":"معبد هابو Medinat","description":"وهذا القديمة المعقدة يهيمن ضخمة التذكاري معبد رمسيس الثالث ، على غرار الجنائزية معبد رمسيس الثاني في وramesseum.","location":"آل Bairat, الأقصر, مصر","location_map":{"lang":"25.7193131","late":"32.6024344"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_places_pic%2F6.jpg?alt=media&token=84c55c6a-a3d1-4f42-9255-d574a0cf80ca"},
+        {"id":7,"name":"قبر الملك توت عنخ آمون (توت)","description":"قبر الملك توت اكتشفت في وادي الملوك عام 1922 من قبل هوارد كارتر واللورد كارنارفون.","location":"وادي الملوك, الأقصر, مصر","location_map":{"lang":"25.7403708","late":"32.6035964"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_places_pic%2F7.jpg?alt=media&token=c0e10fe4-6e6c-4f52-a8e7-449935d98182"},
+        {"id":8,"name":"مقبرة الملكة نفرتاري","description":"المعالم السياحية والمعالم.","location":"الأقصر, مصر","location_map":{"lang":"25.7285836","late":"32.5951106"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_places_pic%2F8.jpg?alt=media&token=83be9217-5db8-436a-a204-a764fce0a0a2"},
+        {"id":9,"name":"قبر رمسيس السادس","description":"الميزة الرئيسية لهذا الضريح الذي تم بناؤه في الأصل على رمسيس الخامس و توسيع رمسيس السادس خلال 20 أسرة ، المقبب الفلكية السقف مع صورة مزدوجة من آلهة الجوز ابتلاع الشمس.","location":"وادي الملوك | West Bank, الأقصر, مصر","location_map":{"lang":"25.7394488","late":"32.6033962"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_places_pic%2F9.jpg?alt=media&token=c4216f4d-33fa-40e6-af54-40121d4fae39"},
+        {"id":10,"name":"الكرنك متحف في الهواء الطلق","description":"المتاحف متحف التاريخ.","location":"داخل جدران معبد الكرنك, الأقصر, مصر","location_map":{"lang":"25.7188636","late":"32.657855"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_places_pic%2F10.jpg?alt=media&token=ab689adc-c85a-4582-bdcc-3fb13a7d5172"}
+    ],
+    "aswan_tourist_places":
+    [
+        {"id":1,"name":"معبد فيلة","description":"هذا كبير مجمع المعبد ، نقل إلى جزيرة Agilika مع بناء السد العالي في أسوان الميزات الرائعة معبد إيزيس التي بنيت في أواخر البطلمي الروماني المبكر فترات.","location":"جزيرة Agilika, أسوان, مصر","location_map":{"lang":"24.0123737","late":"32.8802772"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_places_pic%2F1.jpg?alt=media&token=46f455f0-ad0c-4137-9d28-1d233c6dca98"},
+        {"id":2,"name":"المتحف النوبي","description":"هذا المتحف يتتبع التاريخ من أقدم المستوطنات إلى يومنا هذا من النوبة ، المنطقة بأنها المنطقة الواقعة بين أسوان في مصر والخرطوم في السودان.","location":"Assuan, Sheyakhah الأولى ، قسم أسوان, أسوان, مصر","location_map":{"lang":"24.0793171","late":"32.8899045"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_places_pic%2F2.jpg?alt=media&token=12c331b2-ed1e-46d5-be5d-25f67e01e377"},
+        {"id":3,"name":"القرية النوبية","description":"المعالم السياحية والمعالم والمواقع التاريخية","location":"أسوان, مصر","location_map":{"lang":"24.0612433","late":"32.8650158"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_places_pic%2F3.jpg?alt=media&token=c6c68dab-b61d-467e-bc97-89c2771aced8"},
+        {"id":4,"name":"جزيرة الفنتين","description":"هذه الجزيرة هو أقدم جزء من أسوان بمثابة عبادة مدينة رام برئاسة الله Khnum في العصور القديمة.","location":"عبر النيل من أسوان | جزأين إلى هذه الجزيرة, أسوان, مصر","location_map":{"lang":"24.0829406","late":"32.885114"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_places_pic%2F4.jpg?alt=media&token=de379e8f-fcd0-4ba2-a359-d05af95217eb"},
+        {"id":5,"name":"الحيوانية","description":"وسط معلومات عن الحياة في النوبة(الطبيعة والثقافة)وهو العرقي البيولوجي المتحف الذي يتكون من ثلاثة parts1 التقليدية النوبية البيت 2 - متحف يعرض الحيوانات في النوبة(الحيوانات,الزواحف,الطيور,الأسماك,الحشرات المحنطة)","location":"جزيرة الفنتين | في وسط منطقة زراعية بجوار المدرسة الإعدادية قرية, أسوان, مصر","location_map":{"lang":"24.0895585","late":"32.8889249"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_places_pic%2F5.jpg?alt=media&token=411214bd-17de-4da9-904f-c0b5ea93da7b"},
+        {"id":6,"name":"سوق أسوان","description":"هذا سوق في الهواء الطلق هو سمة أساسية من أسوان, مصر أقصى جنوب المدينة.","location":"أسوان, مصر","location_map":{"lang":"24.097741","late":"32.9027723"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_places_pic%2F6.jpg?alt=media&token=06c0a0ea-d5bf-42c8-8085-eec18c12e8ec"},
+        {"id":7,"name":"سد أسوان العالي","description":"توريد المياه والكهرباء إلى كل من مصر ، هذا مثير للإعجاب اثنين ميل السد كان 1960s الفذ الهندسة.","location":"Manteqet حزينة آل العالي, أسوان, مصر","location_map":{"lang":"23.970883","late":"32.8783642"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_places_pic%2F7.jpg?alt=media&token=0083514c-5f2b-4a9f-9a98-ad454d954b2a"},
+        {"id":8,"name":"المسلة غير المكتملة","description":"هذا العملاق أنصاف المسلة التي يرجع تاريخها من المملكة الجديدة سيكون لها وزن مذهل 1,197 طن إذا اكتمل.","location":"Sheyakhah الأولى, أسوان, مصر","location_map":{"lang":"24.0769049","late":"32.8959489"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_places_pic%2F8.jpg?alt=media&token=e65d5fc2-a839-48a8-96f3-f90a627df67e"},
+        {"id":9,"name":"الحديقة النباتية بأسوان","description":"الطبيعة والحدائق","location":"Sheyakhah الأولى, أسوان, مصر","location_map":{"lang":"24.093748","late":"32.8874442"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_places_pic%2F9.jpg?alt=media&token=949ed587-9bdc-4ce5-8f0b-5e01eb6c1f25"},
+        {"id":10,"name":"دير القديس سمعان","description":"مشاهد & المعالم والآثار القديمة","location":"أسوان, مصر","location_map":{"lang":"24.0945453","late":"32.8765655"},"photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_places_pic%2F10.jpg?alt=media&token=e948cc26-d815-42ef-b01a-4de610708df0"}
+    ]
+
+}

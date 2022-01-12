@@ -1,0 +1,2835 @@
+{
+    "egyptian_museum_artifacts":
+        [
+            {
+                "id":1,
+                "name":"نعش السلالات المبكرة",
+                "description":"كانت توابيت عصر الأسرات المبكرة مخصصة للدفن المتعاقد مع الجسد في وضع الجنين. تم حفر هذا التابوت في كفر طرخان بالقرب من الفيوم بواسطة السير و. بيتري",
+                "date":"3050-2663 BCE",
+                "culture":"مصري",
+                "period":"الأسرات المبكرة",
+                "place of origin":"مقبرة كفر ترخم",
+                "type of object":"نعش جنائزي المملكة القديمة",
+                "dimension details":"59.5 X88.7 X 44.9 CM",
+                "material":"خشب",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F1.jpg?alt=media&token=122142c8-de21-4b58-8e79-94ce8b97e155"
+            },
+
+            {
+                "id":2,
+                "name":"Ishtar",
+                "description":"Ishtar is the goddess of love, war, beauty, and sacrifice in wars in Mesopotamia civilizations. The Sumerians called her the Queen of Paradise, and her temple was located in the city of Warka, which is the morning and evening star.",
+                "date":"2500 BCE",
+                "culture":"Mesopotamian",
+                "period":"Early Dynastic",
+                "place of origin":"LARSA",
+                "type of object":"Sumerian",
+                "dimension details":"9.5 X 4.2 X 2.4 CM",
+                "material":"Not Avaliable",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F2.jpg?alt=media&token=e60ee259-ba10-4d1d-a22f-788b346c4b90"
+            },
+
+            {
+                "id":3,
+                "name":"Disure Coffin",
+                "description":"Red/ Black/ Yellow/ White.very Early 18th Dynasty Coffin. Translation by: DAVID P SILVERMAN, 7 DEC 1988",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary",
+                "dimension details":"197 X 51 X 59 CMS",
+                "material":"Wood",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F3.jpg?alt=media&token=063169e5-225a-438d-a381-d8334aabac01"
+            },
+
+            {
+                "id":4,
+                "name":"Akhnaton Prayer Relief Fragment",
+                "description":"This polychrome fragment of a column depicts Akhnaton offering incense to his sole god, the Aton, and being blessed by the hieroglyph for “life” in return. The cartouches indicate that this column dates to early in Akhnaton's reign, no later than year nine.",
+                "date":"1350-1341 BCE",
+                "culture":"Egyptian",
+                "period":"Amarna",
+                "place of origin":"TEL-EL-AMARNA",
+                "type of object":"Epigraphy Architecture New Kingdom",
+                "dimension details":"23.2 X 34.3 X 5 CMS",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F4.jpg?alt=media&token=0885c4ca-aea9-4827-8737-4ab604aec3fc"
+            },
+
+            {
+                "id":5,
+                "name":"Coffin Fragment",
+                "description":"S Note - Wearing a Long Wig with Hands Crossed Over the Chest.",
+                "date":"PRE 1800 BCE",
+                "culture":"Egyptian",
+                "period":"Early Dynastic",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary",
+                "dimension details":"53.2 X 43.4 X17.5 CM",
+                "material":"Terracotta",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F5.jpg?alt=media&token=fcfcd066-872f-4563-ab39-f8f04b7678b5"
+            },
+
+            {
+                "id":6,
+                "name":"Contract Tablet Fragment",
+                "description":"Not Avaliable",
+                "date":"2350 BCE",
+                "culture":"Mesopotamian",
+                "period":"Early Dynastic",
+                "place of origin":"DREHEM OR JOKHA",
+                "type of object":"Sumerian",
+                "dimension details":"3.9 X 3.7 X 1.9 CM",
+                "material":"Clay",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F6.jpg?alt=media&token=134c2a17-ff7d-4c00-b23f-6390c601e69a"
+            },
+
+            {
+                "id":7,
+                "name":"Contract Tablet Fragment",
+                "description":"Not Avaliable",
+                "date":"2350 BCE",
+                "culture":"Mesopotamian",
+                "period":"Early Dynastic",
+                "place of origin":"DREHEM OR JOKHA",
+                "type of object":"Sumerian",
+                "dimension details":"4.6 X 4.0 X 1.4 CM",
+                "material":"Clay",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F7.jpg?alt=media&token=25638422-52ac-4042-a075-6f62597ed391"
+            },
+
+            {
+                "id":8,
+                "name":"Pot",
+                "description":"Early Assyrian from the ruins of Asshur, the First Assyrian Capital. The pot was built up by hand and not formed on a potter's wheel. Not Far From 2000 BCEE.",
+                "date":"2000 BCE",
+                "culture":"Mesopotamian",
+                "period":"Old Assyrian",
+                "place of origin":"ASSHUR, 1ST ASSYRIAN CAPITAL",
+                "type of object":"Assyrian",
+                "dimension details":"6.2 X 6.2 X 4.1 CM",
+                "material":"Terracotta",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F8.jpg?alt=media&token=2be0082f-15bc-4be4-ba81-430b67d1a5af"
+            },
+
+            {
+                "id":9,
+                "name":"Contract Tablet Fragment",
+                "description":"Not Avaliable",
+                "date":"2350 BCE",
+                "culture":"Mesopotamian",
+                "period":"Early Dynastic",
+                "place of origin":"DREHEM OR JOKHA",
+                "type of object":"Sumerian",
+                "dimension details":"5.9 X 4.4 X 2.0 CM",
+                "material":"Clay",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F9.jpg?alt=media&token=c762edb0-0909-4b39-aedd-e0f172c79e7c"
+            },
+
+            {
+                "id":10,
+                "name":"Wine Jar with Two Handles",
+                "description":"H-53.4",
+                "date":"4000-3050 BCE",
+                "culture":"Egyptian",
+                "period":"Early Dynastic",
+                "place of origin":"Not Avaliable",
+                "type of object":"Vessels",
+                "dimension details":"53.4 X 31.6 X25.4 CM",
+                "material":"Clay",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F10.jpg?alt=media&token=69bcd9b3-8229-48f6-bd05-37136089b024"
+            },
+
+            {
+                "id":11,
+                "name":"Vase",
+                "description":"Brown",
+                "date":"2780 BCE",
+                "culture":"Egyptian",
+                "period":"Old Kingdom",
+                "place of origin":"BEIT-KHALLAF, NEAR ABYDOS",
+                "type of object":"Vessels",
+                "dimension details":"15.3 X 10.1 CMS",
+                "material":"Banded Calcite",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F11.jpg?alt=media&token=7b531893-9a60-4ae6-b32f-f109500fdfb0"
+            },
+
+            {
+                "id":12,
+                "name":"Vessel",
+                "description":"Light Peach/ Off-White",
+                "date":"2720 BCE",
+                "culture":"Egyptian",
+                "period":"Old Kingdom",
+                "place of origin":"EL MAHASNA, UPPER EGYPT",
+                "type of object":"Vessels",
+                "dimension details":"7 X 5.9 CMS",
+                "material":"Banded Calcite",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F12.jpg?alt=media&token=ee760b7d-de7d-41cb-855d-b27b5346adaa"
+            },
+
+            {
+                "id":13,
+                "name":"Bowl",
+                "description":"H-8",
+                "date":"2524-2400 BCE",
+                "culture":"Egyptian",
+                "period":"Old Kingdom",
+                "place of origin":"ABUSIR",
+                "type of object":"Vessels",
+                "dimension details":"8 X 20.8 CMS",
+                "material":"Stone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F13.jpg?alt=media&token=b7518aa2-2ae6-46ca-b981-f980d153e385"
+            },
+
+            {
+                "id":14,
+                "name":"Cat Mummy",
+                "description":"Black/ Brown Text by: David P. Silverman",
+                "date":"2630-2524 BCE",
+                "culture":"Egyptian",
+                "period":"Old Kingdom",
+                "place of origin":"BENI HASAN",
+                "type of object":"Funerary",
+                "dimension details":"19 X 4.5 X 5 CMS",
+                "material":"Animal Remains/ Linen",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F14.jpg?alt=media&token=7ae743cb-2bf0-4002-847a-7ee7a0564370"
+            },
+
+            {
+                "id":15,
+                "name":"Offering Table",
+                "description":"H-9.9 Translation by: MAX GUILMOT, 5 SEP 1959",
+                "date":"2524-2400 BCE",
+                "culture":"Egyptian",
+                "period":"Old Kingdom",
+                "place of origin":"ABU-GORAB",
+                "type of object":"Ritual Objects",
+                "dimension details":"9.9 X 36.8 X 26.9 CM",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F15.jpg?alt=media&token=c27c2357-4baf-4ffe-93da-c2ba5238d4f7"
+            },
+
+            {
+                "id":16,
+                "name":"Headrest",
+                "description":"Brown",
+                "date":"2705-2250 BCE",
+                "culture":"Egyptian",
+                "period":"Old Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Furniture",
+                "dimension details":"18.5 X 18.2 X 6.5 CM",
+                "material":"Wood",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F16.jpg?alt=media&token=2ce6b760-7774-4dc3-92de-95da43427e26"
+            },
+
+            {
+                "id":17,
+                "name":"Swimming Cattle Relief",
+                "description":"This swimming cattle relief dates from the First Intermediate Period and is made of limestone. This peiod was a time of political collapse in Egypt as a result of the low inundation of the Nile caused by a drought in central Africa.",
+                "date":"2195-2066 BCE",
+                "culture":"Egyptian",
+                "period":"Old Kingdom",
+                "place of origin":"IHNASYA-EL-MEDINA (METRAHINA)",
+                "type of object":"Epigraphy",
+                "dimension details":"21.7 X 19.2 X 2.5 CM",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F17.jpg?alt=media&token=adac659c-df29-415e-87dd-0c08e5b49a06"
+            },
+
+            {
+                "id":18,
+                "name":"Offering Door of Henuti",
+                "description":"Offering doors were the altars of the tombs, a place for the family to deliver funerary offerings to the deceased. This door is dedicated to the Lady Henuti, whose titles are not listed. The image of the lady appears to have been changed in antiquity,",
+                "date":"Dynasty 5",
+                "culture":"Egyptian",
+                "period":"Old Kingdom",
+                "place of origin":"TOMB OF HENUT [A FEMALE]",
+                "type of object":"Funerary Architecture Funerary Ritual Objects/ Scul Sculpture Old Kingdom",
+                "dimension details":"77.5 X 43 X 16 CM",
+                "material":"limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F18.jpg?alt=media&token=3d9e8f51-0d1c-4561-bc44-9df57d6206e7"
+            },
+
+            {
+                "id":19,
+                "name":"Shedy-Ptah Relief Fragment",
+                "description":"H-27.1 Translation by: MAX GUILMOT, 21 JUNE 1967/ N.Strudwick, JEA, v.71, 1985",
+                "date":"2400-2250 BCE",
+                "culture":"Egyptian",
+                "period":"Old Kingdom",
+                "place of origin":"SAKKARA",
+                "type of object":"Sculpture",
+                "dimension details":"27.1 X 62 X ? CMS",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F19.jpg?alt=media&token=719d3d92-edef-4a11-859f-846deab71c4e"
+            },
+
+            {
+                "id":20,
+                "name":"Weny Fragment",
+                "description":"H-27.5 Translation by: GRANT SCHAR, ASST CURATOR, MARCH 1988",
+                "date":"2400-2250 BCE",
+                "culture":"Egyptian",
+                "period":"Old Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Ritual Objects",
+                "dimension details":"27.5 X 95.7 X ? CMS",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F20.jpg?alt=media&token=617f2502-8b07-4b95-b86e-f3f2ac8a8920"
+            }
+        ],
+        "coptic_museum_artifacts": 
+        [
+            {
+                "id":21,
+                "name":"Headrest",
+                "description":"Headrests were known in Egypt since the Old Kingdom. They are normally composed of a flat rectangular base, a central shaft, and a curved neck support. The headrest sometimes contains a spell to preserve and support the head.",
+                "date":"2061-1784 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"SAKKARA",
+                "type of object":"Furniture",
+                "dimension details":"17.9 X 21.4 X 8 CMS",
+                "material":"Wood",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F21.jpg?alt=media&token=9d46a263-b30b-4122-a9b0-59c077b1c121"
+            },
+
+            {
+                "id":22,
+                "name":"Jar",
+                "description":"Light Brown/ Off-White",
+                "date":"2686-2181 BCE",
+                "culture":"Egyptian",
+                "period":"Old Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Vessels",
+                "dimension details":"6.5 X 7.4 X 6.2 CMS",
+                "material":"Calcite",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F22.jpg?alt=media&token=f029b640-59e4-4951-9818-57946d0ae205"
+            },
+
+            {
+                "id":23,
+                "name":"Spoon",
+                "description":"Light Brown/ Dark Brown",
+                "date":"2686-2181 BCE",
+                "culture":"Egyptian",
+                "period":"Old Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Vessels",
+                "dimension details":"15 X 8.3 X 2.8 CMS",
+                "material":"Banded Calcite",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F23.jpg?alt=media&token=b24b01d9-b618-4f47-8fab-a03f796a2c57"
+            },
+
+            {
+                "id":24,
+                "name":"Faience Tiles",
+                "description":"These tiles are from the Djoser pyramid complex. They date from the Third Dynasty and are made of faience. They were excavated from the ruins of the step pyramid's subterranean structures. The walls were lined with them in imitation of the matting that covered the walls of the royal residence during the Third Dynasty.",
+                "date":"2663-2195 BCE",
+                "culture":"Egyptian",
+                "period":"Old Kingdom",
+                "place of origin":"SAKKARA",
+                "type of object":"Architecture",
+                "dimension details":"5.9 X 3.5 X 1.7 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F24.jpg?alt=media&token=c6558733-5af9-49e9-ab89-a0a9ab93f1d2"
+            },
+
+            {
+                "id":25,
+                "name":"Tile",
+                "description":"Turquoise",
+                "date":"2620-2600 BCE",
+                "culture":"Egyptian",
+                "period":"Old Kingdom",
+                "place of origin":"SAKKARA",
+                "type of object":"Not Avaliable",
+                "dimension details":"5.9 X 3.5 X 1.7 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F25.jpg?alt=media&token=73167aa0-a8a8-4025-9692-70375faf9c57"
+            },
+
+            {
+                "id":26,
+                "name":"Relief Fragment",
+                "description":"Carved in sunk relief with the figure of a lady facing left and wearing a broad collar and shoulder straps, three lines of inscription above.",
+                "date":"2524-2250 BCE",
+                "culture":"Egyptian",
+                "period":"Old Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Epigraphy",
+                "dimension details":"Not Avaliable",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F26.jpg?alt=media&token=1386d5ce-e475-4d9b-a07c-3d6250452bf0"
+            },
+
+            {
+                "id":27,
+                "name":"Iry and Meru Stele Fragment",
+                "description":"Grey/ Light Brown",
+                "date":"2290-2150 BCE",
+                "culture":"Egyptian",
+                "period":"1st Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary",
+                "dimension details":"48.9 X 68.1 X 4.9 CM",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F27.jpg?alt=media&token=068aced4-daf8-4662-afab-3a71018f68a4"
+            },
+
+            {
+                "id":28,
+                "name":"Husband and Wife Relief Frag",
+                "description":"Red/Brown/Cream/Dark Brown, White",
+                "date":"2250-2035 BCE",
+                "culture":"Egyptian",
+                "period":"1st Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Epigraphy",
+                "dimension details":"48.2 X 45.9 X 4.5 CM",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F28.jpg?alt=media&token=c35ee3c3-59c5-42b5-8f2f-225cf878db29"
+            },
+
+            {
+                "id":29,
+                "name":"Offering Tray",
+                "description":"H-4.8",
+                "date":"2250-2035 BCE",
+                "culture":"Egyptian",
+                "period":"1st Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Ritual Objects",
+                "dimension details":"4.8 X 26.4 X 27.5 CM",
+                "material":"Terracotta",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F29.jpg?alt=media&token=b17dea08-9898-4cbc-a0b6-c481a2d75a86"
+            },
+
+            {
+                "id":30,
+                "name":"Husband and Wife",
+                "description":"Husband and wife are portrayed in an intimate pose on this unusual relief from the First Intermediate Period. The wife is indentified as Senet, the wife whom he loves, emphasizing both the importance of women in this period and personal affection.",
+                "date":"First Intermediate Period",
+                "culture":"Egyptian",
+                "period":"1st Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Epigraphy",
+                "dimension details":"46.8 X 62.1 X 5.7 CM",
+                "material":"limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F30.jpg?alt=media&token=28c90f1c-94b0-4f4e-9e9d-782d9b1ed280"
+            }
+        ],
+        "museum_islamic_arts_artifacts":
+        [
+            {
+                "id":31,
+                "name":"Bell",
+                "description":"Green",
+                "date":"2,000 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"THEBES",
+                "type of object":"Musical Instruments",
+                "dimension details":"6.5 X 4.2 CMS",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F31.jpg?alt=media&token=b9885c05-4a66-43af-8a7b-fd8b0245b49f"
+            },
+
+            {
+                "id":32,
+                "name":"Kohl Grinding Pallet",
+                "description":"Pallet for grinding found by the side of Mentuhotep's temple, Thebes, Upper Egypt. White/ Orange/ Brown/ Tan",
+                "date":"2100 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"MENTUHOTEP'S TEMPLE, THEBES",
+                "type of object":"Toiletries",
+                "dimension details":"1.1 X 8.9 X 5.8 CMS",
+                "material":"Marble",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F32.jpg?alt=media&token=23622ee5-1542-4357-b499-6de66d0a76f9"
+            },
+
+            {
+                "id":33,
+                "name":"Amenemhet Iii Cylinder Seal",
+                "description":"L-2.9 Translation by: David O'Connor, U Penn, March 17, 1989",
+                "date":"1820 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Writing Materials",
+                "dimension details":"2.9 X 1.1 CMS",
+                "material":"Steatite",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F33.jpg?alt=media&token=02e90a39-04be-4561-ad12-15c591742cd2"
+            },
+
+            {
+                "id":34,
+                "name":"Food Offering",
+                "description":"Dia-2.3 Cms",
+                "date":"2061-1784 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary",
+                "dimension details":"2.3 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F34.jpg?alt=media&token=b948c4aa-f78a-4150-a1fd-18abec57c46f"
+            },
+
+            {
+                "id":35,
+                "name":"Spoon Fragment",
+                "description":"Brown/ White",
+                "date":"2134-2061 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toiletries",
+                "dimension details":"19.7 X 6.2 X 0.8 CMS",
+                "material":"Wood/ Plaster",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F35.jpg?alt=media&token=1b8e0682-938d-4a44-8698-6a93afc6aa8e"
+            },
+
+            {
+                "id":36,
+                "name":"Funerary Chest Panel",
+                "description":"White/ Black/ Red/ Brown",
+                "date":"2040-1782 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary",
+                "dimension details":"18.2 X 17.5 X 2.2 CM",
+                "material":"Wood/ Paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F36.jpg?alt=media&token=f9384d77-112a-458f-935a-8dbfc2f1abad"
+            },
+
+            {
+                "id":37,
+                "name":"Boat Model Figure",
+                "description":"Brown/ Rust/ Off-White",
+                "date":"2100-1790 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Sculpture",
+                "dimension details":"12.9 X 2.9 X 1.9 CMS",
+                "material":"Wood/ Paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F37.jpg?alt=media&token=b4ecbdd0-2a14-4c6c-9fd7-e702eb2ca137"
+            },
+
+            {
+                "id":38,
+                "name":"Kohl Jar",
+                "description":"Not Avaliable",
+                "date":"1991-1784 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"QURNEH",
+                "type of object":"Toiletries",
+                "dimension details":"4.5 X 4.5 CMS",
+                "material":"Gray Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F38.jpg?alt=media&token=5a73d76f-6ddf-42dc-b3dc-9ceb35019a3d"
+            },
+
+            {
+                "id":39,
+                "name":"Senebi the Overseer",
+                "description":"The ka was believed to need an alternative home in case of damage to the body. Images such as this one were made as a focus for the ka of the deceased, who is an overseer named Senebi.",
+                "date":"Middle Kingdom",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"THEBES",
+                "type of object":"Funerary",
+                "dimension details":"29.7 X 6 X 12.7 CMS",
+                "material":"wood, pigment",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F39.jpg?alt=media&token=ad12ecbe-0420-4b84-8f66-2b1538e6afeb"
+            },
+
+            {
+                "id":40,
+                "name":"Tomb Figure",
+                "description":"Light Brown/ White",
+                "date":"2134-1785 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary",
+                "dimension details":"31.8 X 7.8 X 4.7 CMS",
+                "material":"Wood",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F40.jpg?alt=media&token=02b16589-202d-4b60-b683-8d1b5dade485"
+            }
+        ],
+            "manial_palace_museum_artifacts":
+        [
+            {
+                "id":41,
+                "name":"Gecko on Case",
+                "description":"H-1.3",
+                "date":"1991-1782 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Sculpture",
+                "dimension details":"1.3 X 1.7 X 4.3 CMS",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F41.jpg?alt=media&token=47cee83d-75b5-4560-9b69-1f7bb84c202c"
+            },
+
+            {
+                "id":42,
+                "name":"Offering Scene Relief Fragment",
+                "description":"H-28.1",
+                "date":"1991-1782 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Epigraphy",
+                "dimension details":"28.1 X 39.3 X 3.8 CM",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F42.jpg?alt=media&token=e499eefa-aa4b-4b8c-934a-4e1ffbcf6de5"
+            },
+
+            {
+                "id":43,
+                "name":"Headrest",
+                "description":"Brown/ Black",
+                "date":"2133-1786 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Furniture",
+                "dimension details":"34.5 X 18 X 7 CMS",
+                "material":"Wood",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F43.jpg?alt=media&token=bc34f40e-7c72-43d6-80ab-165884dcf8ae"
+            },
+
+            {
+                "id":44,
+                "name":"Inspector of the Works Model",
+                "description":"Red/ Black",
+                "date":"2,000 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary",
+                "dimension details":"29.4 X 6.8 X 14.8 CM",
+                "material":"Wood/ Paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F44.jpg?alt=media&token=8f207127-43d4-4ee3-bb5e-82bce05a04c0"
+            },
+
+            {
+                "id":45,
+                "name":"Plowing Man Model",
+                "description":"Cattle were useful not only for meat, but also as draft animals. Farming was the primary occupation of the ancient Egyptian population. These small-scale grave goods were gradually collected over the owner's lifetime. Some show signs of having been played with by the children of the home.",
+                "date":"1991-1785 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary Middle Kingdom",
+                "dimension details":"19.7 X 29.5 X 22.1 CM",
+                "material":"wood and paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F45.jpg?alt=media&token=b3da9d8f-2fe2-432c-ba1d-ab7845dd494f"
+            },
+
+            {
+                "id":46,
+                "name":"Necklace",
+                "description":"Classic Middle Kingdom wesekh collar",
+                "date":"Not Avaliable",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Jewelry",
+                "dimension details":"21.6 X 35 CMS MOUNT",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F46.jpg?alt=media&token=3e6f290c-cd91-4836-8b93-fdfb91c9787c"
+            },
+
+            {
+                "id":47,
+                "name":"Battle Axe",
+                "description":"Dark Brown/ Brown/ Light Brown/ White",
+                "date":"2061-1784 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Tools",
+                "dimension details":"118 X 10.5 X 4.2 CMS",
+                "material":"Wood/ Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F47.jpg?alt=media&token=f31d8647-b7e7-41b6-b36e-dffb4f3c8c2d"
+            },
+
+            {
+                "id":48,
+                "name":"Boat Model",
+                "description":"Beige/Grey-White with Blue, Black, Red Oxide, and White Paint",
+                "date":"1991-1784 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"ASSUIT",
+                "type of object":"Funerary",
+                "dimension details":"32.1 X 119.4X15.4 CM",
+                "material":"Cedar Wood/ Paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F48.jpg?alt=media&token=6712a6a6-1a5c-4b00-a670-2687057386b9"
+            },
+
+            {
+                "id":49,
+                "name":"Meshet Coffin",
+                "description":"L-179.1 Her name means female crocodile. coffin matches that in the Brooklyn collection, Asyut",
+                "date":"2040-1782 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Asyut",
+                "type of object":"Funerary Coffin Middle Kingdom",
+                "dimension details":"179.1 X 43 X 43.2 CM",
+                "material":"Wood/ Plaster/ Paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F49.jpg?alt=media&token=d7d5fbd3-4cdb-4509-840a-80ee1d7be6a9"
+            },
+
+            {
+                "id":50,
+                "name":"Mirror/ Papyrus Shaped Handle",
+                "description":"Green/ Black An unusually well preserved hand mirror. Its handle is shaped like the open papyrus plant. When not in use, it was kept in a leather case to keep it bright.",
+                "date":"2061-1784 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toiletries",
+                "dimension details":"24.5 X 13.2 X 1.6 CM",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F50.jpg?alt=media&token=040f7016-ac78-4504-91ff-f85a28898364"
+            }
+        ],
+        "barque_solaire_museum_artifacts":
+        [
+            {
+                "id":51,
+                "name":"Offering Table",
+                "description":"Brown/ Beige. Top Center Square Carved in Shallow Relief. Contains a Bell-Shaped Figure Above and a Leg of Beef Below, Flanked By Loaves of Bread and Libation Vases. Bands of Glyphs in Sunk Relief Run Around Border. Four Distinct Bands",
+                "date":"1994-1781 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Not Avaliable",
+                "dimension details":"33 X 39.7 X 4.5 CM",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F51.jpg?alt=media&token=ded790cd-4aa4-441e-9a0f-a06a2426d064"
+            },
+
+            {
+                "id":52,
+                "name":"Shawabti Box with Lid",
+                "description":"The Shemyat, or Chantress, of Amun-Re, Djed-Ma'at-Ius-Ankh, was the owner of this box made for her collection of shabtis, or worker images, in her tomb.",
+                "date":"2134-1784 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Ritual Objects",
+                "dimension details":"32.7 X 38.8 X 17 CMS",
+                "material":"Wood/ Bitumen/ Paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F52.jpg?alt=media&token=570c0054-a50f-4a35-bb1e-df44c98ad869"
+            },
+
+            {
+                "id":53,
+                "name":"Boat Model Figure",
+                "description":"Seated Figure",
+                "date":"2100-1790 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Sculpture",
+                "dimension details":"19 X 5.7 X 5.8 CMS",
+                "material":"Wood/ Paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F53.jpg?alt=media&token=a6d247f8-f1e2-46ec-9ad6-f2d976f72adb"
+            },
+
+            {
+                "id":54,
+                "name":"Boat Model Figure",
+                "description":"Red/ Black",
+                "date":"2100-1790 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Sculpture",
+                "dimension details":"16.8 X 5.2 X 5.5 CMS",
+                "material":"Wood/ Paint/ Linen",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F54.jpg?alt=media&token=bee0350d-3ebb-4a13-be12-78014ce92798"
+            },
+
+            {
+                "id":55,
+                "name":"Boat Model Figure",
+                "description":"White/ Black",
+                "date":"2100-1790 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Sculpture",
+                "dimension details":"12.7 X 4.8 X 4.7 CMS",
+                "material":"Wood/ Paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F55.jpg?alt=media&token=514dc295-fd91-4b8e-a717-c15a2cc52c76"
+            },
+
+            {
+                "id":56,
+                "name":"Axe Head/ Circular",
+                "description":"Green/ Brown/ Light Brown",
+                "date":"2040-1782 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Tools",
+                "dimension details":"10.5 X 11.1 X 0.7 CM",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F56.jpg?alt=media&token=ec686d0b-303e-4630-ae8e-f6b49b6a7e29"
+            },
+
+            {
+                "id":57,
+                "name":"Funerary Boat",
+                "description":"This funerary boat was made to fulfill a pilgrimage in the Afterlife; the need to visit Abydos, the holy place in Egypt where the god Osiris was believed to have been entombed. This boat includes the coffin of the deceased and even the mourning wife, acting out the role of Isis.",
+                "date":"2066-1650 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"MEIR",
+                "type of object":"Sculpture Funerary Middle Kingdom",
+                "dimension details":"36.1 X 54.7 X13.8 CM",
+                "material":"wood, pigment",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F57.jpg?alt=media&token=e4239014-bda7-45aa-8ca7-efb1c7276e7e"
+            },
+
+            {
+                "id":58,
+                "name":"Brewery Tomb Model",
+                "description":"Beer was one of the staples of the ancient Egyptian diet and was a necessity for the Afterlife, as well. Tomb models such as this were as good as having live workers in the Afterlife. This model was included in a tomb to provide perpetual beer for the tomb owners.",
+                "date":"2066-1650 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"MEIR",
+                "type of object":"Funerary Middle Kingdom",
+                "dimension details":"25.7 X 51.5 X21.3 CM",
+                "material":"Wood/ Paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F58.jpg?alt=media&token=f9ef576c-cea5-4965-978e-b366ce5522c9"
+            },
+
+            {
+                "id":59,
+                "name":"Boat Model",
+                "description":"Brown/ Black/ Ocre/ Yellow/ Grey",
+                "date":"2061-1991 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"MEIR",
+                "type of object":"Sculpture",
+                "dimension details":"42.4 X 96 X 44.4 CMS",
+                "material":"Wood/ Linen/ Rope/ Paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F59.jpg?alt=media&token=95a2937f-b2f3-44a4-965a-31dfbe9805b4"
+            },
+
+            {
+                "id":60,
+                "name":"Boat Model",
+                "description":"Grey/ Black/ Green/ Blue/ Red/ Yellow/ Brown/ Rust/ White",
+                "date":"1991-1784 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"MEIR",
+                "type of object":"Sculpture",
+                "dimension details":"55.3 X 90.1 X27.7 CM",
+                "material":"Wood/ Twine/ Linen/ Paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F60.jpg?alt=media&token=684abd22-23de-4636-bc20-11482ee5010f"
+            }
+        ],
+        "abdeen_palace_museum_artifacts":
+        [
+            {
+                "id":61,
+                "name":"Shawabti",
+                "description":"Brown/ Black/ Off-White/ Red/ Gold",
+                "date":"2134-1784 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Ritual Objects",
+                "dimension details":"27.4 X 6.8 X 6.4 CMS",
+                "material":"Wood/ Paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F61.jpg?alt=media&token=039a6462-bf50-433f-8a7d-601c2fc8ed75"
+            },
+
+            {
+                "id":62,
+                "name":"Granary Model",
+                "description":"Granaries were required in the Afterlife, to assure an endless supply of grain, and models such as this one filled the need. It even includes a scribe to record the amount of grain placed in the granary, to ensure that no theft occurred.",
+                "date":"Dynasty 11",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"EL-BERSHEH",
+                "type of object":"Sculpture",
+                "dimension details":"19.7 X 22.8 X 33 CMS",
+                "material":"wood, pigment",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F62.jpg?alt=media&token=180ed69b-46b5-4b37-89e8-a00c120a4333"
+            },
+
+            {
+                "id":63,
+                "name":"Necklace",
+                "description":"Green/ Blue/ Blue-Green/ Yellow",
+                "date":"1991-1784 BCE",
+                "culture":"Egyptian",
+                "period":"Middle Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Jewelry",
+                "dimension details":"24.6 X 36.2 CM MOUNT",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F63.jpg?alt=media&token=89d336c6-2a2c-49a8-97a4-55790522dae5"
+            },
+
+            {
+                "id":64,
+                "name":"Mirror/ Without Handle",
+                "description":"Green/ Black",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toiletries",
+                "dimension details":"13.1 X 13.1 X 0.2 CM",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F64.jpg?alt=media&token=d670d8cd-ceb2-436c-b1ec-1fd7a1d7d5d9"
+            },
+
+            {
+                "id":65,
+                "name":"Kohl Jar",
+                "description":"Black/ Green - Mottled Color Small kohl jar used to contain cosmetics to beautify the eyes.",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toiletries",
+                "dimension details":"4.6 X 4.3 CMS",
+                "material":"Serpentine",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F65.jpg?alt=media&token=09b252ae-a163-4ee2-b80b-fa66335288fb"
+            },
+
+            {
+                "id":66,
+                "name":"Lute-Player Ring",
+                "description":"Blue-Green Faience Ring. Egyptian cut-away figures in bezel shows 2 anthropoid forms.Girl playing lute, 18th Dynasty",
+                "date":"Not Avaliable",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Jewelry",
+                "dimension details":"2.3 X 2 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F66.jpg?alt=media&token=7b852128-6e7d-4b7e-bc0b-190c77357ae7"
+            },
+
+            {
+                "id":67,
+                "name":"Battle Axe",
+                "description":"Dark Brown/ Grey/ Light Brown",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"THEBES",
+                "type of object":"Tools",
+                "dimension details":"6 X 11.5 X 0.4 CMS",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F67.jpg?alt=media&token=8b81eedd-6385-451b-9946-32244930bc36"
+            },
+
+            {
+                "id":68,
+                "name":"Seal Amulet",
+                "description":"L-3.3 Translation by:Translation by: David O'Connor, U Penn, March 17, 1989.",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Writing Materials",
+                "dimension details":"3.3 X 2.2 X 1.4 CMS",
+                "material":"Steatite",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F68.jpg?alt=media&token=05565ac7-734e-49d6-bbdd-a726f3130c46"
+            },
+
+            {
+                "id":69,
+                "name":"Hatshepsut Cylinder Seal",
+                "description":"L-2.3 Translation by: David O'Connor, U Penn, March 17, 1989.",
+                "date":"1473-1458 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Writing Materials",
+                "dimension details":"2.3 X 0.5 CMS",
+                "material":"Glazed Steatite/ Metal",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F69.jpg?alt=media&token=6a1a289d-1a1a-4f38-a40a-efa8ae6d26c2"
+            },
+
+            {
+                "id":70,
+                "name":"Pendant Necklace/Double Strand",
+                "description":"Ladder-shaped necklace, made of round varigated beads. The rungs are made of shells. With Pendant.",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Jewelry",
+                "dimension details":"73 CM",
+                "material":"Faience/ Shell/ Carnelian",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F70.jpg?alt=media&token=aec02bf5-736b-40e1-bebc-44fb8ce65675"
+            }
+        ],
+        "imhotep_museum_artifacts":
+        [
+            {
+                "id":71,
+                "name":"Knife Blade",
+                "description":"Brown/ Green/ Light Green/ White",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Tools",
+                "dimension details":"26.8 X 4.8 X 0.4 CMS",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F71.jpg?alt=media&token=f661ab9f-8ea7-4b50-82a4-caaf575087ee"
+            },
+
+            {
+                "id":72,
+                "name":"Amulet Mold",
+                "description":"Red/ Orange",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Tools",
+                "dimension details":"1.3 X 3.9 X 4.1 CMS",
+                "material":"Clay",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F72.jpg?alt=media&token=c6e03e37-c99f-4a10-abb3-6c9e374d020c"
+            },
+
+            {
+                "id":73,
+                "name":"Bead Network",
+                "description":"Composed of 3,020 Cylindrical Beads, and 725 Round Beads = 3745",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"THEBES",
+                "type of object":"Funerary",
+                "dimension details":"67 X 23.4 CM",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F73.jpg?alt=media&token=fd32d7e1-30ff-4159-b268-14f2c2bd093d"
+            },
+
+            {
+                "id":74,
+                "name":"Mirror/Without Handle",
+                "description":"Brown/ Green",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toiletries",
+                "dimension details":"11.9 X 11.4 X 0.1 CM",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F74.jpg?alt=media&token=7dd3ae00-bc1c-40f4-b93b-a8bf121f07a2"
+            },
+
+            {
+                "id":75,
+                "name":"Seated Osirian Trinity",
+                "description":"H-7.2",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"VALLEY OF THE KINGS",
+                "type of object":"Sculpture",
+                "dimension details":"7.2 X 4.5 X 3 CMS",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F75.jpg?alt=media&token=3133c0e3-0a8b-4fa1-916c-96dc83b7aa7a"
+            },
+
+            {
+                "id":76,
+                "name":"Amenhotep III Kohl Tube",
+                "description":"Tube for eye-paint (kohl) with cartouche of Amenhotep III. Brown. Translation by: David P. Silverman",
+                "date":"1417-1379 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toiletries",
+                "dimension details":"14 X 2.1 CMS",
+                "material":"Wood",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F76.jpg?alt=media&token=5cad4f69-e63f-4a30-bc84-69df5ebf8179"
+            },
+
+            {
+                "id":77,
+                "name":"Mirror with Hathor Head Handle",
+                "description":"Mirror with blade set in handle of grey steatite carved with heads of the goddess Hathor alternating with the ankh, or looped cross, the sign of eternal life. A reflection was a very powerful thing to people of the ancient world, and mirrors were used in religious and magical rituals.",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Toiletries New Kingdom",
+                "type of object":"Not Avaliable",
+                "dimension details":"19.8 X 11 X 2.3 CMS",
+                "material":"Bronze/ Steatite",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F77.jpg?alt=media&token=71588ee3-c806-432a-977b-687d392954a3"
+            },
+
+            {
+                "id":78,
+                "name":"Astragalus",
+                "description":"Clear/ Brown",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toys/Games",
+                "dimension details":"2.2 X 1.3 X 1.3 CMS",
+                "material":"Rock Crystal",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F78.jpg?alt=media&token=d1549e95-ba5b-4cc4-b431-c93931e81a98"
+            },
+
+            {
+                "id":79,
+                "name":"Shawabti",
+                "description":"Pink/ Green/ Red/ Yellow",
+                "date":"1185-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Ritual Objects",
+                "dimension details":"14 X 4.1 X 3.3 CMS",
+                "material":"Terracotta",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F79.jpg?alt=media&token=e20c9be4-f762-452b-8c18-2440c482aa45"
+            },
+
+            {
+                "id":80,
+                "name":"Senet Board",
+                "description":"This senet board dates from the New Kingdom. Senet was the most popular board game for the ancient Egyptians and was played by people from all walks of life. This senet board is made out of cedar and was therefore the property of a moderately wealthy household.",
+                "date":"1549-1069 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toys/Games",
+                "dimension details":"12.6 X 53 X 12.1 CMS",
+                "material":"wood",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F80.jpg?alt=media&token=fb687735-d06a-4bc4-91db-6cc1013fc930"
+            }
+        ],
+        "grand_egyptian_museum_artifacts":
+        [
+            {
+                "id":81,
+                "name":"Faience Shabti",
+                "description":"Shabti of Pa-hws-mst, the Overseer of the Treasury. Faience shabtis became standard and common due to the ease of their mass production, During the Late Period, vast numbers of shabtis were placed in each tomb.",
+                "date":"Dynasty 20",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Ritual Objects",
+                "dimension details":"12.2 X 3.8 X 3.1 CMS",
+                "material":"faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F81.jpg?alt=media&token=197165c1-b41e-4418-b720-160226a8ac8c"
+            },
+
+            {
+                "id":82,
+                "name":"Sandal",
+                "description":"Dark Brown/ Brown",
+                "date":"1570",
+                "culture":"Egyptian",
+                "period":"New Kingdom To Later",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toiletries",
+                "dimension details":"26.7 X 10.7 X 5.3 CM",
+                "material":"Papyrus Stalks",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F82.jpg?alt=media&token=6fed6b47-be37-4436-b82d-1c81a7ae1fe9"
+            },
+
+            {
+                "id":83,
+                "name":"Pitcher/ Vase",
+                "description":"Light Brown/ Off-White",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Vessels",
+                "dimension details":"14.4 X 6.4 X 5.8 CMS",
+                "material":"Banded Calcite",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F83.jpg?alt=media&token=ae660ff6-1543-4139-a176-ec7f8c640de3"
+            },
+
+            {
+                "id":84,
+                "name":"Cup",
+                "description":"Blue/ Brown",
+                "date":"1500 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"LUXOR",
+                "type of object":"Vessels",
+                "dimension details":"7.5 X 11.9 X 8.6 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F84.jpg?alt=media&token=c6fc935f-3f1f-4b7c-ab36-0ca50946ae6b"
+            },
+
+            {
+                "id":85,
+                "name":"Bag",
+                "description":"Brown/ Dark Brown",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Tools",
+                "dimension details":"20.5 X 28.2 X 1.6 CM",
+                "material":"Hemp",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F85.jpg?alt=media&token=fa00747b-b968-4ff7-8cc1-221248e99261"
+            },
+
+            {
+                "id":86,
+                "name":"Sandal",
+                "description":"Brown",
+                "date":"1570",
+                "culture":"Egyptian",
+                "period":"New Kingdom Or Later",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toiletries",
+                "dimension details":"32.1 X 11.8 X 6.3 CM",
+                "material":"Split Papyrus Stalks",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F86.jpg?alt=media&token=12aadebc-26d7-403b-b82c-6c519b97f91d"
+            },
+
+            {
+                "id":87,
+                "name":"Stele",
+                "description":"H-51.4",
+                "date":"1580-1350 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary",
+                "dimension details":"51.4 X 29.4 X 7.9 CM",
+                "material":"Stone/ Monochrome",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F87.jpg?alt=media&token=ba7146e8-2c5a-4f38-9b41-1469a724a640"
+            },
+
+            {
+                "id":88,
+                "name":"Ahnes-Sa-Pa-Iry Stele",
+                "description":"H-17.3 Translation by: MOHAMED SALEH, CAIRO MUSEUM, 18 SEPTEMBER 1979",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary",
+                "dimension details":"17.3 X 12.2 X ? CMS",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F88.jpg?alt=media&token=6b1db97e-b475-4cf2-b787-3bc2897ed11c"
+            },
+
+            {
+                "id":89,
+                "name":"Mirror/ Dancing Girl Handle",
+                "description":"Brown/ Dark Brown Mirror with handle in form of dancing girl supporting a lotus motif.",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toiletries",
+                "dimension details":"20.2 X 12 X 0.9 CMS",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F89.jpg?alt=media&token=4c7cecb6-019f-47d6-ae17-73134787265a"
+            },
+
+            {
+                "id":90,
+                "name":"Standing Sekhmet",
+                "description":"Pharaoh Amenhotep III ordered that up to 730 images of the goddess Sekhmet be created and installed in his mortuary temple to beseech her healing help for his illnesses. The images were later moved to Karnak, and this is presumed to be one of them. In her right hand Sekhmet holds an ankh; in the left, a lotus.",
+                "date":"1390-1352 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Sculpture New Kingdom",
+                "dimension details":"81 X 31.2 X 24.9 CMS",
+                "material":"Gabbro Porphyry",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F90.jpg?alt=media&token=7f65aedc-61cb-46c5-879e-2f36d9388427"
+            }
+        ],
+        "alexandria_national_museum_artifacts":
+        [
+            {
+                "id":91,
+                "name":"Head Rest",
+                "description":"Dark Brown",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Furniture",
+                "dimension details":"20 X 29 X 9 CM",
+                "material":"Wood",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F91.jpg?alt=media&token=be264552-5db3-4f98-a700-852fb7874cb5"
+            },
+
+            {
+                "id":92,
+                "name":"Pharaoh's Offering",
+                "description":"This rare stele is dedicated by the chief of police of the port of Abydos, Hel-Hor, or Hat-Hor, in honor of Osiris and Isis. Translation by: ETIENNE DRIOTON, 10 MAY 1955",
+                "date":"1567-1320 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"ABYDOS",
+                "type of object":"Funerary",
+                "dimension details":"42.7 X 26.2 X ? CMS",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F92.jpg?alt=media&token=e5878277-d4d9-4a43-adc3-db21ee4e64a6"
+            },
+
+            {
+                "id":93,
+                "name":"Canopic Jar",
+                "description":"Rust/ Light Brown/ Brown/ Off-White",
+                "date":"1350-1205 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"TELL EL-AMARNA",
+                "type of object":"Vessels",
+                "dimension details":"33 X 15.3 CM",
+                "material":"Banded Calcite",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F93.jpg?alt=media&token=29a08120-b08c-4e0a-b868-a398d81d26db"
+            },
+
+            {
+                "id":94,
+                "name":"Mummy Box",
+                "description":"White/ Black/ Red/ Green",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary",
+                "dimension details":"13.9 X 16.8 X 6.3 CM",
+                "material":"Wood/ Paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F94.jpg?alt=media&token=0ab23bd8-e473-4a43-be2c-117e756b37e1"
+            },
+
+            {
+                "id":95,
+                "name":"Disure Coffin",
+                "description":"Red/ Black/ Yellow/ White.very Early 18th Dynasty Coffin. Translation by: DAVID P SILVERMAN, 7 DEC 1988",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary",
+                "dimension details":"197 X 51 X 59 CMS",
+                "material":"Wood",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F95.jpg?alt=media&token=7ccde8bd-e232-4264-9cb8-3a928627b7a6"
+            },
+
+            {
+                "id":96,
+                "name":"Cosmetic Spoon",
+                "description":"Brown/ Black/ Rust",
+                "date":"1400 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toiletries",
+                "dimension details":"21.9 X 5.9 X 0.8 CMS",
+                "material":"Wood/ Paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F96.jpg?alt=media&token=453d73fc-78cd-4d66-b406-96259f81d4dd"
+            },
+
+            {
+                "id":97,
+                "name":"Mask/ Coffin Fragment",
+                "description":"Red/ Black",
+                "date":"1500 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary",
+                "dimension details":"28 X 21 X 8 CM",
+                "material":"Terra Cotta",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F97.jpg?alt=media&token=556a852d-17b9-4638-9de8-135b8f1eae31"
+            },
+
+            {
+                "id":98,
+                "name":"Pharaoh Relief Fragment",
+                "description":"Dark Grey/ Brown Translation by: EARL L. ERTMAN, UNIVERSITY OF AKRON, 18 FEB 1989",
+                "date":"1293-1185 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Epigraphy",
+                "dimension details":"29.8 X 66.9 X ? CMS",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F98.jpg?alt=media&token=77e90719-3ff0-4efd-9ede-5f646e23f6fe"
+            },
+
+            {
+                "id":99,
+                "name":"Aton Symbol Relief Fragment",
+                "description":"H-12.5 Translation by: Max Guilmot, 1 September, 1965",
+                "date":"1580-1350 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"ATON SHRINE, LUXOR",
+                "type of object":"Epigraphy",
+                "dimension details":"12.5 X 12.2 X 7.8 CM",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F99.jpg?alt=media&token=71b74428-2251-4457-8aaf-d056f5a65799"
+            },
+
+            {
+                "id":100,
+                "name":"Pyramidion",
+                "description":"New Kingdom, may be the scribe Ahmose of the Amarna period, Theban tomb is appropriate location and date, one side is etched out.",
+                "date":"1991-1782 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Epigraphy",
+                "dimension details":"36.3 X 23.2 X 23.2CM",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F100.jpg?alt=media&token=fd2e1a86-8111-43f1-b320-3733abf07286"
+            }
+        ],
+        "royal_jewelry_museum_artifacts":
+        [
+            {
+                "id":101,
+                "name":"Offering Scene Relief Fragment",
+                "description":"Figure in the Attitude of Offering",
+                "date":"1253-35 BCE",
+                "culture":"Egyptian",
+                "period":"Amarna",
+                "place of origin":"TEL-EL-AMARNA",
+                "type of object":"Epigraphy New Kingdom",
+                "dimension details":"21.7 X 26.6 X ? CMS",
+                "material":"Sandstone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F101.jpg?alt=media&token=0de93cdd-2ae2-4b36-b213-2089eaec882a"
+            },
+
+            {
+                "id":102,
+                "name":"Pharaoh Head",
+                "description":"H-20.9",
+                "date":"1570 BCE - 323 CE",
+                "culture":"Egyptian",
+                "period":"New Kingdom Or Later",
+                "place of origin":"Not Avaliable",
+                "type of object":"Sculpture",
+                "dimension details":"20.9 X 18.7 X19.5 CM",
+                "material":"Sandstone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F102.jpg?alt=media&token=f73f07f2-68b0-446b-8c16-60fad19279d9"
+            },
+
+            {
+                "id":103,
+                "name":"Mask/ Coffin Fragment",
+                "description":"Brown/ Black/ Blue/ White",
+                "date":"1185-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary",
+                "dimension details":"31.8 X 18.4 X 8.2 CM",
+                "material":"Wood/ Paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F103.jpg?alt=media&token=c55be3d1-038b-417f-81f2-6b02eea8ee9f"
+            },
+
+            {
+                "id":104,
+                "name":"Child's Sandal/Left",
+                "description":"Brown/ Light Brown",
+                "date":"1554-1320 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toiletries",
+                "dimension details":"16.9 X 7.6 X 1.5 CMS",
+                "material":"Papyrus",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F104.jpg?alt=media&token=3f497d51-71c1-46f9-b30a-7c043409dd4d"
+            },
+
+            {
+                "id":105,
+                "name":"Amehotep Iii Kohl Tube",
+                "description":"Blue/ Light Green/ Light Blue Blue-glazed cylindrical kohl tube inlaid in turquoise paste with a panel of inscription including the cartouche of Amenhotep III. Translation by: DR. SILVERMAN",
+                "date":"1417-1379 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toiletries",
+                "dimension details":"12.2 X 2.1 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F105.jpg?alt=media&token=034a5b12-1cbb-49a9-beee-d38f6d5d2554"
+            },
+
+            {
+                "id":106,
+                "name":"Female Head",
+                "description":"Head of a woman (?) wearing large smooth wig passing behind the ears, the upper lids incised",
+                "date":"1403-1080 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Sculpture",
+                "dimension details":"9 X 8 X 10.1 CMS",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F106.jpg?alt=media&token=08faaf71-f98e-4754-8dab-917890cf370a"
+            },
+
+            {
+                "id":107,
+                "name":"Female Coffin/ Lower Part",
+                "description":"Green/ Blue/ Red/ White/ Yellow/ Brown Translation by: DAVID P. SILVERMAN, 7 DEC 1988",
+                "date":"1290-1224 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"THEBES",
+                "type of object":"Funerary",
+                "dimension details":"191 X 53.2 X 30 CMS",
+                "material":"Wood",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F107.jpg?alt=media&token=3a6a87d8-961d-4252-bfd0-4c6ebf35246d"
+            },
+
+            {
+                "id":108,
+                "name":"Canopic Jar and Lid",
+                "description":"Brown",
+                "date":"1570 - 1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Vessels",
+                "dimension details":"39 X 20 CMS",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F108.jpg?alt=media&token=0b89d7fc-a6da-4ce1-9823-cc8dc2276720"
+            },
+
+            {
+                "id":109,
+                "name":"Jar",
+                "description":"Red Pottery Jar with Encised Decorations Around Center.",
+                "date":"1293-1185 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"ESNEH",
+                "type of object":"Vessels",
+                "dimension details":"25.6 X 17.9 CMS",
+                "material":"Clay",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F109.jpg?alt=media&token=0b5ab45a-b64a-49ed-8e14-ddf4b0115c33"
+            },
+
+            {
+                "id":110,
+                "name":"Jar",
+                "description":"Small Squat Jar with Black Concentric Decorations.",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Vessels",
+                "dimension details":"11.7 X 11.2 CMS",
+                "material":"Clay",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F110.jpg?alt=media&token=b736cd80-9327-4a78-9e85-7cc9d90c9964"
+            }
+        ],
+        "library_of_alexandria_museum_artifacts":
+        [
+            {
+                "id":111,
+                "name":"Jar",
+                "description":"H-13.3",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Vessels",
+                "dimension details":"13.3 X 10.6 CMS",
+                "material":"Clay",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F111.jpg?alt=media&token=298cd1a0-09db-4119-89ac-d8e2acb72b5b"
+            },
+
+            {
+                "id":112,
+                "name":"Razor",
+                "description":"Black",
+                "date":"BEFORE 1080 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom Or Befor",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toiletries",
+                "dimension details":"3.1 X 14.9 X 0.1 CMS",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F112.jpg?alt=media&token=7ac998c5-59c6-4b5b-98a2-409b267d6ca4"
+            },
+
+            {
+                "id":113,
+                "name":"Beer Jar",
+                "description":"This jar was most likely used for the drinking of beer. Its most notable feature is its rounded bottom. This did not allow the consumer to set it down on the floor or table.",
+                "date":"1549-1069 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Vessels New Kingdom",
+                "type of object":"15.3 X 6 CMS",
+                "dimension details":"Clay",
+                "material":"Not Avaliable",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F113.jpg?alt=media&token=8ca60e79-a815-458c-aabe-87df9413abe7"
+            },
+
+            {
+                "id":114,
+                "name":"Jar",
+                "description":"Jar with Black Concentric Decorations.",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Vessels",
+                "dimension details":"10.2 X 11.3 CMS",
+                "material":"Clay",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F114.jpg?alt=media&token=3baabaff-3f84-431d-8c22-ff406cbc0803"
+            },
+
+            {
+                "id":115,
+                "name":"Jar",
+                "description":"Small Squat Jar with Black Concentric Circular Decorations. Late Empire",
+                "date":"1185-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Vessels",
+                "dimension details":"9.9 X 10.3 CMS",
+                "material":"Clay",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F115.jpg?alt=media&token=ce882eff-4bcd-4ed4-a251-a39bd4026677"
+            },
+
+            {
+                "id":116,
+                "name":"Pitcher Or Vase W/ One Handle",
+                "description":"Shows Palestinean and Syrian Influence",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Vessels",
+                "dimension details":"23.8 X 14.2 CMS",
+                "material":"Clay",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F116.jpg?alt=media&token=06a0aa05-01be-4da5-9b12-72b94eedab1a"
+            },
+
+            {
+                "id":117,
+                "name":"Cup",
+                "description":"Green/ Brown/ Tan",
+                "date":"1570-656 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom/Saite",
+                "place of origin":"Not Avaliable",
+                "type of object":"Vessels",
+                "dimension details":"9.9 X 7.6 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F117.jpg?alt=media&token=676c90df-a39a-4bb8-b1bf-481b87d3a576"
+            },
+
+            {
+                "id":118,
+                "name":"Pen-Amun Coffin Post",
+                "description":"Dark Brown/ Yellow",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary",
+                "dimension details":"Not Avaliable",
+                "material":"Wood/ Paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F118.jpg?alt=media&token=4b56bf75-c694-42c1-bd7d-cd8b8c36d983"
+            },
+
+            {
+                "id":119,
+                "name":"Spoon",
+                "description":"Light Brown",
+                "date":"1554-1080 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Vessels",
+                "dimension details":"18.7 X 5.3 X 2.3 CMS",
+                "material":"Calcite",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F119.jpg?alt=media&token=6bf3fb84-a8b5-4fc1-82e6-e2ed6cc89cf2"
+            },
+
+            {
+                "id":120,
+                "name":"Akhnaton Prayer Relief Fragment",
+                "description":"This polychrome fragment of a column depicts Akhnaton offering incense to his sole god.",
+                "date":"1350-1341 BCE",
+                "culture":"Egyptian",
+                "period":"Amarna",
+                "place of origin":"TEL-EL-AMARNA",
+                "type of object":"Epigraphy Architecture New Kingdom",
+                "dimension details":"23.2 X 34.3 X 5 CMS",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F120.jpg?alt=media&token=e38492b7-84bc-4e0a-bc1c-a44c541ab369"
+            }
+        ],
+        "open_museum_at_karnak_artifacts":
+        [
+            {
+                "id":121,
+                "name":"Scribe's Canopic Jar",
+                "description":"This canopic jar dates from the Nineteenth Dynasty and is made of calcite pigment and gilt. It belonged to a scribe in the treasury of ancient Egypt.",
+                "date":"1549-1069 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Vessels Funerary",
+                "dimension details":"46.8 X 15.3 CMS",
+                "material":"Banded Calcite",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F121.jpg?alt=media&token=9fb65d87-cdf3-4ac2-8e2a-853eb7a8c9dd"
+            },
+
+            {
+                "id":122,
+                "name":"Shabti of Men",
+                "description":"Men was the father of the sculptor Thutmose, perhaps the most famous sculptor in all of Egyptian history.",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Ritual Objects New Kingdom Funerary",
+                "dimension details":"26.9 X 7.5 X 6.4 CMS",
+                "material":"Limestone/ Gesso",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F122.jpg?alt=media&token=0edf980b-ad14-4847-b8e2-ca2be061de8d"
+            },
+
+            {
+                "id":123,
+                "name":"Syrian Flask with One Handle",
+                "description":"Small Circular Flask with One Handle, Probably of Syrian Origin.",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Vessels",
+                "dimension details":"11.7 X 3.3 X 5.3 CMS",
+                "material":"Clay",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F123.jpg?alt=media&token=f998d1da-b7ac-41b3-b6f8-102e5c85fc82"
+            },
+
+            {
+                "id":124,
+                "name":"Adze Model",
+                "description":"Brown",
+                "date":"Not Avaliable",
+                "culture":"Egyptian",
+                "period":"New Kingdom - Late Per",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary",
+                "dimension details":"29 X 2.5 X 3.2 CM",
+                "material":"Wood/ Gesso",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F124.jpg?alt=media&token=35f45c08-f61f-4e8e-a382-d5883eda249a"
+            },
+
+            {
+                "id":125,
+                "name":"Osiris and Anubis Relief Frag",
+                "description":"H-46.6 Translation by: DR. SILVERMAN",
+                "date":"1100 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Epigraphy",
+                "dimension details":"46.6 X 42.3 X 4.1 CM",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F125.jpg?alt=media&token=ca0b6e04-87b5-4f19-a598-3af2ab2806da"
+            },
+
+            {
+                "id":126,
+                "name":"Crocodile Amulet",
+                "description":"Light Blue",
+                "date":"1600 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"THEBES, Q. HATSEPSUT'S TEMPLE",
+                "type of object":"Amulets",
+                "dimension details":"1.3 X 1.1 X 4.2 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F126.jpg?alt=media&token=43d98b7c-867c-4b12-9db8-24bd0b0ceb8c"
+            },
+
+            {
+                "id":127,
+                "name":"Shawabti Fragment",
+                "description":"Beige Translation by: David P. Silverman, January 1990",
+                "date":"1293-1185 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary",
+                "dimension details":"11.4 X 7 X 4.1 CMS",
+                "material":"Calcite",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F127.jpg?alt=media&token=1c562210-da78-4bd5-bbb2-2ea3c226591e"
+            },
+
+            {
+                "id":128,
+                "name":"Child's Sandal/Right",
+                "description":"Brown/ Light Brown",
+                "date":"1554-1320 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toiletries",
+                "dimension details":"17.1 X 7.4 X 1.2 CMS",
+                "material":"Papyrus",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F128.jpg?alt=media&token=199b01af-97b0-41fc-bf1f-79b34867575b"
+            },
+
+            {
+                "id":129,
+                "name":"Ring Mold",
+                "description":"Light Rust",
+                "date":"1550-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Tools",
+                "dimension details":"1.6 X 4.6 X 4.7 CMS",
+                "material":"Terra Cotta",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F129.jpg?alt=media&token=9c2a6a06-f404-42a9-bb41-2148614c8f0f"
+            },
+
+            {
+                "id":130,
+                "name":"Kohl Jar",
+                "description":"Beige Large kohl jar without cover.",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toiletries",
+                "dimension details":"6 X 5.7 CMS",
+                "material":"Banded Calcite",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F130.jpg?alt=media&token=170788d5-44a2-4e79-9d4a-08177ca06b16"
+            },
+
+            {
+                "id":131,
+                "name":"Pottery Fragment",
+                "description":"H-6.4 Fragments of enamelled pottery.",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Deir El Bahri",
+                "type of object":"Vessels",
+                "dimension details":"6.4 X 6.3 X 2.1 CMS",
+                "material":"Clay/ Glaze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F131.jpg?alt=media&token=8e228dfd-ca82-4742-8d63-dd62488f5646"
+            },
+
+            {
+                "id":132,
+                "name":"Nub-Maat-Ra Scarab",
+                "description":"Brown/ Light Brown/ Grey/ Grey-Green Translation by: David O'Connor, U Penn, March 17, 1989",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Amulets",
+                "dimension details":"1.3 X 1 X 0.7 CMS",
+                "material":"Not Avaliable",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F132.jpg?alt=media&token=066b0fbb-b64e-433f-b57a-a370fb442bd5"
+            },
+
+            {
+                "id":133,
+                "name":"Arrow Head",
+                "description":"Green/ Brown/ Dark Brown",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Tools",
+                "dimension details":"3.5 X 1 X 1 CMS",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F133.jpg?alt=media&token=a6120e82-c81e-463b-85b6-20f31fe50dbc"
+            },
+
+            {
+                "id":134,
+                "name":"Horemheb Finger Ring",
+                "description":"Gray Enamel Finger Ring with inscription, with Cartouche of Amen-Meri-En-Heru-En-Heb who was Haremhab 1315-1315 BCEE Last King of 18th Dynasty",
+                "date":"1319-1292 BCEE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Jewelry",
+                "dimension details":"2.2 X 1.2 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F134.jpg?alt=media&token=6512c8c0-db8c-486f-8cc6-a167274775dc"
+            },
+
+            {
+                "id":135,
+                "name":"Shawabti",
+                "description":"Black/ Brown Translation by: GEORG STEINDORFF",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Ritual Objects",
+                "dimension details":"15.8 X 5.2 X 4 CMS",
+                "material":"Steatite Stone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F135.jpg?alt=media&token=7c82ac01-98b5-4aa1-8979-214a9ee743ed"
+            },
+
+            {
+                "id":136,
+                "name":"Mummy Mask Fragment",
+                "description":"Not Avaliable",
+                "date":"1550-1080 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Not Avaliable",
+                "dimension details":"17.8 X 22.9 CM",
+                "material":"Terracotta",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F136.jpg?alt=media&token=dec8b18c-63e3-41a7-82ad-2a1819590068"
+            },
+
+            {
+                "id":137,
+                "name":"Razor/ Knife",
+                "description":"Dark Brown/ Green/ White",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toiletries",
+                "dimension details":"10.9 X 1.6 X 0.1 CMS",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F137.jpg?alt=media&token=a4656005-8f1b-4f3c-85ca-bcd987e80ccf"
+            },
+
+            {
+                "id":138,
+                "name":"Heart Scarab/ Uninscribed",
+                "description":"Black/ Brown Translation by: David O'Connor, U Penn, March 17, 1989",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom To Later",
+                "place of origin":"Not Avaliable",
+                "type of object":"Amulets",
+                "dimension details":"6.3 X 4.6 X 2.2 CMS",
+                "material":"Serpentine",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F138.jpg?alt=media&token=5da0d538-95e2-4961-b310-e437f79c8851"
+            },
+
+            {
+                "id":139,
+                "name":"Heart Scarab",
+                "description":"Black/ Brown Translation by: David O'Connor, U Penn, March 17, 1989",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom Or Later",
+                "place of origin":"Not Avaliable",
+                "type of object":"Amulets",
+                "dimension details":"4.8 X 3.6 X 2.3 CMS",
+                "material":"Stone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F139.jpg?alt=media&token=2c715d14-d82a-442f-8603-2afe63f36f9b"
+            },
+
+            {
+                "id":140,
+                "name":"Pharaoh Head Fragment",
+                "description":"Tutankhamun, perhaps the most famous pharaoh of ancient Egypt, is the king depicted in this fragment of a sculpture.",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Sculpture",
+                "dimension details":"21.4 X 15.5 X20.4 CM",
+                "material":"Sandstone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F140.jpg?alt=media&token=8be7b22e-467d-4497-bc2a-1710a6acd6f2"
+            }
+        ],
+        "luxor_museum_artifacts":
+        [
+            {
+                "id":141,
+                "name":"Apis Bull Head Mummy",
+                "description":"In the Memphite creation myth the god Ptah was believed to have created the universe and the deities via the thoughts in his heart and by speaking words. He was the patron god of craftsmen and artisans.",
+                "date":"1549-1069 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"SERAPEUM, SAKKARA",
+                "type of object":"Funerary Mummy",
+                "dimension details":"69 X 71 X 56 CM",
+                "material":"Animal Remains/ Linen/ Glass/ Argonite/ Obsidian/ Rope",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F141.jpg?alt=media&token=2a6a9bf0-8dea-4c9d-af66-da24ef43912a"
+            },
+
+            {
+                "id":142,
+                "name":"Shawabti Coffin",
+                "description":"Brown/ Light Brown",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Ritual Objects",
+                "dimension details":"10 X 29.3 X 10.1 CMS",
+                "material":"Cedarwood",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F142.jpg?alt=media&token=0a4aa333-dd7c-4c65-a3b0-c61e48813a56"
+            },
+
+            {
+                "id":143,
+                "name":"Grape Cluster",
+                "description":"The homes and gardens of Amarna were large and well-planned. This decorative grape cluster was once fitted around the edge of a window to give the impression of a permanent grape arbor.",
+                "date":"1346-1336 BCE",
+                "culture":"Egyptian",
+                "period":"Amarna",
+                "place of origin":"TEL EL-AMARNA",
+                "type of object":"Sculpture New Kingdom",
+                "dimension details":"3.3 X 4.5 X 4.2 CMS",
+                "material":"Glazed Clay",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F143.jpg?alt=media&token=b13dfe26-0d97-4643-8b76-8865402feaed"
+            },
+
+            {
+                "id":144,
+                "name":"Sewn Leather Fragments/Mounted",
+                "description":"Maroon/ Purple/ Brown",
+                "date":"1293-1185 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"BALLABYCH",
+                "type of object":"Toiletries",
+                "dimension details":"8.1 X 11.8 X 0.1 CMS",
+                "material":"Leather/ Thread",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F144.jpg?alt=media&token=4f72ba32-6799-400e-9cf4-a5d7a72bd0fb"
+            },
+
+            {
+                "id":145,
+                "name":"Mask/ Coffin Fragment",
+                "description":"Red/ Blue/ Beige/ Green/ Black",
+                "date":"1293-525 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom-3rd Int.",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary",
+                "dimension details":"24.3 X 14.2 X 6.3 CM",
+                "material":"Wood/ Paint/ Plaster",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F145.jpg?alt=media&token=edc682cc-32ae-4613-8af7-73afeabe25fa"
+            },
+
+            {
+                "id":146,
+                "name":"Funerary Cone",
+                "description":"Clay cone (tan) inscribed with hieroglyphs on the surface. Cones inscribed with the name of the deceased were embedded in the walls of the tombs. Translation by: DAVID P. SILVERMAN, 1988",
+                "date":"1290-1224 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Epigraphy",
+                "dimension details":"3 X 9.4 X 9.5 CMS",
+                "material":"Clay",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F146.jpg?alt=media&token=5b0f74a0-8475-4320-b316-b5984449fc2d"
+            },
+
+            {
+                "id":147,
+                "name":"Wedjat Eye",
+                "description":"Yellow faience glazed wedjat eye. Brown brow line and pupil. Striated nose-marking. Reverse has brown smudge at lash line.",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Tel-el-Amarna",
+                "type of object":"Amulets",
+                "dimension details":"2.3 X 2.9 X .6 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F147.jpg?alt=media&token=67751fff-f122-495d-adeb-97d5aaee1ae4"
+            },
+
+            {
+                "id":148,
+                "name":"Shawabti",
+                "description":"Brown/ Black",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Ritual Objects",
+                "dimension details":"17.8 X 3.9 X 3.4 CMS",
+                "material":"Wood/ Paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F148.jpg?alt=media&token=5f543864-4219-4d4d-9432-09d8c85216eb"
+            },
+
+            {
+                "id":149,
+                "name":"Shawabti",
+                "description":"Brown/ Rust/ Tan/ Light Brown/ Black",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Ritual Objects",
+                "dimension details":"26.6 X 6.6 X 3.7 CMS",
+                "material":"Wood/ Paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F149.jpg?alt=media&token=9fe1cfc0-7292-4da2-b8de-d542ee5a996f"
+            },
+
+            {
+                "id":150,
+                "name":"Mummiform Shawabti",
+                "description":"Brown/ Black",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Ritual Objects",
+                "dimension details":"23.2 X 4.6 X 4.4 CMS",
+                "material":"Wood",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F150.jpg?alt=media&token=360df911-b659-465b-9451-6608fb9415df"
+            }
+        ],
+        "mummification_museum_artifacts":
+        [
+            {
+                "id":151,
+                "name":"Shawabti",
+                "description":"Greyish-Brown",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Ritual Objects",
+                "dimension details":"21.6 X 5.5 X 3.1 CMS",
+                "material":"Wood",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F151.jpg?alt=media&token=2f280fa5-e2f6-4f5f-8842-b6b54d1766ab"
+            },
+
+            {
+                "id":152,
+                "name":"Shawabti",
+                "description":"Brown/ White",
+                "date":"1570-686 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom Or Later",
+                "place of origin":"Not Avaliable",
+                "type of object":"Ritual Objects",
+                "dimension details":"12.5 X 3.8 X 3.9 CMS",
+                "material":"Terracotta",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F152.jpg?alt=media&token=d5837628-7ce2-4f70-a56b-5e5e0f379893"
+            },
+
+            {
+                "id":153,
+                "name":"Comb Fragment",
+                "description":"Brown Portion of comb.",
+                "date":"1370 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toiletries",
+                "dimension details":"4.6 X 4.6 X 0.7 CMS",
+                "material":"Wood",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F153.jpg?alt=media&token=ea8a22e6-2ec8-444f-9675-f81474d3e4af"
+            },
+
+            {
+                "id":154,
+                "name":"Faience Ball",
+                "description":"This faience ball dates from the New Kingdom and is made of faience. The goddess Hathor was believed to be particularly fond of the color blue.",
+                "date":"1549-1069 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toys Or Jewelry",
+                "dimension details":"3.5 X 4.4 CMS",
+                "material":"Glazed Clay",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F154.jpg?alt=media&token=7ce14495-61b0-410f-837c-534c129b3e36"
+            },
+
+            {
+                "id":155,
+                "name":"Frog Amulet",
+                "description":"Brown",
+                "date":"1570-525 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom - 3rd in",
+                "place of origin":"Not Avaliable",
+                "type of object":"Amulets",
+                "dimension details":"1.6 X 1.1 X 1.6 CMS",
+                "material":"Stone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F155.jpg?alt=media&token=0508ad8b-6101-4710-a4be-a7bfb4d45ee8"
+            },
+
+            {
+                "id":156,
+                "name":"Judgment Scene",
+                "description":"The ibis-headed god Thoth, or Djehuti in ancient Egyptian, was the Scribe of Judgment.",
+                "date":"1298-1189 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary New Kingdom",
+                "dimension details":"26.9 X 61.7 X 2.4 CM",
+                "material":"Wood/ Paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F156.jpg?alt=media&token=e8b7ebf3-d902-43a6-94ae-811f37150204"
+            },
+
+            {
+                "id":157,
+                "name":"Ape Game Piece/ Amulet",
+                "description":"Beige/ Light Brown",
+                "date":"1570-323 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom To Late",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toys/Games",
+                "dimension details":"5.1 X 2.4 X 2.3 CMS",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F157.jpg?alt=media&token=cbf39587-e2be-4aec-aa46-624bbd30356a"
+            },
+
+            {
+                "id":158,
+                "name":"Ba",
+                "description":"Blue/ White/ Green/ Black/ Red Text by: Zahi Hawass",
+                "date":"1293-1185 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"ABYDOS",
+                "type of object":"Sculpture",
+                "dimension details":"14.8 X 7.2 X 8.2 CMS",
+                "material":"Wood/ Paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F158.jpg?alt=media&token=a0c30587-a73c-433f-9ef4-e2870142c0d9"
+            },
+
+            {
+                "id":159,
+                "name":"Tutankhamun Ring",
+                "description":"H-2.4 (As Mounted)",
+                "date":"1323-1319 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Jewelry New Kingdom",
+                "dimension details":"2.4 X 2.1 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F159.jpg?alt=media&token=ade6f20e-7e47-434a-82e6-faabb628bf78"
+            },
+
+            {
+                "id":160,
+                "name":"Pharaoh Head",
+                "description":"Wearing a High Crown",
+                "date":"1570-1070 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Sculpture",
+                "dimension details":"6.6 X 3.7 X 4.1 CMS",
+                "material":"Marble",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F160.jpg?alt=media&token=b87ace6e-f668-4ca0-a0d2-3da77ed82c37"
+            },
+
+            {
+                "id":161,
+                "name":"Bowl",
+                "description":"Black/ Off-White",
+                "date":"1500 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"GABEL-EL-SELSELA, S OF LUXOR",
+                "type of object":"Vessels",
+                "dimension details":"8.1 X 11.3 CMS",
+                "material":"Basalt Porphyry",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F161.jpg?alt=media&token=7cfbfb98-d550-4e13-8519-fa4b2990a845"
+            },
+
+            {
+                "id":162,
+                "name":"Ring Mold",
+                "description":"Rust",
+                "date":"1550 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Tools",
+                "dimension details":"1.9 X 4.5 X 4.4 CMS",
+                "material":"Terracotta",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F162.jpg?alt=media&token=af5c02dc-de93-42b0-84da-0b85ad023eac"
+            },
+
+            {
+                "id":163,
+                "name":"Ankh Mold",
+                "description":"Brown/ Black/ White",
+                "date":"1570-1293 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Tools",
+                "dimension details":"0.9 X 2.2 X 2.8 CMS",
+                "material":"Clay",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F163.jpg?alt=media&token=2c8f97f5-c6e7-4e73-a4e0-a44a867c8434"
+            },
+
+            {
+                "id":164,
+                "name":"Wine Jar",
+                "description":"H-36.2",
+                "date":"1293-1185 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"Not Avaliable",
+                "type of object":"Vessels",
+                "dimension details":"36.2 X 19.7 CMS",
+                "material":"Clay",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F164.jpg?alt=media&token=0bf9b317-04ca-4105-93eb-9865578c2e7d"
+            },
+
+            {
+                "id":165,
+                "name":"Stele",
+                "description":"Light Green/ Brown/ Red/ Black - Wings At Top",
+                "date":"1501-1479 BCE",
+                "culture":"Egyptian",
+                "period":"New Kingdom",
+                "place of origin":"DEIR EL BAHRI",
+                "type of object":"Funerary",
+                "dimension details":"35.8 X 25.6 X 2.1 CM",
+                "material":"Wood",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F165.jpg?alt=media&token=a4b9c9f6-9c3d-454f-9d68-9ea42c5bd12d"
+            },
+
+            {
+                "id":166,
+                "name":"Uraeus",
+                "description":"Head Erect with Sun Disc Tail Coiled",
+                "date":"1070-656 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Sculpture",
+                "dimension details":"11.3 X 4.8 X 3.7 CMS",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F166.jpg?alt=media&token=d954a5ae-4cb0-4830-8263-6507004f9eb9"
+            },
+
+            {
+                "id":167,
+                "name":"Min Amulet",
+                "description":"H-3.8",
+                "date":"664-525 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Amulets",
+                "dimension details":"3.8 X 1.4 X 1.1 CMS",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F167.jpg?alt=media&token=94506b1d-2e88-41cf-9fd1-93f243494eb7"
+            },
+
+            {
+                "id":168,
+                "name":"Imhotep",
+                "description":"H-10.9",
+                "date":"600 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Sculpture",
+                "dimension details":"10.9 X 3.4 X 3.9 CMS",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F168.jpg?alt=media&token=47f9feb0-92ae-4862-88b8-9991843f3ac0"
+            },
+
+            {
+                "id":169,
+                "name":"Razor/Tweezers",
+                "description":"Black/ Green",
+                "date":"600 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toiletries",
+                "dimension details":"7.1 X 1.4 X 0.3 CMS",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F169.jpg?alt=media&token=30ddb528-c0ee-4dea-b609-04431ef37be9"
+            },
+
+            {
+                "id":170,
+                "name":"Axe",
+                "description":"Rusty Brown/ Dark Brown/ Light Green",
+                "date":"685-525 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Tools",
+                "dimension details":"6.7 X 11.1 X 0.3 CMS",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F170.jpg?alt=media&token=4562fced-4a41-4aa6-8089-5c0399244d55"
+            }
+        ],
+        "crocodile_museum_artifacts":
+        [
+            {
+                "id":171,
+                "name":"Ptahherdis Stele",
+                "description":"H-53.7",
+                "date":"712-525 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Edfu",
+                "type of object":"Ritual Objects",
+                "dimension details":"53.7 X 28.9 X ? CMS",
+                "material":"Basalt",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F171.jpg?alt=media&token=7c6f18a8-cd0e-490b-b99a-301c2a6399a0"
+            },
+
+            {
+                "id":172,
+                "name":"Cat Mummy",
+                "description":"Brown/ Black",
+                "date":"1090-945 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary",
+                "dimension details":"39 X 8",
+                "material":"Animal Remains/ Linen",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F172.jpg?alt=media&token=646a869a-5ba7-4b71-952e-20eb869cd038"
+            },
+
+            {
+                "id":173,
+                "name":"Stele",
+                "description":"Light Brown/ Grey/ Brown Translation by: Max Guilmot, 1 September 1965",
+                "date":"712-656 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary",
+                "dimension details":"25.6 X 23 X 2.6 CMS",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F173.jpg?alt=media&token=ef08fbf8-bf15-4444-ba07-2eb35d4b50cc"
+            },
+
+            {
+                "id":174,
+                "name":"Seated Germa",
+                "description":"H-24.9 Translation by: MAX GULIMOT, 21 JUNE 1967",
+                "date":"588-568 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Sculpture",
+                "dimension details":"24.9 X 15.1 X15.9 CM",
+                "material":"Limestone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F174.jpg?alt=media&token=399f3ab8-bef0-4af9-a03c-5c2947ad7557"
+            },
+
+            {
+                "id":175,
+                "name":"Wesekh Collar",
+                "description":"The broad or wesekh collar protected the body of the deceased in the coffin. An actual wesekh collar was placed on the mummy, while a back-up wesekh collar was painted on the wrappings as well.",
+                "date":"Saite Period",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Jewelry",
+                "dimension details":"54.5 CM",
+                "material":"faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F175.jpg?alt=media&token=00810a8e-d4cd-4be9-ad34-1d0c9e970e02"
+            },
+
+            {
+                "id":176,
+                "name":"Mummy (from Usermontu's Coffin)",
+                "description":"This male mummy has long been an enigma. He does not display the traditional style of mummification of the time period of the coffin in which he arrived.",
+                "date":"Uncertain",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"DER-EL-BAHRI, THEBES",
+                "type of object":"Funerary Mummy",
+                "dimension details":"155 X 46.5 X 26 CMS",
+                "material":"human mummy",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F176.jpg?alt=media&token=19f67d08-4c72-46ae-9418-c45514a8a2ce"
+            },
+
+            {
+                "id":177,
+                "name":"Flask",
+                "description":"Blue-Green",
+                "date":"1070-712 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Vessels",
+                "dimension details":"10.2 X 8.3 X 5.5 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F177.jpg?alt=media&token=79f4e769-345b-49aa-a67b-95e5fd474724"
+            },
+
+            {
+                "id":178,
+                "name":"Canopic Jar and Lid",
+                "description":"Brown/ Light Brown Translation by: MAX GUILMOT , 25 AUGUST 1973 (see artifact file for copy)",
+                "date":"664-525 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"SAKKARA",
+                "type of object":"Vessels",
+                "dimension details":"37.5 X 16 CM",
+                "material":"Banded Calcite",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F178.jpg?alt=media&token=7745bd73-2b6c-4a7a-97fa-5a4a3031316b"
+            },
+
+            {
+                "id":179,
+                "name":"Thoth Baboon",
+                "description":"H-45.1",
+                "date":"664-525 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Sculpture",
+                "dimension details":"45.1 X 16.2 X16.8 CM",
+                "material":"Sandstone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F179.jpg?alt=media&token=e146c66b-b3cc-4adf-9ecd-da76428c8f65"
+            },
+
+            {
+                "id":180,
+                "name":"Ta'awa Coffin",
+                "description":"The Lady of the House Ta'awa was from a very prominent family of the Saite Period. Her father, Hori, was priest of Montu, Lord of Thebes, and relative of Besenmut.",
+                "date":"664-525 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"THEBES",
+                "type of object":"Funerary",
+                "dimension details":"174.5 X 51 X 37.5 CM",
+                "material":"wood and paint",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F180.jpg?alt=media&token=1b0e753f-ded3-466a-b2ee-fc4a74fb9012"
+            },
+
+            {
+                "id":181,
+                "name":"Razor",
+                "description":"Brown/ Red-Brown Razor.",
+                "date":"600 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toiletries",
+                "dimension details":"12.4 X 2.2 X 0.5 CMS",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F181.jpg?alt=media&token=369e07e5-0873-4ab3-b583-1ab4b3720596"
+            },
+
+            {
+                "id":182,
+                "name":"Tweezers",
+                "description":"Black/ Red-Brown Tweezers.",
+                "date":"600 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Toiletries",
+                "dimension details":"8.5 X 2 X 1.6 CMS",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F182.jpg?alt=media&token=1913844a-46ea-46b4-8fb2-42c2aa97c0a9"
+            },
+
+            {
+                "id":183,
+                "name":"Min Amulet",
+                "description":"H-4.5",
+                "date":"664-525 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Amulets",
+                "dimension details":"4.5 X 1.5 X 1.4 CMS",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F183.jpg?alt=media&token=cfcda420-53e9-4747-b1e1-f9f2c9a7003f"
+            },
+
+            {
+                "id":184,
+                "name":"Tyet Amulet",
+                "description":"Turquoise Blue",
+                "date":"664-525 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Amulets",
+                "dimension details":"2.8 X 1 X 0.5 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F184.jpg?alt=media&token=3abbe94f-0409-43e4-8dfb-8b9cb1dfd4eb"
+            },
+
+            {
+                "id":185,
+                "name":"Shawabti",
+                "description":"Light Green/ Brown/ Tan",
+                "date":"1070-656 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Ritual Objects",
+                "dimension details":"9.4 X 3.5 X 3.2 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F185.jpg?alt=media&token=c9dc338e-12f2-4473-96b0-04956023ea85"
+            },
+
+            {
+                "id":186,
+                "name":"Wadjet Amulet",
+                "description":"Light Blue/ White/ Black",
+                "date":"664-525 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Amulets",
+                "dimension details":"4.4 X 6.4 X 1 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F186.jpg?alt=media&token=aba7aa59-35a8-42ca-a9ed-60025ba51db1"
+            },
+
+            {
+                "id":187,
+                "name":"Cylinder",
+                "description":"Steel Blue, Tan Brown, Black. Molded in sunk relief with a rrieze of seated deities, including a falcon headed divinity, Hapy, and Ptah, the two fragmentary lines of inscription containing an invocation offering.",
+                "date":"1080-746 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Not Avaliable",
+                "dimension details":"4.1 X 3.6 CM",
+                "material":"Faience Egyptian Blue",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F187.jpg?alt=media&token=af77c51f-7449-4c42-a612-9433b86325df"
+            },
+
+            {
+                "id":188,
+                "name":"Uatch Amulet",
+                "description":"Blue-Green - Mottled Color",
+                "date":"664-525 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Amulets",
+                "dimension details":"5.7 X 1.4 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F188.jpg?alt=media&token=bbc158c9-e2da-46c9-818a-688c04895945"
+            },
+
+            {
+                "id":189,
+                "name":"Djed Amulet",
+                "description":"Green",
+                "date":"664-525 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Amulets",
+                "dimension details":"10.4 X 2.9 X 1 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F189.jpg?alt=media&token=15b64c35-5399-4134-85e0-9d9c0be12891"
+            },
+
+            {
+                "id":190,
+                "name":"Headrest Amulet",
+                "description":"Black",
+                "date":"664 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Amulets",
+                "dimension details":"2 X 2.5 X 1 CMS",
+                "material":"Hematite",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F190.jpg?alt=media&token=b45f283c-6858-481e-9eaa-8fac403257d4"
+            }
+        ],
+        "nubia_museum_artifacts":
+        [
+            {
+                "id":191,
+                "name":"Hathor Amulet",
+                "description":"Green",
+                "date":"664-525 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Amulets",
+                "dimension details":"4.9 X 1.2 X 1.8 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F191.jpg?alt=media&token=5b34dc39-2cca-479f-a863-0eb6aa1e1734"
+            },
+
+            {
+                "id":192,
+                "name":"Khonsu Amulet",
+                "description":"Green",
+                "date":"664-525 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Amulets",
+                "dimension details":"7.5 X 1.8 X 2.6 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F192.jpg?alt=media&token=796bc9b2-42f4-491d-8a01-1d87b27aaa28"
+            },
+
+            {
+                "id":193,
+                "name":"Seated Sekhmet Amulet",
+                "description":"Green/ Brown",
+                "date":"664 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Amulets",
+                "dimension details":"5.5 X 1.5 X 3.2 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F193.jpg?alt=media&token=7ba25a88-fc46-4624-ab8f-54859ae429a2"
+            },
+
+            {
+                "id":194,
+                "name":"Horus Amulet",
+                "description":"Green",
+                "date":"664-525 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Amulets",
+                "dimension details":"11.3 X 2.4 X 3.3 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F194.jpg?alt=media&token=c9da3669-fc4b-4f1d-a2bf-19e0c9aba9e0"
+            },
+
+            {
+                "id":195,
+                "name":"Priest Head",
+                "description":"Green",
+                "date":"664-525 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Sculpture",
+                "dimension details":"4 X 3.4 X 4.2 CMS",
+                "material":"Stone",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F195.jpg?alt=media&token=66a97f4a-da93-4ea3-bda5-c5fb4515bf9f"
+            },
+
+            {
+                "id":196,
+                "name":"Winged Heart Scarab",
+                "description":"Green/ Orange/ Dark Green/ Brown",
+                "date":"664-525 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Amulets",
+                "dimension details":"5.3 X 13.4 X 1.5 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F196.jpg?alt=media&token=bc0debbd-7d6d-45e9-88c1-fb7f5ec0cb5f"
+            },
+
+            {
+                "id":197,
+                "name":"Striding Young Horus",
+                "description":"No Feet",
+                "date":"664-525 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Sculpture",
+                "dimension details":"10.3 X 2.7 X 2.2 CMS",
+                "material":"Bronze",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F197.jpg?alt=media&token=5bf65199-9d9e-404f-afc1-1d1cc43c64af"
+            },
+
+            {
+                "id":198,
+                "name":"Shawabti/ Overseer",
+                "description":"Light Green/ Brown/ Black/ Tan/ Yellow-Green",
+                "date":"1070-656 BCE",
+                "culture":"Egyptian",
+                "period":"3rd Intermediate",
+                "place of origin":"Not Avaliable",
+                "type of object":"Ritual Objects",
+                "dimension details":"10.3 X 3.7 X 3.3 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F198.jpg?alt=media&token=e8362567-a1fa-4c67-b7e4-9b5c74d8b766"
+            },
+
+            {
+                "id":199,
+                "name":"Panel",
+                "description":"Brown These extremely well-carved hieroglyphs were executed in sunk relief. The signs themselves are cut below the level of the surrounding surface.",
+                "date":"685-525 BCE",
+                "culture":"Egyptian",
+                "period":"Saite Period",
+                "place of origin":"Not Avaliable",
+                "type of object":"Funerary",
+                "dimension details":"8.5 X 49 X 2.4 CMS",
+                "material":"Wood",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F199.jpg?alt=media&token=d377e657-582b-46aa-a84d-122674b59920"
+            },
+
+            {
+                "id":200,
+                "name":"Shawabti",
+                "description":"Tan/ Off-White/ Reddish-Brown",
+                "date":"685-525 BCE",
+                "culture":"Egyptian",
+                "period":"Saite Period",
+                "place of origin":"HAWARA NEAR MEDINET-EL FAYUM",
+                "type of object":"Ritual Objects",
+                "dimension details":"19.2 X 5.6 X 4 CMS",
+                "material":"Faience",
+                "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/artifacts_pieces_pic%2F200.jpg?alt=media&token=2d3c85be-8061-4e86-b9c0-6900aa112217"
+            }
+
+        ]
+}

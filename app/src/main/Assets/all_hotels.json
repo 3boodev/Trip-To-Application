@@ -1,0 +1,1339 @@
+{
+            "cairo_hotels":
+                [
+                    {
+                        "hotel_id":1,
+                        "name":"Cleopatra Hotel",
+                        "location":"2 Al-Bustan Street, Downtown, Qasr El Nil District, Cairo Governorate 11512",
+                        "telephone":"+20 106 556 6060",
+                        "description":"Cleopatra Hotel has rooms in Cairo, 200 meters from the Egyptian Museum and the Nile Hilton Shopping Center. This 3-star hotel offers on-site dining, and has air-conditioned rooms with a private bathroom. The main campus of the American University in Cairo is 300 One meter from the hotel, the Sudanese Embassy is a 9-minute walk away and provides access to the metro.",
+                        "website":"https://www.cleopatra-hotel.com/",
+                        "location_map":{"lang":"30.046063","late":"31.2380188"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F1.jpg?alt=media&token=820f740d-7ca6-4996-9409-c78e6a6822bf"
+                    },
+
+                    {
+                        "hotel_id":2,
+                        "name":"Grand Nile Tower",
+                        "location":"Abdulaziz Al Saud، St, Corniche، El Nil",
+                        "telephone":"+20 2 23651234",
+                        "description":"Located in Al Rawda Island, Grand Nile Tower Hotel includes luxurious rooms and suites overlooking the Nile River. The wellness center also overlooks the Nile, and the resort has 8 restaurants and an outdoor pool.",
+                        "website":"https://grandniletower.com/",
+                        "location_map":{"lang":"30.0346634","late":"31.2295312"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F2.jpg?alt=media&token=f7288abe-4837-4532-bfeb-b93eed561d54"
+                    },
+
+                    {
+                        "hotel_id":3,
+                        "name":"Nile View - Zamalek",
+                        "location":"Montazah Al Giza St., Zamalek - Downtown",
+                        "telephone":"+20 120 777 0861",
+                        "description":"Located in Cairo, 1.5 km from Cairo Tower, Nile View - Zamalek provides accommodations with a restaurant, free private parking, an outdoor swimming pool and a bar.",
+                        "website":"http://nileviewzamalek.com/",
+                        "location_map":{"lang":"30.0386958","late":"31.2258616"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F3.jpg?alt=media&token=142e54f6-8a91-465f-8853-a11d14af1f69"
+                    },
+
+                    {
+                        "hotel_id":4,
+                        "name":"New Garden Palace Hotel",
+                        "location":"11 Moderiat El Tahrir St Garden City, Pincode, 99999, Cairo Governorate",
+                        "telephone":"+20 2 27964020",
+                        "description":"Located in the lush Garden City district in central Cairo, New Garden Palace Hotel offers simply furnished rooms with a balcony, less than 5 minutes' walk from Tahrir Square and the Egyptian Museum.",
+                        "website":"https://new-garden-palace-hotel.cairo-hotels-eg.com/ar/",
+                        "location_map":{"lang":"30.0353509","late":"31.2355903"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F4.jpg?alt=media&token=f895398a-57a1-4ef2-9f53-a201fea830b9"
+                    },
+
+                    {
+                        "hotel_id":5,
+                        "name":"Cairo Marriott Hotel & Omar Khayyam Casino",
+                        "location":"16 Saray El, the island, Cairo Governorate 11211",
+                        "telephone":"+20 2 27283000",
+                        "description":"Located in Cairo's Zamalek district, Cairo Marriott Hotel and Omar Khayyam Casino offer luxurious rooms with balcony and views of the Nile River or gardens. It also houses a casino and 15 dining and drinks. The hotel's Cairo Twin Towers feature panoramic views of the Nile and the 6-acre gardens of the palace.",
+                        "website":"https://www.luxuryhotelsguides.com/?hotelid=16174&gclid=CjwKCAiAj-_xBRBjEiwAmRbqYue_bHSVkHJmiMkIpuulwtoj-ycoOQY2UNwRpWkmenjvt61Q9ZCCdhoC5PkQAvD_BwE",
+                        "location_map":{"lang":"30.057111","late":"31.2272698"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F5.jpg?alt=media&token=da006325-0109-4356-9e5f-f83cf39e0708"
+                    },
+
+                    {
+                        "hotel_id":6,
+                        "name":"Great Pyramid Inn",
+                        "location":"Al-Ahram, Al-Haram, Giza",
+                        "telephone":"+20 2 33836386",
+                        "description":"Great Pyramid Inn offers a restaurant and room service 24 hours a day. Guests can enjoy an authentic Egyptian breakfast for free. Water, coffee, tea and mineral water are provided free of charge throughout the day.",
+                        "website":"https://greatpyramidinn.com/",
+                        "location_map":{"lang":"29.9999911","late":"31.1783129"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F6.jpg?alt=media&token=4b2be110-36d4-437d-83c5-3b8afa596edc"
+                    },
+
+                    {
+                        "hotel_id":7,
+                        "name":"President Hotel Zamalek",
+                        "location":"22 Taha Hussein Street, Abu Al Feda, Zamalek, Cairo Governorate",
+                        "telephone":"+20 2 27350718",
+                        "description":"President Hotel is 2 km from the Aquarium and 3 km from Cairo Tower. Cairo International Airport is a 15-minute drive away. Laundry and ironing services can also be arranged by the front desk.",
+                        "website":"http://www.thepresidentcairo.com/",
+                        "location_map":{"lang":"30.067757","late":"31.2217068"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F7.jpg?alt=media&token=cadec005-733d-49cf-80d1-df98421839ad"
+                    },
+
+                    {
+                        "hotel_id":8,
+                        "name":"Le Passage Cairo Hotel and Casino",
+                        "location":"Sheraton Airport, Cairo, Cairo Governorate 11861",
+                        "telephone":"+20 2 22670099",
+                        "description":"Le Passage Cairo is located just 2 minutes from Cairo International Airport in the Heliopolis district of Cairo. The hotel has fine restaurants, a disco and a casino. A free airport shuttle service is available.",
+                        "website":"http://lepassage.com.eg/",
+                        "location_map":{"lang":"30.0823908","late":"31.381861"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F8.jpg?alt=media&token=9a16b142-261c-4866-b3ef-4d017261ddd3"
+                    },
+
+                    {
+                        "hotel_id":9,
+                        "name":"City Hotel",
+                        "location":"162 El-tahrir st., Tahrir sq, down town, 12621 Cairo, Egypt",
+                        "telephone":"Not Available",
+                        "description":"City Hotel is located in central Cairo, less than a minute's walk from the Egyptian Museum and Tahrir Square. In addition to cozy restaurants like the KFC or the famous Felfela Oriental Restaurant, many banks, embassies and metro stations are within walking distance.",
+                        "website":"https://cityhotel.ua/en/",
+                        "location_map":{"lang":"30.044466","late":"31.2399445"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F9.jpg?alt=media&token=f2e03155-98e0-4e18-b9ef-42190ee832d5"
+                    },
+
+                    {
+                        "hotel_id":10,
+                        "name":"Crown Hotel",
+                        "location":"16 Gawad Housny, Downtown, Cairo, 3rd floor., 16914 Cairo, Egypt",
+                        "telephone":"+20 101 766 3243",
+                        "description":"Located in Cairo with Tahrir Square, 1.4 km away, Crown Hotel provides express check-in and check-out, rooms, a bar, free WiFi and a shared lounge. Providing room service, this property also provides guests with a casino. The property provides a 24-hour front desk, a shared kitchen and a currency exchange service for guests.",
+                        "website":"https://www.crownhotels.com.au/",
+                        "location_map":{"lang":"30.0485911","late":"31.2454475"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F10.jpg?alt=media&token=30ada51a-1230-4578-b667-02bc692c631a"
+                    },
+
+                    {
+                        "hotel_id":11,
+                        "name":"Miramar Downtown",
+                        "location":"164 El Tahrir, 11513 Cairo, Egypt",
+                        "telephone":"+20 2 23905447",
+                        "description":"Located in Cairo, 150 meters from Tahrir Square and 650 meters from the Egyptian Museum, Miramar Downtown provides rooms with free WiFi. The property is 2.1 km from Cairo Tower and 2.8 km from Khan Al Khalili. The hotel has a terrace and a 24-hour front desk.",
+                        "website":"https://miramar-downtown.cairo-hotels-eg.com/ar/",
+                        "location_map":{"lang":"30.0447892","late":"31.2395402"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F11.jpg?alt=media&token=3fc9274d-3b27-4d50-bd77-4db94983b136"
+                    },
+
+                    {
+                        "hotel_id":12,
+                        "name":"Egyptian Night Hotel",
+                        "location":"13 Myrt Pasha Street, Downtown, Cairo, Egypt, Cairo, Egypt",
+                        "telephone":"+20 2 25760604",
+                        "description":"Egyptian Night Hostel overlooks the Nile River is located in front of the Egyptian Museum in downtown Cairo, a short walk from Sadat Metro Station.",
+                        "website":"https://egyptian-night-hostel.cairo-hotels-eg.com/ar/",
+                        "location_map":{"lang":"30.0476319","late":"31.2371477"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F12.jpg?alt=media&token=efa3b7eb-29de-4bc5-b438-c08e91563ff2"
+                    },
+
+                    {
+                        "hotel_id":13,
+                        "name":"Nile Sky Suites Hotel",
+                        "location":"137 Abdulaziz Al Saud, with, saraya street, Giza",
+                        "telephone":"+20 100 630 4346",
+                        "description":"Located in Cairo, within 3 km of Tahrir Square and 3.2 km from Ibn Tulun Mosque, Nile Sky Suites Hotel offers rooms. Facilities available at this property include a restaurant, a 24-hour front desk, and a shared kitchen, as well as WiFi. Free throughout the property, while this property features room service, a shared lounge and currency exchange for guests.",
+                        "website":"https://nile-sky-suites-hotel.cairo-hotels-eg.com/ar/",
+                        "location_map":{"lang":"30.0279859","late":"31.2269071"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F13.jpg?alt=media&token=b35d1dce-9cc3-411a-8c6c-12caeb311545"
+                    },
+
+                    {
+                        "hotel_id":14,
+                        "name":"Sofitel El Gezirah Cairo Hotel & Casino",
+                        "location":"Street 3, El-Thawra Council, Zamalek, 11518 Cairo, Egypt",
+                        "telephone":"+20 2 27373737",
+                        "description":"The 5-star Sofitel Cairo El Gezirah Hotel and Casino features a private promenade along the Nile River, located in the city center, within a short walk from the Egyptian Opera House and Cairo Tower, as well as the Egyptian Museum and Khan el-Khalili. It also features an infinity outdoor pool. Free Wi-Fi in all areas.",
+                        "website":"https://sofitel-el-gezirah.cairo-hotels-eg.com/ar/",
+                        "location_map":{"lang":"30.0387603","late":"31.2267522"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F14.jpg?alt=media&token=d31182a6-b7c6-4c2f-9b54-2e1e4dc9b863"
+                    },
+
+                    {
+                        "hotel_id":15,
+                        "name":"Galaxy Royal Suites Hotel",
+                        "location":"67 Abdulaziz Al Saud, Western Manial, Misr Al-Qadima District, Giza",
+                        "telephone":"+20 2 25326677",
+                        "description":"The Galaxy Royal Suites is 5 km from Cairo Tower and the Egyptian Museum. The nearest airport is Cairo International Airport, 23 km from the property, and the property provides an airport shuttle service at an additional cost.",
+                        "website":"https://galaxy-royal-suites-hotel.cairo-hotels-eg.com/ar/",
+                        "location_map":{"lang":"30.0180749","late":"31.2254282"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F15.jpg?alt=media&token=844caf37-bb24-4713-9312-e325bc46f4ff"
+                    },
+
+                    {
+                        "hotel_id":16,
+                        "name":"Ramses Hilton Hotel and Casino",
+                        "location":"1115 Corniche El Nil, Sharkas, Boulaq, Cairo Governorate",
+                        "telephone":"+20 2 25777444",
+                        "description":"Ramses Hilton Hotel is located just a 5-minute walk from the Egyptian Museum in Cairo and overlooks the Nile River and offers a heated pool terrace in winter with an elevated area and a casino and gym on site. Guest rooms feature balconies with panoramic views of the city or the Nile River.",
+                        "website":"https://ar.hilton.com/en_ar/hotels/ramses-hilton/",
+                        "location_map":{"lang":"30.0502908","late":"31.2343005"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F16.jpg?alt=media&token=9279bd8a-32a7-41bf-a209-b124fcc90251"
+                    },
+
+                    {
+                        "hotel_id":17,
+                        "name":"Safir Hotel Cairo",
+                        "location":"94 Al-Qasr Al-Ainy, Faggala, Azbakeya, Cairo Governorate",
+                        "telephone":"+20 2 37482828",
+                        "description":"Located in Cairo, a 10-minute walk from the Nile Bridge, Safir Hotel offers luxurious rooms with balconies. It has an outdoor pool, gym and free Wi-Fi in public areas.",
+                        "website":"https://www.hotels.com/ho225585/safir-hotel-cairo-giza-egypt/",
+                        "location_map":{"lang":"30.045447","late":"31.2380421"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F17.jpg?alt=media&token=681eb91b-2952-49e3-a2cf-404250111388"
+                    },
+
+                    {
+                        "hotel_id":18,
+                        "name":"Giza Pyramids View Inn",
+                        "location":"Great Sphinx, Al Haram, Giza",
+                        "telephone":"+20 102 473 2934",
+                        "description":"Giza Pyramids View Inn is 300 meters from Great Sphinx and provides accommodations with a bar, a shared lounge, and a 24-hour front desk for the convenience of the guests. Wifi is available for free.",
+                        "website":"https://www.expedia.com/Cairo-Hotels-Giza-Pyramids-View-Inn.h36055404.Hotel-Information",
+                        "location_map":{"lang":"29.9762053","late":"31.1436611"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F18.jpg?alt=media&token=85849025-1e62-498b-b0b6-65224fbe8130"
+                    },
+
+                    {
+                        "hotel_id":19,
+                        "name":"City View Hotel Cairo",
+                        "location":"1 Al-Bustan Street, Tahrir Square, Downtown, Cairo, Egypt, Cairo, Egypt",
+                        "telephone":"+20 2 27735980",
+                        "description":"City Hotel overlooks the Egyptian Museum and is located 250 meters from Sadat Metro Station, and offers a great window for touring Cairo. The rooms have balconies and satellite TV.",
+                        "website":"https://www.hotels.com/ho358176/city-view-hotel-cairo-egypt/",
+                        "location_map":{"lang":"30.0459707","late":"31.2375949"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F19.jpg?alt=media&token=62b9ef0a-9520-441d-b96f-228586744ca4"
+                    },
+
+                    {
+                        "hotel_id":20,
+                        "name":"Grand Palace Hotel",
+                        "location":"14 Shamplion St. , Downtown, 11111 Cairo, Egypt",
+                        "telephone":"+20 2 25771707",
+                        "description":"Located in Cairo, 500 meters from Tahrir Square, Grand Palace Hotel offers rooms with air conditioning. The property is around 500 meters from The Egyptian Museum, 2.7 km from Cairo Tower and 2.8 km from Khan Al Khalili. Guests can benefit from the garden.",
+                        "website":"https://grand-palace-hotel.cairo-hotels-eg.com/ar/",
+                        "location_map":{"lang":"30.0459707","late":"31.2375949"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F20.jpg?alt=media&token=ee860527-96ab-4753-9f0e-4bd51dc3325f"
+                    },
+
+                    {
+                        "hotel_id":21,
+                        "name":"Kempinski Nile Hotel",
+                        "location":"12 Ahmed Ragheb, Qasr El-Nile, Cairo Governorate 11519",
+                        "telephone":"+20 2 27980000",
+                        "description":"Located in the upscale Garden City neighborhood in Cairo, Kempinski Nile Hotel offers luxurious rooms on the banks of the Nile River. The property also has a Kempinski Health Club and a rooftop pool.",
+                        "website":"https://www.kempinski.com/en/cairo/nile-hotel/",
+                        "location_map":{"lang":"30.0386546","late":"31.232655"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F21.jpg?alt=media&token=96354021-016a-423d-a1e4-4df438baa029"
+                    },
+
+                    {
+                        "hotel_id":22,
+                        "name":"Novotel Cairo El Borg Hotel",
+                        "location":"3 Saraya El Gezira, Zamalek, Al-Jazeera, Cairo Governorate 11211",
+                        "telephone":"+20 2 27356725",
+                        "description":"Novotel Cairo El Borg offers a prime location in downtown Cairo, a short walk from the Cairo Tower and just 200 meters from Cairo Opera House. The rooms also overlook the Nile or Cairo.",
+                        "website":"luxuryhotelsguides.com/?hotelid=48622&gclid=CjwKCAiAj-_xBRBjEiwAmRbqYmvYrW2MR87RBxO92GiCB1ZoISVPrUywV7vL9JNDKL_jfNqNl2Z7ZRoCuKsQAvD_BwE",
+                        "location_map":{"lang":"30.0447609","late":"31.2300321"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F22.jpg?alt=media&token=4dc2d049-d4bf-4039-8ac1-097a67269fa8"
+                    },
+
+                    {
+                        "hotel_id":23,
+                        "name":"Sonesta Hotel and Tower Cairo",
+                        "location":"3 Aviation, Companies, Nasr City, Cairo Governorate",
+                        "telephone":"+20 2 22641111",
+                        "description":"Sonesta Hotel is located in the residential area of ​​Nasr City, a 10-minute drive from the airport and features 5 restaurants and 2 bars. It features an outdoor swimming pool and sun terrace.",
+                        "website":"https://www.sonesta.com/eg/nasr-city-cairo/sonesta-hotel-tower-casino-cairo",
+                        "location_map":{"lang":"30.07925","late":"31.3200997"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F23.jpg?alt=media&token=30126b0e-f2cb-463a-82ac-da041482ee71"
+                    },
+
+                    {
+                        "hotel_id":24,
+                        "name":"Le Meridien Pyramids Hotel and Health Club",
+                        "location":"Square - Pyramids, Al Remaya, Kafr Nassar, Al Haram, Giza 12561",
+                        "telephone":"+20 2 33777070",
+                        "description":"Le Meridien Pyramids Hotel & Health Club features unparalleled views of the charming Pyramids of Giza, just 1 km away. It features a large outdoor pool with bar area. Free Wi-Fi is available throughout the property.",
+                        "website":"https://www.marriott.com/hotels/hotel-information/fitness-center/caimd-le-meridien-pyramids-hotel-and-spa/",
+                        "location_map":{"lang":"29.9890076","late":"31.1326286"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F24.jpg?alt=media&token=b2bc56ba-f50c-43f2-923e-3e7836fbf79e"
+                    },
+
+                    {
+                        "hotel_id":25,
+                        "name":"Steigenberger Hotel",
+                        "location":"2 Bridge, Ismailia, Qasr El-Nile Division, Cairo Governorate",
+                        "telephone":"+20 2 25750777",
+                        "description":"Located in Cairo in the Cairo Governorate region, 200 meters from the Egyptian Museum, it features an outdoor pool and a sauna. Guests can enjoy the on-site restaurant. Free WiFi is available throughout the property and private parking is available on site.",
+                        "website":"https://www.steigenberger.com/en/hotels/all-hotels/egypt/cairo/steigenberger-el-tahrir-cairo",
+                        "location_map":{"lang":"30.0464902","late":"31.2368996"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F25.jpg?alt=media&token=cbe0dc97-b4f0-45f9-86ef-c098c41e9a56"
+                    },
+
+                    {
+                        "hotel_id":26,
+                        "name":"Radisson Blu Hotel, Cairo Heliopolis",
+                        "location":"Abdel Hamid Badawy Street, St, Heliopolis, Cairo Governorate 11787",
+                        "telephone":"+20 2 26965656",
+                        "description":"Offering a rooftop pool with panoramic views of Cairo, the 5-star Radisson Blu Hotel Cairo Heliopolis is located in the elegant Heliopolis district of Cairo. It features a daily breakfast buffet and free Wi-Fi with in-room LCD TV.",
+                        "website":"https://www.radissonhotels.com/en-us/hotels/radisson-blu-cairo-heliopolis",
+                        "location_map":{"lang":"30.1151342","late":"31.3704422"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F26.jpg?alt=media&token=d650bfc3-a747-4043-a084-ee3db1ba5628"
+                    },
+
+                    {
+                        "hotel_id":27,
+                        "name":"Pyramids Eyes Hotel",
+                        "location":"The capital, Kafr Nassar, Haram, Giza",
+                        "telephone":"+20 114 777 8156",
+                        "description":"Offering a terrace, Pyramids Eyes Hotel is located in Cairo, 1.8 km from Giza Pyramids. The property is conveniently located in the Giza District, 2.2 km from Great Sphinx and 13 km from Cairo Tower. The property provides a 24-hour front desk.",
+                        "website":"https://www.pyramidseyes.com/",
+                        "location_map":{"lang":"29.9897795","late":"31.1399456"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F27.jpg?alt=media&token=0c219f00-58b9-44b3-afcb-b3f716df5f85"
+                    },
+
+                    {
+                        "hotel_id":28,
+                        "name":"Heritage Hostel Cairo",
+                        "location":"Tahrir Square, 13.St Mert Pasha Street, Ismailia, Qasr El Nile Division, Cairo Governorate 11556",
+                        "telephone":"+20 2 27738099",
+                        "description":"Heritage Hostel Cairo is located in Cairo, 350 meters from Tahrir Square, and features air-conditioned rooms and a shared lounge. The property is 400 meters from The Egyptian Museum, 2.6 km from Khan Al Khalili and 3.1 km from Al-Azhar Mosque.",
+                        "website":"https://heritage-hostel-cairo.cairo-hotels-eg.com/ar/",
+                        "location_map":{"lang":"30.0476447","late":"31.2370058"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F28.jpg?alt=media&token=a698f96a-2138-4882-b086-bdffbf4a611b"
+                    },
+
+                    {
+                        "hotel_id":29,
+                        "name":"Cleopatra pyramids view",
+                        "location":"Abou Al Hool Al Seiahi, Giza, 12561 Cairo, Egypt",
+                        "telephone":"+20 101 177 7740",
+                        "description":"Located 80 meters from the Great Sphinx, Cleopatra Pyramids View Bed and Breakfast offers accommodation with free bikes, a terrace and a 24-hour front desk for your convenience.",
+                        "website":"https://www.a-hotel.com/egypt/132012-cairo/5702659-1-cleopatra-pyramids-view/",
+                        "location_map":{"lang":"29.9762053","late":"31.1436611"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F29.jpg?alt=media&token=876c03cd-bb65-4ae0-a5c3-6140acf29739"
+                    },
+
+                    {
+                        "hotel_id":30,
+                        "name":"Golden Carven Hotel",
+                        "location":"11 Mohamed Ebeid St., Of Nozha St., Heliopolis, 99999 Cairo, Egypt",
+                        "telephone":"+20 2 26906453",
+                        "description":"Golden Carven Hotel is located in an exclusive area in the heart of Heliopolis, Cairo. It features spacious and comfortable rooms with private bathrooms, suites, 2 restaurants, and a rooftop bar.",
+                        "website":"http://www.goldencarvenhotel.website/ar/",
+                        "location_map":{"lang":"30.0881826","late":"31.3395563"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F30.jpg?alt=media&token=308db025-3720-4bd4-a3a2-217f9ed6f511"
+                    },
+
+                    {
+                        "hotel_id":31,
+                        "name":"Intercontinental Cairo Citystars",
+                        "location":"Omar Ibn El Khattab, Street, Cairo Governorate 11737",
+                        "telephone":"+20 2 24800100",
+                        "description":"Located next to Citystars Shopping Center, this luxurious 5-star hotel features a large outdoor pool and 10 varied restaurants.",
+                        "website":"https://intercontinental-citystars.cairohotelspage.com/ar/",
+                        "location_map":{"lang":"30.0727943","late":"31.3472757"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F31.jpg?alt=media&token=79f6fa3a-99eb-4ed2-b312-ee9c71195998"
+                    },
+
+                    {
+                        "hotel_id":32,
+                        "name":"Fairmont Nile City",
+                        "location":"Nile City Towers 2005 B Corniche El Nil, Cairo Governorate 11311",
+                        "telephone":"+20 2 24619494",
+                        "description":"Located in the Nile City Towers by the River Nile, this 5-star hotel features a rooftop pool deck with stunning views across Cairo to the pyramids. It offers 7 places to eat and drink.",
+                        "website":"https://www.fairmont.com/nile-city-cairo/",
+                        "location_map":{"lang":"30.0718683","late":"31.2299621"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F32.jpg?alt=media&token=d6c126b7-313b-4c94-b908-989c61f5c15f"
+                    },
+
+                    {
+                        "hotel_id":33,
+                        "name":"Novotel Cairo Airport",
+                        "location":"Po Cairo Airport, Airport Road, Cairo Governorate 11776",
+                        "telephone":"+20 111 111 3822",
+                        "description":"Novotel Cairo Airport provides 2 outdoor pools in the landscaped garden, free Wi-Fi and free airport transfers. It is a 10-minute drive from the International Convention and Exhibition Center.",
+                        "website":"https://www.yellowpages.com.eg/en/profile/Novotel-Cairo-Airport/4112",
+                        "location_map":{"lang":"30.1169474","late":"31.4017436"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F33.jpg?alt=media&token=7bf64997-5990-4ccf-beb7-a70a9eff676b"
+                    },
+
+                    {
+                        "hotel_id":34,
+                        "name":"Oriental Hostel",
+                        "location":"5 Grand Serail, Qasr El-Nile Division, Cairo Governorate",
+                        "telephone":"+20 100 989 4654",
+                        "description":"Oriental Hostel is located in Cairo, 1.3 km from Tahrir Square, and features accommodation with a shared lounge and private parking. The hostel is about 2.1 km from The Egyptian Museum, as well as 2.4 km from Cairo Tower.",
+                        "website":"https://oriental-hostel.cairo-hotels-eg.com/ar/",
+                        "location_map":{"lang":"30.0379451","late":"31.2348587"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F34.jpg?alt=media&token=bf9f869b-01df-4a27-941d-da9590a81380"
+                    },
+
+                    {
+                        "hotel_id":35,
+                        "name":"Colour holidays",
+                        "location":"Shebin Street, Ismailia Square, Heliopolis Department, Cairo Governorate",
+                        "telephone":"100645353",
+                        "description":"Located in Cairo, 3.1 km from City Stars, color holidays has a garden and a terrace. The hotel is about 4.2 km from Cairo International Convention Center and 9 km from Al Hussein Mosque. Rooms have a balcony with garden views and free Wi-Fi.",
+                        "website":"https://colour-holidays.cairo-hotels-eg.com/ar/",
+                        "location_map":{"lang":"30.0966735","late":"31.3337084"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F35.jpg?alt=media&token=1fa9607e-9f87-4d13-9b95-9b8a396780a6"
+                    },
+
+                    {
+                        "hotel_id":36,
+                        "name":"Glorious Hotel",
+                        "location":"Mansheyet Al-Tahrir, Ain Shams, Cairo Governorate",
+                        "telephone":"+20 2 26340162",
+                        "description":"Located in Cairo, Glorious Hotel offers a seasonal outdoor pool, gym and sauna room. Guests can enjoy meals at the restaurant.",
+                        "website":"https://glorious-hotel.cairo-hotels-eg.com/en/",
+                        "location_map":{"lang":"30.1193244","late":"31.3316696"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F36.jpg?alt=media&token=2081469a-9af4-433a-9ed8-64b9539a6bcc"
+                    },
+
+                    {
+                        "hotel_id":37,
+                        "name":"Star Plaza Guesthouse and Apartments",
+                        "location":"22 Dr. Dr. Mbashil Bakhoum, Dokki, Dokki, Giza 12311",
+                        "telephone":"+20 112 273 7071",
+                        "description":"Star Plaza Guest House offers air-conditioned accommodation with free WiFi, a 10-minute drive from downtown Cairo. It provides an in-room breakfast menu and 24-hour room service.",
+                        "website":"https://star-plaza-guesthouse-and-apartments.cairo-hotels-eg.com/ar/",
+                        "location_map":{"lang":"30.0386479","late":"31.207839"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F37.jpg?alt=media&token=d4f3c46c-03d0-4f74-a52b-a63e4d123fd6"
+                    },
+
+                    {
+                        "hotel_id":38,
+                        "name":"A Quite Green Place in the Heart of Cairo (Females Only)",
+                        "location":"Dyar Compound Villa Y11, New Cairo City, 11865 Cairo, Egypt",
+                        "telephone":"Not Available",
+                        "description":"Located in Cairo, 22 km from City Stars, A Quar Green Place in the Heart of Cairo provides (female only) accommodations with free bikes, free WiFi, a shared kitchen, and a shared lounge. The property is 23 km from Cairo International Conference Center and features a garden and free parking.",
+                        "website":"https://www.agoda.com/ar-ae/a-quite-green-place-in-the-heart-of-cairo-females-only/hotel/cairo-eg.html?cid=-218",
+                        "location_map":{"lang":"30.0418711","late":"31.5219909"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F38.jpg?alt=media&token=b3b8f022-f63a-425a-b8f7-2c166d93e86e"
+                    },
+
+                    {
+                        "hotel_id":39,
+                        "name":"New Pyramids Eyes",
+                        "location":"The capital, Kafr Nassar, Haram ,, Haram, Giza",
+                        "telephone":"+20 114 777 8156",
+                        "description":"Located in Cairo, 2 km from Giza Pyramids and 3.1 km from Great Sphinx, New Pyramids Eyes provides accommodations with a terrace, free WiFi throughout the property, as well as free private parking for guests.",
+                        "website":"https://www.a-hotel.com/egypt/132012-cairo/5655311-1-new-pyramids-eyes/",
+                        "location_map":{"lang":"29.9897795","late":"31.1399456"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F39.jpeg?alt=media&token=a02b3e0f-10f6-4e8f-a6c0-1cc219a31045"
+                    },
+
+                    {
+                        "hotel_id":40,
+                        "name":"Lamar Hotel",
+                        "location":"Bridge Al Fangari, Beside Mansheyat, Cairo Governorate 11774",
+                        "telephone":"+20 100 648 1729",
+                        "description":"Offering a shared lounge, garden and pool view, Lamar Hotel is located in Cairo, 5 km from Cairo International Conference Center. Facilities at this property include a restaurant, a 24-hour front desk, and room service, as well as free WiFi. The hotel has family rooms.",
+                        "website":"https://lamar-hotels.cairo-hotels-eg.com/en/",
+                        "location_map":{"lang":"30.1297029","late":"31.2453635"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F40.jpg?alt=media&token=3d481372-1819-47ab-a629-64216b1fe563"
+                    },
+
+                    {
+                        "hotel_id":41,
+                        "name":"Hayat Pyramids View Hotel",
+                        "location":"3 Sphinx Street, Giza, Giza, 12511 Cairo, Egypt",
+                        "telephone":"+20 106 200 0016",
+                        "description":"Located in Cairo, Hayat Pyramids view Hotel provides accommodations with private terraces. Located in the Giza neighborhood, the property provides guests with access to a restaurant. The property offers a 24-hour front desk and free WiFi.",
+                        "website":"http://hayatpyramidsviewhotel.com/",
+                        "location_map":{"lang":"29.9754221","late":"31.1435694"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F41.jpg?alt=media&token=02e79418-08e2-4971-9a40-6e492728d9bd"
+                    },
+
+                    {
+                        "hotel_id":42,
+                        "name":"Gardenia Hostel",
+                        "location":"32 Talaat Harb Street, Down town, 11956 Cairo, Egypt",
+                        "telephone":"+20 122 548 6573",
+                        "description":"Featuring a shared lounge and views of the city, Gardenia Hostel is located in Cairo, 800 meters from Tahrir Square. The property is around 1 km from The Egyptian Museum and 2.2 km from Cairo Tower. The property is 2.2 km from Khan Al Khalili.",
+                        "website":"https://gardenia-hostel.cairo-hotels-eg.com/ar/",
+                        "location_map":{"lang":"30.0476476","late":"31.2413693"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F42.jpg?alt=media&token=f2bc3406-52d9-41f1-a045-349ccacf282f"
+                    },
+
+                    {
+                        "hotel_id":43,
+                        "name":"Agata Hostel",
+                        "location":"30 Orabi, Azbakeya, Cairo Governorate",
+                        "telephone":"+20 111 070 7313",
+                        "description":"Agata Hostel is located in Cairo, 1.6 km from Tahrir Square and 2.4 km from Khan Al Khalili. Facilities available at this property include a 24-hour front desk and a shared kitchen, as well as free WiFi throughout the property. The property provides room service, a shared lounge and organizing trips for guests.",
+                        "website":"https://agata-hostel.cairo-hotels-eg.com/en/",
+                        "location_map":{"lang":"30.0565988","late":"31.2447989"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F43.jpg?alt=media&token=2e301c7f-7c4e-4cc7-9821-f0906120f5f2"
+                    },
+
+                    {
+                        "hotel_id":44,
+                        "name":"Abdeen palace hotel",
+                        "location":"Mohamed Sabry Abu Alam Street, Assaha, Abdin, Cairo Governorate",
+                        "telephone":"+20 111 616 6155",
+                        "description":"Located in Cairo, 1.1 km from Tahrir Square and 2 km from Khan Al Khalili, Abdul Din Palace Hotel provides accommodations with a shared lounge and free WiFi, as well as free private parking for guests who drive.",
+                        "website":"https://abdeen-palace-hotel.cairo-hotels-eg.com/ar/",
+                        "location_map":{"lang":"30.0457672","late":"31.2452815"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F44.jpg?alt=media&token=aa0d3ec7-e2a5-4b26-99a2-172412782514"
+                    },
+
+                    {
+                        "hotel_id":45,
+                        "name":"Baron Hotel Heliopolis",
+                        "location":"14 Baron, Montazah, Heliopolis Department, Cairo Governorate",
+                        "telephone":"+20 2 22915757",
+                        "description":"Located in Heliopolis, Baron Hotel Heliopolis offers air-conditioned rooms with satellite TV. The hotel has an elegant restaurant with panoramic views of Baron Empain Palace. Cairo International Airport is only 12 km away.",
+                        "website":"http://www.baronhotels.com/HotelOverview.aspx?HotelId=1&LangId=1",
+                        "location_map":{"lang":"30.0875194","late":"31.3332535"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F45.jpg?alt=media&token=7462e48d-4f15-4a71-8708-dc80d4833a42"
+                    },
+
+                    {
+                        "hotel_id":46,
+                        "name":"Tahrir Hostel",
+                        "location":"11 Tahrir Square, Next to KFC, First floor, Downtown, Ismailia, Qasr El Nil Division, Cairo Governorate",
+                        "telephone":"+20 2 25754778",
+                        "description":"Tahrir Hostel is located in Cairo, 400 meters from Tahrir Square, and offers air-conditioned rooms and a shared lounge.With room service, this property also provides guests with a terrace. The property provides a 24-hour front desk, a shared kitchen and a currency exchange service for guests.",
+                        "website":"https://tahrir-square-hostel.cairo-hotels-eg.com/en/",
+                        "location_map":{"lang":"30.0451364","late":"31.2382906"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F46.jpg?alt=media&token=25dda411-4be4-4183-bd53-66f60edb691c"
+                    },
+
+                    {
+                        "hotel_id":47,
+                        "name":"Oasis Hotel",
+                        "location":"17 St Koliet ElBanat, Abdel Wahab El-Kady, Cairo Governorate 11341",
+                        "telephone":"+20 2 24157771",
+                        "description":"Oasis Hotel enjoys a central location in Heliopolis, just 20 minutes' drive from downtown Cairo, the Pyramids of Giza and the Khan el-Khalili Bazaar. Free parking is available.",
+                        "website":"https://oasis.cairo-hotels-eg.com/en/",
+                        "location_map":{"lang":"30.0802959","late":"31.327333"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F47.jpg?alt=media&token=1974dedf-bbf1-4c67-9b1f-e1c7239b257a"
+                    },
+
+                    {
+                        "hotel_id":48,
+                        "name":"Cairo Paradise Hotel",
+                        "location":"41 Sherif Street, Fuwala, Abdin, Cairo Governorate",
+                        "telephone":"+20 2 23964220",
+                        "description":"Located in the heart of Cairo, this hotel offers air-conditioned rooms with free Wi-Fi and balcony. It has a 24-hour front desk, which offers car rental and shuttle service. The Egyptian Museum is just 10 minutes' walk from the hotel.",
+                        "website":"https://cairo-paradise-hotel.cairo-hotels-eg.com/ar/",
+                        "location_map":{"lang":"30.0520287","late":"31.2448332"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F48.jpg?alt=media&token=f52a2298-5358-48a3-89c6-854bb85252df"
+                    },
+
+                    {
+                        "hotel_id":49,
+                        "name":"Four Seasons Hotel Cairo at Nile Plaza",
+                        "location":"1089 CORNICHE EL NIL, Qasr El-Nil District, Cairo Governorate 11519",
+                        "telephone":"+20 2 27917000",
+                        "description":"This 5-star hotel offers air-conditioned rooms with flat-screen satellite TVs, a marble bathroom and panoramic views of the Nile. It features luxury spa facilities and a scenic outdoor pool area.",
+                        "website":"https://www.fourseasons.com/content/fourseasons/en/properties/caironp/landing_pages/ppc/landing_3.html/?gclid=CjwKCAiAj-_xBRBjEiwAmRbqYtw9KphsjANPX-TQou1nsBUzWwAF0CP0xHJMh8TvI0TEB9gy0__EbhoCZI8QAvD_BwE&source=gaw09cnpS06&ef_id=CjwKCAiAj-_xBRBjEiwAmRbqYtw9KphsjANPX-TQou1nsBUzWwAF0CP0xHJMh8TvI0TEB9gy0__EbhoCZI8QAvD_BwE:G:s&s_kwcid=AL!4732!3!403098867962!b!!g!!%2Bfour%20%2Bseasons%20%2Bhotel%20%2Bcairo%20%2Bnile%20%2Bplaza",
+                        "location_map":{"lang":"30.036237","late":"31.2317397"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F49.jpg?alt=media&token=2abb6205-be07-4774-bf4d-b350caf82e06"
+                    },
+
+                    {
+                        "hotel_id":50,
+                        "name":"Grand Pyramids Hotel",
+                        "location":"53 Al-Ahram Studio, Nazlet El-Batran, Gîza, Giza",
+                        "telephone":"+20 2 33881883",
+                        "description":"The air-conditioned rooms at the 4-star Grand Pyramids Hotel have a balcony overlooking the Pyramids of Giza or the hotel's designer gardens. Other in-room amenities include a satellite TV and minibar.",
+                        "website":"https://www.yellowpages.com.eg/en/profile/Grand-Pyramids-Hotel/129353",
+                        "location_map":{"lang":"30.0021166","late":"31.1932243"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_hotels_pic%2F50.jpg?alt=media&token=3cf25523-031b-4827-a242-778cc72222d9"
+                    }
+                ],
+
+
+                
+
+            "alexandria_hotels":
+                [
+                    {
+                        "hotel_id":1,
+                        "name":"Steigenberger Cecil Hotel",
+                        "location":"16, Saad Zagloul Square Raml Station Alexandria, Alexandria 11053 Egypt",
+                        "telephone":"+20 3 4877173",
+                        "description":"Guests can enjoy the sea view from the balcony or the terrace. The living and sleeping area contains a double bed.",
+                        "website":"https://www.steigenberger.com/en/hotels/all-hotels/egypt/alexandria/steigenberger-cecil-hotel/rooms",
+                        "location_map":{"lang":"31.2010831","late":"29.9006663"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F1.jpg?alt=media&token=5d74fa6c-4efc-499e-9c33-e9555ad29e7f"
+                    },
+
+                    {
+                        "hotel_id":2,
+                        "name":"TOLIP Hotel Alexandria",
+                        "location":"252 El-Gaish Rd Mustafa Kamel WA Bolkli, Alexandria 0000 Egypt",
+                        "telephone":"+20 3 5419330",
+                        "description":"Hotel in Alexandria, 3 stars hotel.",
+                        "website":"https://www.tolipalexandria.com/en-us",
+                        "location_map":{"lang":"31.2316262","late":"29.9482968"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F2.jpg?alt=media&token=e253dab2-9492-46ca-a278-6114a5d3125a"
+                    },
+
+                    {
+                        "hotel_id":3,
+                        "name":"Paradise Inn Windsor Palace Hotel",
+                        "location":"17 El Shohada Street from El Gish St, El Mansheya, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 4802410",
+                        "description":"Hotel in Alexandria, 4 stars hotel.",
+                        "website":"http://www.paradiseinnegypt.com/newwebsite/",
+                        "location_map":{"lang":"31.2003845","late":"29.898979"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F3.jpg?alt=media&token=cdfb4872-9b8f-48e8-a531-e6cf48ff9b80"
+                    },
+
+                    {
+                        "hotel_id":4,
+                        "name":"Hilton Alexandria Corniche",
+                        "location":"544 El Geish Road, Sidi Bishr, Alexandria 21611 Egypt",
+                        "telephone":"+20 3 5490935",
+                        "description":"Guests can enjoy the sea view from the balcony or the terrace.",
+                        "website":"https://www.hilton.com/en/book/reservation/rooms?WT.mc_id=zINDA0EN1XX2OLX3DA4MS5TripadvisorBL6ALYACHI7_110561617&dclid=COOf74fWv-cCFXDJ4wcdz2cPSA&utm_campaign=business_listings&utm_medium=intlmeta&utm_source=tripadvisor",
+                        "location_map":{"lang":"31.261531","late":"29.986004"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F4.jpg?alt=media&token=a81267ed-2d24-40bd-91bf-d726fbba2409"
+                    },
+
+                    {
+                        "hotel_id":5,
+                        "name":"Cherry Maryski Hotel",
+                        "location":"9 Al Borsa Al Kadima St Al Raml Station, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 4881111",
+                        "description":"Most of the rooms overlook the sea, the living and sleeping section has its furnished bed in rugs, double bed, there are separate bedrooms.",
+                        "website":"https://cherry-maryski-alexandria.h-rez.com/contact.htm",
+                        "location_map":{"lang":"31.1983916","late":"29.8978027"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F5.jpg?alt=media&token=1b48d4b2-c149-4b08-9de4-901a326dd03f"
+                    },
+
+                    {
+                        "hotel_id":6,
+                        "name":"Four Seasons Hotel Alexandria",
+                        "location":"399 El Geish Road, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 5818000",
+                        "description":"5-star hotel, this hotel offers family rooms and smoking room.",
+                        "website":"https://alexandria.grandluxuryhotels.com/en/h/145/four-seasons-hotel-alexandria-at-san-stefano?gclid=Cj0KCQiAsvTxBRDkARIsAH4W_j9xu-PwPi6kE56JtpLtvwK98oQx1LNjOZ7FhHzvJHXVYP9yo7lddlgaAv-VEALw_wcB",
+                        "location_map":{"lang":"31.2455625","late":"29.96895"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F6.jpg?alt=media&token=ebfa93b0-8949-4d15-9e72-325601acc170"
+                    },
+
+                    {
+                        "hotel_id":7,
+                        "name":"Paradise Inn Le Metropole Hotel",
+                        "location":"52 Saad Zaglol Street Raml Station, Alexandria, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 4862040",
+                        "description":"Guests can enjoy the sea view from the balcony or the terrace.",
+                        "website":"http://www.paradiseinnegypt.com/newwebsite/",
+                        "location_map":{"lang":"31.200694","late":"29.9024757"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F7.jpg?alt=media&token=64d91d16-3fd9-45b1-b5bc-57a78c00d52c"
+                    },
+
+                    {
+                        "hotel_id":8,
+                        "name":"Eatabe Alexandria Hotel",
+                        "location":"303 Tareek El Gueish Saba Pasha, Alexandria 31211 Egypt",
+                        "telephone":"+20 3 5840912",
+                        "description":"This 4 star hotel is located in the elegant Saba Pasha district, between the Montaza Palace and the centre of the city.",
+                        "website":"http://www.romance-alex.com/",
+                        "location_map":{"lang":"31.23683","late":"29.9550887"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F8.jpg?alt=media&token=62565130-557c-4841-9825-5c2c80a73739"
+                    },
+
+                    {
+                        "hotel_id":9,
+                        "name":"Alexander the Great Hotel",
+                        "location":"5 Oskofia St. Manshia, Alexandria 21599 Egypt",
+                        "telephone":"+20 122 560 3476",
+                        "description":"Located in Alexandria city center, Alexander The Great Hotel offers air-conditioned rooms with balconies and free Wi-Fi.",
+                        "website":"https://www.yellowpages.com.eg/en/profile/Alexander-The-Great-Hotel/346728",
+                        "location_map":{"lang":"31.1948731","late":"29.8979931"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F9.jpg?alt=media&token=62f9d0f0-84f0-4a0c-a95f-135cc36d9a96"
+                    },
+
+                    {
+                        "hotel_id":10,
+                        "name":"Hilton Alexandria Green Plaza",
+                        "location":"14th of May Bridge Road Smouha, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 4209120",
+                        "description":"Hilton Alexandria Green Plaza offers contemporary accommodation and a wealth of business and leisure amenities.",
+                        "website":"https://ar.hilton.com/en_ar/hotels/hilton-alexandria-green-plaza/",
+                        "location_map":{"lang":"31.206506","late":"29.9677133"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F10.jpg?alt=media&token=7bbb5e53-25b5-4727-81d7-3e58abaa7c53"
+                    },
+
+                    {
+                        "hotel_id":11,
+                        "name":"Helnan Palestine Hotel",
+                        "location":"Montazah Garden Palace, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 5473500",
+                        "description":"The hotel is a five star deluxe hotel, situated in a unique location and embracing the Mediterranean and providing harmonious scenery.",
+                        "website":"http://www.helnan.com/en/Hotels/Index/5",
+                        "location_map":{"lang":"31.288627","late":"30.0202377"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F11.jpg?alt=media&token=ad3aa87c-d167-4cd0-b510-4d65243f1d76"
+                    },
+
+                    {
+                        "hotel_id":12,
+                        "name":"Sheraton Montazah Hotel",
+                        "location":"El Corniche Road, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 5480550",
+                        "description":"Sheraton Montazah Hotel near Montazah Palace features gardens on one side and the bright blue waters of the Mediterranean Sea on the other.",
+                        "website":"https://www.marriott.co.uk/reservation/rateListMenu.mi?defaultTab=prepay",
+                        "location_map":{"lang":"31.2811595","late":"30.0136721"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F12.jpg?alt=media&token=8049ac1d-ee06-4340-b60f-58737d8d6985"
+                    },
+
+                    {
+                        "hotel_id":13,
+                        "name":"Philip House Hotel",
+                        "location":"1 Ibn Bassam St. Raml Station, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 4875513",
+                        "description":"The sea view available in many rooms contributes to a beautiful ambience.",
+                        "website":"https://www.agoda.com/philip-house-hotel/hotel/alexandria-eg.html?cid=-218",
+                        "location_map":{"lang":"31.202406","late":"29.9039124"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F13.jpg?alt=media&token=4fe0c948-cadf-4b1e-9490-24c8fa9a0a8e"
+                    },
+
+                    {
+                        "hotel_id":14,
+                        "name":"Hilton Alexandria King's Ranch",
+                        "location":"10 5 Km Borg Elarab Rd, King Mariout, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 4530180",
+                        "description":"Hilton Alexandria King's Ranch is set in the dynamic new industrial area of Alexandria, adjacent to the King's Ranch Equestrian Club and just 15 minutes' drive from Borg El Arab Airport.",
+                        "website":"https://www3.hilton.com/en/hotels/egypt/hilton-alexandria-kings-ranch-ALYKRHI/index.html",
+                        "location_map":{"lang":"30.9822128","late":"29.6950294"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F14.jpg?alt=media&token=ff8ae33b-9b6c-48cd-a546-9f85d112cca7"
+                    },
+
+                    {
+                        "hotel_id":15,
+                        "name":"The Grand Plaza Hotel Smouha",
+                        "location":"14th May Avenue, Smouha Pharos University Entrance, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 3786100",
+                        "description":"The Grand Plaza Hotel is The Ideal Hotel in Alexandria - The Mediterranean Mermaid and The Second Capital of Egypt.",
+                        "website":"https://www.tgphotels.com/",
+                        "location_map":{"lang":"31.2088993","late":"29.962628"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F15.jpg?alt=media&token=089b11bd-4911-4a58-b24e-db990c97bc7a"
+                    },
+
+                    {
+                        "hotel_id":16,
+                        "name":"Kaoud Sporting Hotel",
+                        "location":"133 Al Gaish Road, Alexandria 1215 Egypt",
+                        "telephone":"+20 120 437 8958",
+                        "description":"It overlooks the sea and is a few minutes away from the Planetarium. The hotel has 100 modern rooms.",
+                        "website":"https://kaoud-sporting-alexandria-hotel.albooked.com/",
+                        "location_map":{"lang":"31.2219735","late":"29.934307"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F16.jpg?alt=media&token=25e9e06f-c900-4687-afe3-111924570dad"
+                    },
+
+                    {
+                        "hotel_id":17,
+                        "name":"Triomphe Hotel",
+                        "location":"26 El Gorfa El Togaria St.- Ramlah Station, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 4807585",
+                        "description":"Hotel in Alexandria, 2 stars hotel.",
+                        "website":"https://www.agoda.com/ar-ae/triomphe-hostel/hotel/alexandria-eg.html?site_id=1829928&tag=4242716c-e3d3-4668-a117-89e77193f3a6&device=c&network=g&adid=361280868659&rand=3054312779932273199&expid=&adpos=1o1&gclid=Cj0KCQiAsvTxBRDkARIsAH4W_j-mymNxUNVd0sFKMmBWrS7QIiKhctHsxZL7siFgFTgF2FXprnUhDaYaAnl7EALw_wcB",
+                        "location_map":{"lang":"31.2003459","late":"29.9005332"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F17.jpg?alt=media&token=aab40045-0483-4f18-aaf8-e08add8f7c8a"
+                    },
+
+                    {
+                        "hotel_id":18,
+                        "name":"Royal Crown Hotel Alexandria",
+                        "location":"160 El Guish Rd. Cleopatra, Alexandria 21599 Egypt",
+                        "telephone":"+20 114 169 9488",
+                        "description":"3-star Hotel with Free Breakfast and Restaurant. Near Stanly Bridge.",
+                        "website":"https://royal-crown-alexandria-hotel.albooked.com/",
+                        "location_map":{"lang":"31.2201897","late":"29.941312"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F18.jpg?alt=media&token=b140eafd-00af-4477-bebd-590308a7e144"
+                    },
+
+                    {
+                        "hotel_id":19,
+                        "name":"Paradise Inn Beach Resort",
+                        "location":"Maamoura Beach El-Shaheed youssef El-Sebaey Maamoura Beach, Maamoura, Alexandria",
+                        "telephone":"+20 3 5650152",
+                        "description":"Overlooking Mamoura beach, Paradise Inn Beach Resort offers rooms with a spa bath and a balcony.",
+                        "website":"http://www.paradiseinnegypt.com/newwebsite/",
+                        "location_map":{"lang":"31.28893","late":"30.0272117"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F19.jpg?alt=media&token=9702ffe3-81a5-4da4-9708-3d1291776f31"
+                    },
+
+                    {
+                        "hotel_id":20,
+                        "name":"Radisson Blu Hotel",
+                        "location":"Mehwar El Taameer Northern Coast Road 21st KM, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 5896000",
+                        "description":"Hotel offers stylish accommodation with private terraces to capitalize on the stunning surrounding scenery.",
+                        "website":"https://www.radissonhotels.com/en-us/hotels/radisson-blu-alexandria/reviews",
+                        "location_map":{"lang":"31.0557568","late":"29.7219363"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F20.jpg?alt=media&token=6b0e124e-ebb1-4b61-834b-715ab8c1c6e3"
+                    },
+
+                    {
+                        "hotel_id":21,
+                        "name":"Fouad Hotel",
+                        "location":"1 Digla St., Alramel Station, Corniche Road, Alexandria 00203 Egypt",
+                        "telephone":"+20 3 4870684",
+                        "description":"Fouad Hotel is a 2-star property 1.8 km from Alexandria Zoo.",
+                        "website":"https://www.agoda.com/ar-ae/fouad-hotel/hotel/alexandria-eg.html?site_id=1829928&tag=ca43af39-e2ac-4f7e-9f9e-170ae94a1a29&device=c&network=g&adid=361281069590&rand=14089672622983254384&expid=&adpos=1o1&gclid=Cj0KCQiAsvTxBRDkARIsAH4W_j-TkATCvpWGUATnRiO-BGjwTUCkNKvAgjijN1sD5BCf57t0gruXmTwaAimxEALw_wcB",
+                        "location_map":{"lang":"31.202324","late":"29.9037631"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F21.jpg?alt=media&token=df717d10-1066-404f-8622-a017a0e6f216"
+                    },
+
+                    {
+                        "hotel_id":22,
+                        "name":"Africana Hotel",
+                        "location":"11 km Borg El Arab Road King Mariout King Mariout, Alexandria 23713 Egypt",
+                        "telephone":"+20 3 4530100",
+                        "description":"Africana Hotel & Spa is a 4 Star Hotel located in Alexandria, King Mariout, Borg El Arab, 20 minutes away from Alexandria downtown.",
+                        "website":"https://africanahotel.com/",
+                        "location_map":{"lang":"30.986695","late":"29.684114"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F22.jpg?alt=media&token=b963b76f-a15b-4831-916b-b49efbc3efc5"
+                    },
+
+                    {
+                        "hotel_id":23,
+                        "name":"Green Plaza Inn Hotel",
+                        "location":"14th May Bridge, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 3830284",
+                        "description":"green plaza is situated in the heart of smouha district close to most of the transportaion facilities Individual AC in rooms - wireless internet access - safe deposit box at front office.",
+                        "website":"https://green-plaza-inn-alexandria.booked.net/",
+                        "location_map":{"lang":"31.2068462","late":"29.9651861"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F23.jpg?alt=media&token=4f0203d4-1742-4d01-b402-2a7f3cdda1d5"
+                    },
+
+                    {
+                        "hotel_id":24,
+                        "name":"Palma Inn Resort",
+                        "location":"Qasr Montazah Garden, Alexandria",
+                        "telephone":"+20 100 661 5215",
+                        "description":"Palma Inn is located in El Montazah Palace's gardens in Alexandria, facing Aida Beach, in the center of 400 acres of picturesque gardens.",
+                        "website":"https://palma-inn-resort-montazah-palace.business.site/",
+                        "location_map":{"lang":"31.2865008","late":"30.0159601"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F24.jpg?alt=media&token=6b67b417-bea2-48c6-8998-e351cec0a3f0"
+                    },
+
+                    {
+                        "hotel_id":25,
+                        "name":"San Giovanni Hotel",
+                        "location":"205 El Gueish Avenue Stanly Bay, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 5467774",
+                        "description":"San Giovanni Hotel is a great choice when visiting Alexandria. Providing an ideal mix of value, comfort and convenience, it offers a boutique setting with an array of amenities designed for travellers like you.",
+                        "website":"https://san-giovanni-stanly-hotel-restaurant-alexandria.albooked.com/",
+                        "location_map":{"lang":"31.2339949","late":"29.9499411"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F25.jpg?alt=media&token=c2c0757c-b37b-4266-94ec-2a2a1f7b2e43"
+                    },
+
+                    {
+                        "hotel_id":26,
+                        "name":"Amoun Hotel",
+                        "location":"32 El Nasr Street El manshia, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 4818239",
+                        "description":"Amoun hotel location goes back to the historical Ancient Alexandria, being located on the south border of the ancient pharos island.",
+                        "website":"https://www.amoun-hotels.com/",
+                        "location_map":{"lang":"30.6287391","late":"31.1081626"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F26.jpg?alt=media&token=ac92f02c-9d7c-429d-b732-ba6a0dee7467"
+                    },
+
+                    {
+                        "hotel_id":27,
+                        "name":"Eastern Al Montazah Hotel",
+                        "location":"El Malek Street, Alexandria 12345 Egypt",
+                        "telephone":"+20 3 3277007",
+                        "description":"Eastern Al Montazah Hotel is an excellent choice for travellers visiting Alexandria, offering many helpful amenities designed to enhance your stay.",
+                        "website":"https://eastern-al-montazah-hotel-alexandria.albooked.com/",
+                        "location_map":{"lang":"31.2784514","late":"30.0252488"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F27.jpg?alt=media&token=0a51b5a2-6c69-408f-8e1e-1c7cf7fdf74b"
+                    },
+
+                    {
+                        "hotel_id":28,
+                        "name":"Regency Hotel",
+                        "location":"695 Corniche Road, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 5486973",
+                        "description":"Rooms offer air conditioning providing exceptional comfort and convenience, and guests can go online with free wifi.",
+                        "website":"https://www.yellowpages.com.eg/en/profile/Regency-Hotel/38241",
+                        "location_map":{"lang":"31.2753651","late":"30.005667"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F28.jpg?alt=media&token=f2790535-bd03-4fff-85d4-19c0fcacd9a1"
+                    },
+
+                    {
+                        "hotel_id":29,
+                        "name":"Aifu Resort",
+                        "location":"Sheraton Montazah Towers, Corniche Road, Montazah, Second Section Montazah.",
+                        "telephone":"+20 3 5800202",
+                        "description":"Hotel in Alexandria, 3 stars hotel.",
+                        "website":"https://www.hotels.com/ho495838/aifu-resort-alexandria-egypt/?pos=HCOM_ME&locale=en_IE&rffrid=sem.hcom.AB.google.003.00.04.s.kwrd=c.342824898475.51984192135.1056225241..aud-307274438801:dsa-723206997117.1028889.1005386.0.Cj0KCQiAsvTxBRDkARIsAH4W_j9j_YXrBNqPlsiSxSH2vFvy_FX4P43PjWKpfbTVCtZPCU_xqUyK-o4aAq_bEALw_wcB.aw.ds&PSRC=AFF05&gclid=Cj0KCQiAsvTxBRDkARIsAH4W_j9j_YXrBNqPlsiSxSH2vFvy_FX4P43PjWKpfbTVCtZPCU_xqUyK-o4aAq_bEALw_wcB&gclsrc=aw.ds",
+                        "location_map":{"lang":"31.281138","late":"30.0156855"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F29.jpg?alt=media&token=667feaaa-5f16-4834-ab66-3d6c9f5afe22"
+                    },
+
+                    {
+                        "hotel_id":30,
+                        "name":"Hotel Transit Alexandria",
+                        "location":"1 Gamal Al Deen Yassin St. Raml Station, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 4851198",
+                        "description":"Hotel Transit Alexandria Egypt offers a comfortable stay with low price, find all the most important information and site seeing places in Alexandria.",
+                        "website":"https://www.selectegypt.com/hotels-in-alexandria/transit-hotel-alexandria.html",
+                        "location_map":{"lang":"31.2003846","late":"29.9000785"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F30.jpg?alt=media&token=49f767b0-cfd7-4a32-9b24-e6ead5d43cb0"
+                    },
+
+                    {
+                        "hotel_id":31,
+                        "name":"TOLIP Family Club Borg El Arab Hotel",
+                        "location":"Borg El Arab Stadium, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 4680058",
+                        "description":"TOLIP Borg El Arab is a sports and Eco Hotel that boosts 90 rooms & suites elegantly appointed with breath-taking view of the green landscape and feature all modern amenities with privileges.",
+                        "website":"http://www.tolipborgelarab.com/",
+                        "location_map":{"lang":"30.9984813","late":"29.7396479"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F31.jpg?alt=media&token=6d1ad5dc-f60f-4205-a7e3-b0fcd16e12d5"
+                    },
+
+                    {
+                        "hotel_id":32,
+                        "name":"Plaza Hotel",
+                        "location":"394 El Guish Road, San Stefano, Qism El-Raml, Alexandria",
+                        "telephone":"+20 3 5838715",
+                        "description":"Hotel offers many amenities designed to enhance your stay. Nearby landmarks such as Mustafa Kamel Necropolis (1.4 mi) and Chatby Tombs (2.4 mi) making it a great place to stay when visiting Alexandria.",
+                        "website":"https://plazahotelalex.com/pha2/",
+                        "location_map":{"lang":"31.2444445","late":"29.9671294"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F32.jpg?alt=media&token=cea0407c-07c7-4e47-8615-99725b6d4fd5"
+                    },
+
+                    {
+                        "hotel_id":33,
+                        "name":"Adham Compound Hotel",
+                        "location":"Km 1.5 Borg El-Arab Hwy King Marriout, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 4578325",
+                        "description":"3-star Hotel with Free Breakfast and Restaurant. Near Taposiris Magna. Free WiFi.",
+                        "website":"https://www.adhamcompoundhotel.com/",
+                        "location_map":{"lang":"31.0225444","late":"29.7746765"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F33.jpg?alt=media&token=906954a2-1a64-4500-9d75-9c7b60c11e19"
+                    },
+
+                    {
+                        "hotel_id":34,
+                        "name":"Hotel Delta",
+                        "location":"14 Champollion Street, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 4865188",
+                        "description":"Hotel offers many amenities designed to enhance your stay. Given the close proximity of popular landmarks, such as Fort Qaitbey (1.4 mi) and Lighthouse of Alexandria (1.5 mi).",
+                        "website":"https://www.booking.com/hotel/eg/delta.ar.html?aid=356980;label=gog235jc-1DCAsoQ0IFZGVsdGFIM1gDaEOIAQGYAQG4ARfIAQzYAQPoAQGIAgGoAgO4AvDp9_EFwAIB;sid=91aceca886fd130724b9cbf553c6de85;dist=0&keep_landing=1&sb_price_type=total&type=total&",
+                        "location_map":{"lang":"31.2069968","late":"29.9339578"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F34.jpg?alt=media&token=8ae9498d-857d-4724-bec0-f92692c01df1"
+                    },
+
+                    {
+                        "hotel_id":35,
+                        "name":"Alexandria Mediterranean Suites",
+                        "location":"6 Neamat Allah St. Corniche Road, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 5558339",
+                        "description":"Guest rooms offer air conditioning, a refrigerator and a kitchenette, and it's easy to get online as internet access is available.",
+                        "website":"http://www.mediterraneansuites.com/",
+                        "location_map":{"lang":"31.2777304","late":"30.0097873"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F35.jpg?alt=media&token=22900265-6d24-4cec-a94b-4d2ed6d783c4"
+                    },
+
+                    {
+                        "hotel_id":36,
+                        "name":"Abeer Hotel Alexandria",
+                        "location":"21 Hasan El Sheikh Street, Alexandria 21599 Egypt",
+                        "telephone":"+20 100 184 4422",
+                        "description":"Hotel in Alexandria, 3 stars hotel.",
+                        "website":"https://www.yellowpages.com.eg/en/profile/Abeer-Hotel-Alexandria/576998",
+                        "location_map":{"lang":"31.1896008","late":"29.9340778"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F36.jpg?alt=media&token=eb45fc97-4e07-4f81-90c7-492fd639f016"
+                    },
+
+                    {
+                        "hotel_id":37,
+                        "name":"Umaraa North Coast Alexandria",
+                        "location":"4 155 Tariq Aljaysh Kwrnysh Al'Iiskandariat Eamarat Aleadlii Bilazaan Eamaratan, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 5414023",
+                        "description":"Set 1.7 km from Stanley Beach, Umaraa Al Sahel Alexandria North Coast offers air-conditioned accommodation with a balcony.",
+                        "website":"https://www.gites.fr/gites_umaraa-al-sahel-alexandria-north-coast_alexandrie_h2381959_en.htm",
+                        "location_map":{"lang":"31.2703909","late":"29.9960656"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F37.jpg?alt=media&token=fa503298-e14e-4078-9afe-714ff605fcf3"
+                    },
+
+                    {
+                        "hotel_id":38,
+                        "name":"Gleem Luxury Apartments",
+                        "location":"366 El-Gaish Road, Alexandria 21619 Egypt",
+                        "telephone":"+20 102 391 8555",
+                        "description":"Gleem Luxury Apartments is located in Alexandria, 14 km from Alexandria Citadel. Alexandria Zoo is 10 km away.",
+                        "website":"https://gleem-luxury-apartments-alexandria.hotelmix.co.uk/",
+                        "location_map":{"lang":"31.240372","late":"29.96039"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F38.jpg?alt=media&token=c4b98cbc-4801-422a-82dd-2da53132447b"
+                    },
+                    
+                    {
+                        "hotel_id":39,
+                        "name":"Stanley Bridge Apartment",
+                        "location":"12 Shohdy Basha Street Stanley, Alexandria 21599 Egypt",
+                        "telephone":"+20 120 807 0636",
+                        "description":"Stanley Bridge Apartment features air-conditioned guest accommodation in Alexandria, 100 metres from Stanley Beach, 6 km from Alexandria Zoo and 10 km from Catacombs of Kom el Shoqafa.",
+                        "website":"https://stanley-bridge-apartment-alexandria.booked.net/",
+                        "location_map":{"lang":"31.2358372","late":"29.9518824"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F39.jpg?alt=media&token=b29f1915-ce5f-4db2-a5d3-94366ff1f17a"
+                    },
+
+                    {
+                        "hotel_id":40,
+                        "name":"Hotel Acropole",
+                        "location":"1 Gamal el deen Yassin, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 4805980",
+                        "description":"Hotel in Alexandria, 2 stars hotel.",
+                        "website":"https://www.booking.com/hotel/eg/acropole-alexandria.en-gb.html?aid=356980;label=gog235jc-1DCAsoQ0ITYWNyb3BvbGUtYWxleGFuZHJpYUgzWANoQ4gBAZgBCbgBF8gBDNgBA-gBAYgCAagCA7gCioH48QXAAgE;sid=91aceca886fd130724b9cbf553c6de85;dist=0&keep_landing=1&sb_price_type=total&type=total&",
+                        "location_map":{"lang":"31.200368","late":"29.9006536"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F39.jpg?alt=media&token=b29f1915-ce5f-4db2-a5d3-94366ff1f17a"
+                    },
+
+                    {
+                        "hotel_id":41,
+                        "name":"Apartments At Ibrahemia Alexandria",
+                        "location":"21 Ali Abbas El Halwani Street, Alexandria 12345 Egypt",
+                        "telephone":"+20 102 214 4434",
+                        "description":" Apartments at Ibrahemia, Alexandria features sea views and free WiFi, 2.8 km from Stanley Beach and 6 km from Alexandria Zoo.",
+                        "website":"Not available",
+                        "location_map":{"lang":"31.2173448","late":"29.9284578"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F41.jpg?alt=media&token=a91cabc5-afdd-4ee0-9640-103215cdcf18"
+                    },
+
+                    {
+                        "hotel_id":42,
+                        "name":"Royal NJ Hotel",
+                        "location":"Central Zone Block 5 No. 1 Borg El Arab New City, Alexandria 21599 Egypt",
+                        "telephone":"+20 127 107 2843",
+                        "description":"The living and sleeping area contains a double bed. Wi-Fi (for an additional fee) adds extra convenience.",
+                        "website":"https://royal-nj-hotel-alexandria.booked.net/",
+                        "location_map":{"lang":"30.8838481","late":"29.5937498"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F42.jpg?alt=media&token=87ab81cd-bb49-41db-a0bd-289ada187837"
+                    },
+
+                    {
+                        "hotel_id":43,
+                        "name":"Sea Star Hotel",
+                        "location":"24 Amin Fikri St., Raml Station, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 4805343",
+                        "description":"The sea view available in many rooms contributes to a beautiful ambience.",
+                        "website":"https://www.booking.com/hotel/eg/sea-star-alexandria.ar.html",
+                        "location_map":{"lang":"31.199698","late":"29.9273955"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F43.jpg?alt=media&token=c1698ebf-7a3e-4f45-a2e9-c9fcbd1a4f6f"
+                    },
+
+                    {
+                        "hotel_id":44,
+                        "name":"El Karnak Hotel",
+                        "location":"91 26th of July Rd. Azarita, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 4871593",
+                        "description":"Karnak Hotel is set in Alexandria, within 3.3 km of Catacombs of Kom el Shoqafa and 5 km of Alexandria Zoo.",
+                        "website":"https://www.booking.com/hotel/eg/karnak-alexandria.ar.html",
+                        "location_map":{"lang":"31.20753","late":"29.9084827"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F44.jpg?alt=media&token=6abc1533-c7e5-48b5-b26d-0f404be7daa5"
+                    },
+
+                    {
+                        "hotel_id":45,
+                        "name":"Louran Residence",
+                        "location":"3 Galal Zahran Street Off Shaarawy Avenue Louran, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 5821853",
+                        "description":"Louran Residence features fully furnished residential apartments, in a central location of Alexandria.",
+                        "website":"https://www.booking.com/searchresults.ar.html?aid=325251;label=louran-residence-XxTagVfR1H062QRpbZVQJwS153346527104%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-181873117443%3Akwd-265257282441%3Alp1028889%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9Yf5EcukO1MOGIypD9VxwdVo;sid=91aceca886fd130724b9cbf553c6de85;city=-290263;expand_sb=1;highlighted_hotels=1966629;hlrd=no_dates;keep_landing=1;redirected=1;source=hotel&gclid=Cj0KCQiAsvTxBRDkARIsAH4W_j-5up14OatwBY5u153_KyytngNiku2LSYSoWPvlZMij-CU-X1IQIasaAn5MEALw_wcB&",
+                        "location_map":{"lang":"31.2092045","late":"29.9260407"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F45.jpg?alt=media&token=2a341432-f784-4774-bca4-474c59ca237d"
+                    },
+
+                    {
+                        "hotel_id":46,
+                        "name":"Ramsis Hotel",
+                        "location":"236 El Kornish Road, Azarita, FL5, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 4869620",
+                        "description":"The Hotel is Three stars, deluxe, sea view & modern hotel that provides all the services you need.",
+                        "website":"Not available",
+                        "location_map":{"lang":"31.2054689","late":"29.9072767"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F46.jpg?alt=media&token=43453839-2306-47f4-84b8-a0e4f376a644"
+                    },
+
+                    {
+                        "hotel_id":47,
+                        "name":"Lagoon Hotel and Spa Alexandria",
+                        "location":"Beside Downtown Mall, Alexandria 99999 Egypt",
+                        "telephone":"+20 3 3854019",
+                        "description":"Lagoon Hotel and Spa Alexandria is an excellent choice for travellers visiting Alexandria, offering many helpful amenities designed to enhance your stay.",
+                        "website":"https://eg.wego.com/en/hotels/searches/HBE/2020-02-15/2020-02-16/1/2/1553882?guests=2",
+                        "location_map":{"lang":"31.1701928","late":"29.9359926"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F47.jpg?alt=media&token=27f73c75-bf62-4156-804c-5e0cf2ac94b3"
+                    },
+
+                    {
+                        "hotel_id":48,
+                        "name":"Maamura Palace Hotel",
+                        "location":"1 Youssef El Sebaey St. El Mamorah Shatia, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 5473108",
+                        "description":"Maamura palace hotel is a unique property in the heart of Alexandria, combining a stellar seafront location and secluded private beach.",
+                        "website":"http://maamurapalacehotel.com/",
+                        "location_map":{"lang":"31.2879694","late":"30.0277765"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F48.jpg?alt=media&token=b320af45-a149-4bde-9223-a59a67c40d4e"
+                    },
+
+                    {
+                        "hotel_id":49,
+                        "name":"Blue Riviera Hotel",
+                        "location":"65 El Guish Rd. Sporting, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 5921285",
+                        "description":"Hotel in Alexandria.",
+                        "website":"https://vymaps.com/EG/Blue-Riviera-Hotel-377150/",
+                        "location_map":{"lang":"31.2191262","late":"29.9303674"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F49.jpg?alt=media&token=9d26dbc4-878b-4b7a-8ff0-0a2c4762bfde"
+                    },
+
+                    {
+                        "hotel_id":50,
+                        "name":"Jeddah Hotel",
+                        "location":"137 El Gueish St, Alexandria 21599 Egypt",
+                        "telephone":"+20 3 5468662",
+                        "description":"Hotel in Alexandria",
+                        "website":"https://www.agoda.com/ar-ae/pages/agoda/default/DestinationSearchResult.aspx?city=9777&site_id=1829930&tag=d640ea88-b412-3d24-bcb3-e755a5dbf52f&device=c&network=g&adid=363992298675&rand=3893316387303617533&expid=&adpos=1o1&gclid=Cj0KCQiAsvTxBRDkARIsAH4W_j8wxk3wmZuin9_k65cc6IoY4py43milCDs9FRbMCnvedXCjHsKvniIaAiQeEALw_wcB",
+                        "location_map":{"lang":"31.2213881","late":"29.9340045"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_hotels_pic%2F50.jpg?alt=media&token=1ed1c69d-86ef-4590-bdb1-41de4275d74b"
+                    }
+                ],
+
+            "luxor_hotels":
+                [
+                    {
+                        "hotel-id":1,
+                        "name":"Hilton Luxor Resort & Spa",
+                        "location":"New Karnak, Luxor 13 Egypt",
+                        "telephone":"00 44 800 028 1252",
+                        "description":"Hotel in Luxor",
+                        "website":"https://www.hilton.com/en/book/reservation/rooms?WT.mc_id=zINDA0EN1XX2OLX3DA4MS5TripadvisorBL6LUXHITW7_120899608&dclid=COu2lYnE6ucCFWqlUQodaxoOIw&utm_campaign=business_listings&utm_medium=intlmeta&utm_source=tripadvisor",
+                        "location_map":{"lang":"25.7305129","late":"32.6573725"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_hotel_pic%2F1.jpg?alt=media&token=24022adc-3b06-4ba3-ab26-fb7cf7a2c70d"
+                    },
+
+                    {
+                        "hotel-id":2,
+                        "name":"Sofitel Winter Palace Luxor",
+                        "location":"Corniche El Nile Street, Luxor 11 432 Egypt",
+                        "telephone":"+20 95 2380422",
+                        "description":"Winter Palace, built in 1886 on the Nile banks in a tropical garden is a magical experience of history luxury that hosted royalties and celebrities throughout the years.",
+                        "website":"http://sofitel-winter-palace-luxor.luxor-hotels-eg.com/ar/",
+                        "location_map":{"lang":"25.6968309","late":"32.6375517"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_hotel_pic%2F2.jpg?alt=media&token=bd1a2612-2ba2-4945-9a12-c433ec38c819"
+                    },
+
+                    {
+                        "hotel-id":3,
+                        "name":"Steigenberger Nile Palace Luxor",
+                        "location":"Khaled Ben El Walid Street, Luxor 85111 Egypt",
+                        "telephone":"+20 2 37489443",
+                        "description":"Hotel in Luxor",
+                        "website":"http://steigenberger-nile-palace.luxorhotels24.com/ar/",
+                        "location_map":{"lang":"25.6968309","late":"32.6375517"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_hotel_pic%2F3.jpg?alt=media&token=c5c4906e-52e0-4439-b21a-701f92289d5c"
+                    },
+
+                    {
+                        "hotel-id":4,
+                        "name":"Nefertiti Hotel",
+                        "location":"El Sahabi Street Via Luxor Temple St, Luxor 85951 Egypt",
+                        "telephone":"+20 95 2372386",
+                        "description":"located in the historical city of Luxor, the Nefertiti Hotel is well known for its superior customer service, cleanliness and value for money.",
+                        "website":"https://www.nefertitihotel.com/",
+                        "location_map":{"lang":"25.7015671","late":"32.6427285"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_hotel_pic%2F4.jpg?alt=media&token=c98f463a-ab5a-4e75-83f5-9b5fd8c55280"
+                    },
+
+                    {
+                        "hotel-id":5,
+                        "name":"Sonesta St. George Hotel Luxor",
+                        "location":"Cornesh El Nile Street, Luxor Egypt",
+                        "telephone":"+20 95 2382575",
+                        "description":"Five-star grandeur on the banks of the Nile awaits at the Sonesta St. George Hotel Luxor. In a city of ancient Pharaonic treasures, this 322-room Luxor, Egypt hotel redefines luxury in a contemporary style.",
+                        "website":"https://www.sonesta.com/eg/luxor/sonesta-st-george-hotel-luxor",
+                        "location_map":{"lang":"25.6886257","late":"32.6317564"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_hotel_pic%2F5.jpg?alt=media&token=fc56c201-3ada-49cc-a98b-a4bb2bcc3f17"
+                    },
+
+                    {
+                        "hotel-id":6,
+                        "name":"Mercure Luxor Karnak",
+                        "location":"El Zinia Gebly Street, Luxor Egypt",
+                        "telephone":"+20 95 2378025",
+                        "description":"Located on the east bank of the majestic Nile in one of the most exciting & intriguing settings, Karnak Resort Luxor lets you experience the timeless & exotic beauty of Luxor.",
+                        "website":"http://mercure-luxor-karnak.luxor-hotels-eg.com/ar/",
+                        "location_map":{"lang":"25.740754","late":"32.6662447"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_hotel_pic%2F6.jpg?alt=media&token=cabacc81-b956-4214-85a2-38ca46698d41"
+                    },
+
+                    {
+                        "hotel-id":7,
+                        "name":"Jolie Ville Hotel & Spa - Kings Island, Luxor",
+                        "location":"Awameya Road Kings Island, Luxor 85834 Egypt",
+                        "telephone":"+20 95 2274855",
+                        "description":"Hotel in Luxor.",
+                        "website":"http://maritim-jolie-ville-kings-island.luxorhotels24.com/en/",
+                        "location_map":{"lang":"25.6656946","late":"32.6220664"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_hotel_pic%2F7.jpg?alt=media&token=799c91da-8f76-4d13-8c66-0bdc4a7db9da"
+                    },
+
+                    {
+                        "hotel-id":8,
+                        "name":"Aracan Eatabe Luxor Hotel",
+                        "location":"Cornish El Nil, Luxor 99999 Egypt",
+                        "telephone":"+20 66 3332211",
+                        "description":"Right in the centre of town, overlooking the Nile river, the Mercure Luxor is tucked away amidst shady gardens alongside a crescent moon shaped pool.",
+                        "website":"https://aracanhotelsandresorts.com/aracan-luxor.php",
+                        "location_map":{"lang":"25.7051516","late":"32.6429085"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_hotel_pic%2F8.jpg?alt=media&token=556dccde-adc7-4b1e-81a2-d1029a6d7245"
+                    },
+
+                    {
+                        "hotel-id":9,
+                        "name":"Nile Valley Hotel Restaurant",
+                        "location":"Gesirat El Bairat West Bank Luxor West Bank Luxor, Luxor Egypt",
+                        "telephone":"+20 95 2311477",
+                        "description":"Hotel in Luxor.",
+                        "website":"https://www.facebook.com/Nilevalleyhotel/",
+                        "location_map":{"lang":"25.7042458","late":"32.6344905"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_hotel_pic%2F9.jpg?alt=media&token=9f0e3c0d-c590-4e7f-bdaf-47ebc00146d4"
+                    },
+
+                    {
+                        "hotel-id":10,
+                        "name":"Iberotel Luxor",
+                        "location":"Khaled Ibn El Walid Street, Luxor 84511 Egypt",
+                        "telephone":"+20 95 2380925",
+                        "description":"Hotel in Luxor.",
+                        "website":"https://www.iberotel.de/en/iberotel-luxor-luxor-nile-egypt.html",
+                        "location_map":{"lang":"25.6946843","late":"32.6358975"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_hotel_pic%2F10.jpg?alt=media&token=9316ff03-6ff2-4b73-9ec8-fd6bf07ffa0c"
+                    }
+                ],
+            
+
+
+
+            "aswan_hotels":
+                [
+                    {
+                        "hotel-id":1,
+                        "name":"Sofitel Legend Old Cataract Aswan",
+                        "location":"Abtal El Tahrir Street, Aswan 81511 Egypt",
+                        "telephone":"+20 97 2391600",
+                        "description":"Hotel Complex encompassing famous Victorian-style Cataract Hotel & adjacent high-rise New Cataract Hotel (1963).",
+                        "website":"https://www.facebook.com/SofitelLegendAswan/",
+                        "location_map":{"lang":"24.0823044","late":"32.8882957"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_hotel_pic%2F1.jpg?alt=media&token=9816c4ed-9087-4965-8678-00a2f781d158"
+                    },
+
+                    {
+                        "hotel-id":2,
+                        "name":"Movenpick Resort Aswan",
+                        "location":"Elephantine Island PO Box 62, Aswan 81111 Egypt",
+                        "telephone":"+20 97 2454455",
+                        "description":"Hotel in Aswan.",
+                        "website":"https://www.movenpick.com/en/africa/egypt/aswan/resort-aswan/overview/?utm_medium=business-listing&utm_source=tripadvisor-bl&utm_campaign={afr-eg-aswan-asw}_alw_ta.com_tabl_hotel-website_en",
+                        "location_map":{"lang":"24.09335","late":"32.8938717"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_hotel_pic%2F2.jpg?alt=media&token=74aab4cd-1362-4f34-96c9-30e06796079f"
+                    },
+
+                    {
+                        "hotel-id":3,
+                        "name":"Pyramisa Isis Island Aswan",
+                        "location":"Isis Island, Aswan Egypt",
+                        "telephone":"+20 97 2480100",
+                        "description":"Pyramisa Isis Island Resort & Spa is an excellent choice for rest and rejuvenation.",
+                        "website":"https://pyramisahotels.com/pyramisa-isis-island-aswan/4594616262",
+                        "location_map":{"lang":"24.0808902","late":"32.8839155"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_hotel_pic%2F3.jpg?alt=media&token=b5408344-149c-4fe0-910e-3badd77ccfc9"
+                    },
+
+                    {
+                        "hotel-id":4,
+                        "name":"Philae Hotel",
+                        "location":"79 Cornich el Nile, Aswan Egypt",
+                        "telephone":"+20 111 901 1995",
+                        "description":"Philae Hotel is an excellent choice for travellers visiting Aswan, offering a family-friendly environment alongside many helpful amenities designed to enhance your stay.",
+                        "website":"http://philaehotel.omyhotels.club/",
+                        "location_map":{"lang":"24.0891288","late":"32.894965"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_hotel_pic%2F4.jpg?alt=media&token=ccdf34db-1e16-4f15-a49f-71f01163c48a"
+                    },
+
+                    {
+                        "hotel-id":5,
+                        "name":"Bet El Kerem",
+                        "location":"Nagh El Kuba West Aswan, Aswan Egypt",
+                        "telephone":"+20 122 391 1052",
+                        "description":"Located in front of the Tombs of the Nobles in Aswan, Bet El Kerem offers rooms with air conditioning. Its rooftop terrace has panoramic views of the desert and the Nile.",
+                        "website":"https://www.betelkerem.com/",
+                        "location_map":{"lang":"24.1057848","late":"32.8921454"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_hotel_pic%2F5.jpg?alt=media&token=34f87e63-8f81-4d3b-9a43-79b745601178"
+                    },
+
+                    {
+                        "hotel-id":6,
+                        "name":"Basma Hotel",
+                        "location":"El Fanadek Street In Front of Nubia Museum, Aswan 81111 Egypt",
+                        "telephone":"+20 97 2484001",
+                        "description":"Hotel in Aswan.",
+                        "website":"http://www.basmahotel.com/",
+                        "location_map":{"lang":"24.0780076","late":"32.8895803"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_hotel_pic%2F6.jpg?alt=media&token=c316b16c-273f-46ec-aa06-58bf69bf10c8"
+                    },
+
+                    {
+                        "hotel-id":7,
+                        "name":"Kato Dool Nubian House",
+                        "location":"Nag Gharb Siheil, Aswan 81511 Egypt",
+                        "telephone":"+20 106 755 7225",
+                        "description":"Kato Dool Nubian House is an excellent choice for travellers visiting Aswan, offering a trendy environment alongside many helpful amenities designed to enhance your stay.",
+                        "website":"https://www.facebook.com/KatoDool/",
+                        "location_map":{"lang":"24.0603943","late":"32.8654699"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_hotel_pic%2F7.jpg?alt=media&token=5ab870ec-3e0c-47d7-878b-1d730501354a"
+                    },
+
+                    {
+                        "hotel-id":8,
+                        "name":"Pyramisa Isis Corniche Hotel",
+                        "location":"Corniche El Nile, Aswan Egypt",
+                        "telephone":"+20 97 2315100",
+                        "description":"Hotel in Aswan.",
+                        "website":"https://www.clubhotel.com/hotel/pyramisa-isis-corniche-aswan/",
+                        "location_map":{"lang":"24.0922434","late":"32.8962871"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_hotel_pic%2F8.jpg?alt=media&token=9c6d1041-ac16-48cf-ab7f-c354c17f1211"
+                    },
+
+                    {
+                        "hotel-id":9,
+                        "name":"Happi Hotel",
+                        "location":"Abtal El Tahrir St, Aswan 81511 Egypt",
+                        "telephone":"+20 97 2455032",
+                        "description":"Hotel in Aswan.",
+                        "website":"https://www.expedia.com/es/Aswan-Hoteles-Hapi-Hotel.h18097506.Informacion-Hotel",
+                        "location_map":{"lang":"24.0927777","late":"32.8970425"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_hotel_pic%2F9.jpg?alt=media&token=2a75b656-c06c-44b2-806a-061057a26929"
+                    },
+
+                    {
+                        "hotel-id":10,
+                        "name":"Tolip Aswan Hotel",
+                        "location":"Nile Corniche, Aswan Egypt",
+                        "telephone":"+20 97 2328828",
+                        "description":"Hotel in Aswan.",
+                        "website":"http://www.helnan.com/helnanAswanHotel",
+                        "location_map":{"lang":"24.1095053","late":"32.9024427"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_hotel_pic%2F10.jpg?alt=media&token=007108cf-dc58-4a7f-ad1f-4632cc45dd35"
+                    }
+                ]
+}

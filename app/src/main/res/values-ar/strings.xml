@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TripTo</string>
+    <string name="btn_cafe">المطاعم</string>
+    <string name="btn_places">اماكن سياحيه</string>
+    <string name="btn_hospital">المستشفيات</string>
+    <string name="btn_hotel">الفنادق</string>
+    <string name="btn_pieces">المتاحف</string>
+    <string name="api_key">AIzaSyCpZLB-aAPAVWSHVav8T94FocV8xSdOwZw</string>
+
+</resources>

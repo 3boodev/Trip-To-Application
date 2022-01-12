@@ -1,0 +1,30 @@
+{
+        "cairo_museums":
+        [
+            {"id":1,"name":"المتحف المصري","photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_museums%2F1.jpg?alt=media&token=7c5bee28-5f2e-45c4-ba22-c0ec7742fdfc"},
+            {"id":2,"name":"المتحف القبطي","photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_museums%2F2.jpg?alt=media&token=59e5752b-d1d4-445a-94fe-5ad434eca776"},
+            {"id":3,"name":"متحف الفنون الإسلامية","photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_museums%2F3.jpg?alt=media&token=ac5c7f1f-db15-429c-ad82-fb5d2c3bd4a2"},
+            {"id":4,"name":"في متحف قصر المنيل","photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_museums%2F4.jpg?alt=media&token=a55cdcd2-fbec-41aa-903d-caabe6819a09"},
+            {"id":5,"name":"المتحف البرقو ","photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_museums%2F5.jpg?alt=media&token=68209add-b6a9-4d40-9ccb-976c719e6eb9"},
+            {"id":6,"name":"متاحف قصر عابدين","photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_museums%2F6.jpg?alt=media&token=0eb3af18-10aa-47fd-8c90-c8ef0e41edb5"},
+            {"id":7,"name":"متحف إمحوتب ","photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_museums%2F7.jpg?alt=media&token=45977f9c-66d1-4645-871e-66cbfa154b50"},
+            {"id":8,"name":"المتحف المصري الكبير","photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_museums%2F8.jpg?alt=media&token=0dab21b3-7d8b-43e0-8276-f99ea79cc337"}
+        ],
+        "alexandria_museums":
+        [
+            {"id":1,"name":"متحف الاسكندرية القومى","photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_museums%2F1.jfif?alt=media&token=4e5106a7-8820-40aa-8354-87180cfa5ea2"},
+            {"id":2,"name":"متحف المجوهرات الملكية","photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_museums%2F2.jpg?alt=media&token=861ebbb7-fe86-41c4-aae8-37adb05c3d45"},
+            {"id":3,"name":"متحف مكتبة الإسكندرية","photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_museums%2F3.jpg?alt=media&token=5b76237c-7ab6-48f3-9334-ac340a61be4c"}
+        ],
+        "luxor_museums":
+        [
+            {"id":1,"name":" متحف الكرنك","photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_museums%2F1.jpg?alt=media&token=9f44b587-8f35-4e85-9bbd-12816730c100"},
+            {"id":2,"name":"متحف الأقصر","photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_museums%2F2.jpg?alt=media&token=2d8fdf32-86d7-4ce9-a83a-838f8fa50074"},
+            {"id":3,"name":"متحف التحنيط","photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_museums%2F3.jpg?alt=media&token=859c088e-236e-4857-a7de-39f5f9d834ab"}
+        ],
+        "aswan_museums":
+        [
+            {"id":1,"name":"متحف التماسيح","photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_museums%2F1.jpg?alt=media&token=d027aeff-8292-49d7-903a-d227d06ccdaa"},
+            {"id":2,"name":"متحف النوبة","photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_museums%2F2.jpg?alt=media&token=6dcc9940-2c38-4e2e-bd8d-f976b74abc75"}
+        ]
+}

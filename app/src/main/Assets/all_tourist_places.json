@@ -1,0 +1,1369 @@
+{
+            "cairo_tourist_places":
+                [
+                    {
+                        "id":1,
+                        "name":"The Egyptian Museum",
+                        "description":"This famous museum houses the world’s largest collection of ancient Egyption artifacts (more than 120,000 items on display) featuring the famous Tutankhamun collection with its beautiful gold death mask and sarcophagus and the royal Mummy room, which houses an additional eleven Pharaonic dignitaries.",
+                        "location":"Midan El Tahrir Geographical Society Building, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.0475827","late":"31.2358026"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F1.jpg?alt=media&token=d2ba04df-053d-4d96-8749-bec62e7f7d56"
+                    },
+
+                    {
+                        "id":2,
+                        "name":"Nile River",
+                        "description":"Stretching for 4,187 miles, the longest river in the world flows from its major source, Lake Victoria in east central Africa, through Uganda, Sudan, Ethiopia and northwards into Egypt to the Mediterranean Sea.",
+                        "location":"Cairo 15662 Egypt",
+                        "location_map":{"lang":"23.2986165","late":"41.1961389"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F2.jpg?alt=media&token=11fd04f0-c9a9-4cdf-9c0d-c0efef1413a4"
+                    },
+
+                    {
+                        "id":3,
+                        "name":"Pyramids of Giza",
+                        "description":"Perhaps the most recognizable among the Seven Wonders of the World, the exact origin of these majestic pyramids continues to spark debate.",
+                        "location":"Al Haram Str., Giza 12611 Egypt",
+                        "location_map":{"lang":"29.9782653","late":"31.1355374"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F3.jpg?alt=media&token=695e0d8c-a7c0-437f-9e16-b3c1949fafd2"
+                    },
+
+                    {
+                        "id":4,
+                        "name":"Coptic Cairo",
+                        "description":"Once known as the Roman stronghold of Babylon, Cairo’s oldest section is the ancient heart of the Coptic Christian community featuring five original churches, the first mosque built in Egypt and the oldest synagogue.",
+                        "location":"Cairo Egypt",
+                        "location_map":{"lang":"30.006109","late":"31.2304747"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F4.jpg?alt=media&token=1989d1b9-f4bf-4ca8-9554-738585238697"
+                    },
+
+                    {
+                        "id":5,
+                        "name":"Memphis and Sakkara",
+                        "description":"Memphis is easy to reach from Cairo by road and also features a large statue of Ramses II and the 2nd largest sphinx in Egypt in addition to Sakkara which is a few minutes away.",
+                        "location":"Saqqara, Al Badrashin, Giza",
+                        "location_map":{"lang":"29.8500535","late":"31.2188678"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F5.jpg?alt=media&token=5825cc48-5f88-457e-a7dd-b1532dcd5cda"
+                    },
+
+                    {
+                        "id":6,
+                        "name":"Great Pyramid of Cheops (Khufu)",
+                        "description":"The largest and oldest of the Giza pyramids, this colossal structure stands nearly 500 feet tall.",
+                        "location":"Giza Egypt",
+                        "location_map":{"lang":"29.9792345","late":"31.1363906"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F6.jpg?alt=media&token=5b4f510b-80b1-437d-b4cc-7f37c57194e1"
+                    },
+
+                    {
+                        "id":7,
+                        "name":"Mosque of Muhammad Ali",
+                        "description":"Located in the Citadel, this mosque was built between 1824 and 1857 in the Ottoman style by Mohammad Ali Pasha, a ruler of Egypt.",
+                        "location":"Al Abageyah Qism El-Khalifa, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.0287015","late":"31.2620993"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F7.jfif?alt=media&token=e18008eb-096e-4306-ba85-334f4864ee16"
+                    },
+
+                    {
+                        "id":8,
+                        "name":"Gizeh Plateau",
+                        "description":"The habitat of the last remaining wonders of the world, the Pyramids of Giza is directly outside the borders of Cairo.",
+                        "location":"Giza Egypt",
+                        "location_map":{"lang":"29.9769346","late":"31.1414059"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F8.jfif?alt=media&token=22044a35-4fad-49e9-8cf2-3e966fbf83f8"
+                    },
+
+                    {
+                        "id":9,
+                        "name":"Great Sphinx",
+                        "description":"At over 240 feet long and 66 feet high, it’s a wonder that this mysterious sculpture was carved from a solid limestone block.",
+                        "location":"Al-Haram, Giza Egypt",
+                        "location_map":{"lang":"29.9752687","late":"31.1397561"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F9.jpg?alt=media&token=77e719e1-22f8-4043-8526-fa6051507259"
+                    },
+
+                    {
+                        "id":10,
+                        "name":"Al-Azhar Park",
+                        "description":"Al-Azhar Park is one of the largest gardens in Cairo located on an area of ​​80 acres.",
+                        "location":"Salah Salem, Al-Darb Al-Ahmar, Cairo Governorate",
+                        "location_map":{"lang":"30.040758","late":"31.2669214"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F10.jpg?alt=media&token=9243152b-904d-4289-82f7-f2c33457dd64"
+                    },
+
+                    {
+                        "id":11,
+                        "name":"Khan Al-Khalili",
+                        "description":"Located in the heart of Islamic Cairo, this busy and colorful open-air bazaar is filled with unique and exotic items from spices and perfumes to jewelry and souvenirs.",
+                        "location":"Cairo Egypt",
+                        "location_map":{"lang":"30.0477386","late":"31.2644425"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F11.jpg?alt=media&token=c64df4df-f5c1-4034-b6d7-4d90d0cdc836"
+                    },
+
+                    {
+                        "id":12,
+                        "name":"Cairo Citadel",
+                        "description":"This massive stone fortress, built by Salah ad-Din in the 12th century, was crowned with the Mosque of Mohammed Ali 700 years later.",
+                        "location":"Al Abageyah Shar'a Salih Salem, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.0417347","late":"31.2689133"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F12.jpg?alt=media&token=64ccbdbd-e37b-43aa-99e2-05d3fece56fb"
+                    },
+
+                    {
+                        "id":13,
+                        "name":"Cave Church",
+                        "description":"Cave Church, is located in the Mokattam mountain in southeastern Cairo, Egypt, in an area that is known as ‘garbage city.",
+                        "location":"Shawky, Al-Abaji, Qism El-Khalifa, Cairo Governorate",
+                        "location_map":{"lang":"30.0417335","late":"31.2853287"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F13.jpg?alt=media&token=c86db551-0d4a-40eb-8421-ba9a386f601b"
+                    },
+
+                    {
+                        "id":14,
+                        "name":"Saqqara (Sakkara) Pyramids",
+                        "description":"This is one of the most extensive archaeological sites comprising many important monuments such as the Step Pyramid of Djoser, Pyramid of Unas, Pyramid of Sekhemket.",
+                        "location":"Al Giza Desert, Giza Egypt",
+                        "location_map":{"lang":"29.8606869","late":"31.2341207"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F14.jpg?alt=media&token=c99ac2b5-94ee-4e8c-971b-b7b233789639"
+                    },
+
+                    {
+                        "id":15,
+                        "name":"Dahshur",
+                        "description":"Dahshur is one of the villages that Al-Badrashin has not concentrated in Giza Governorate. Dahshur is one of the tourist areas that visitors from all over the world come to because of its many and great Pharaonic monuments.",
+                        "location":"Giza Egypt",
+                        "location_map":{"lang":"29.7939806","late":"31.2497123"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F15.jpg?alt=media&token=1394eaf9-7839-4269-8e7b-1aba8d57a5c0"
+                    },
+
+                    {
+                        "id":16,
+                        "name":"Cairo Festival City Mall",
+                        "description":"The most beautiful mall in Egypt , full of stores of famous brands from all over the world , also when you need to eat you will find varities of restaurant , the mall contains a huge parking for cars.",
+                        "location":"First of New Cairo, Cairo Governorate",
+                        "location_map":{"lang":"30.0289498","late":"31.4107969"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F16.jpg?alt=media&token=22f91843-1eab-4a3d-902e-0e7ec482c8a2"
+                    },
+
+                    {
+                        "id":17,
+                        "name":"Islamic Cairo",
+                        "description":"After the Muslims conquered Egypt in 641 AD, they built their city, Al-Fustat, on what is now the southern border of modern Cairo. Today, this section of the city contains many important sites including the Mosque of Sultan Hassan.",
+                        "location":"Midan Silah ad-Din, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.0417347","late":"31.2700077"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F17.jpg?alt=media&token=00e8d4c1-aa08-4b10-aa22-5e031c73ef96"
+                    },
+
+                    {
+                        "id":18,
+                        "name":"Al-Azhar Mosque",
+                        "description":"The oldest university in the world is built around this ancient mosque, which has been the center of Islamic scholarship since 975 AD.",
+                        "location":"Mohammed Abdou El-Darb El-Ahmar, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.045688","late":"31.2648738"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F18.jpg?alt=media&token=e86f6ead-460e-410c-b6d0-27981c1ece72"
+                    },
+
+                    {
+                        "id":19,
+                        "name":"Khafre's Pyramid",
+                        "description":"Next to the Great Pyramid of Khufu, this is the second-largest of the Giza pyramids; Khafre was the son of Khufu.",
+                        "location":"Al Haram, Giza Egypt",
+                        "location_map":{"lang":"29.9757265","late":"31.1329888"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F19.jpg?alt=media&token=f0453195-8f60-43cc-9e1e-92495751ac94"
+                    },
+
+                    {
+                        "id":20,
+                        "name":"Sharia Al Mu'izz Li-Din Allah",
+                        "description":"Cairo's main street which recently became pedestrian only is filled with historic sites.",
+                        "location":"Al Moez Ldin Allah Al Fatmi, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.0508893","late":"31.2638155"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F20.jpg?alt=media&token=912daf9d-9ce5-43b6-91cb-109b86ca4840"
+                    },
+
+                    {
+                        "id":21,
+                        "name":"Hanging Church",
+                        "description":"This church, originally built in the ancient fortress of Babylon in Old Cairo around 4th century AD, derives its name from its location suspended above two Roman gate towers.",
+                        "location":"Shar'a Mari Girgis Street, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.0052663","late":"31.2323713"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F21.jpg?alt=media&token=1f726635-1c1d-49df-90a9-0628e8458c6c"
+                    },
+
+                    {
+                        "id":22,
+                        "name":"Mosque and Madrasa of Sultan Hassan",
+                        "description":"This is classified as the most important Islamic architecture ever with the biggest stone constructed vault It has a u unique stone lintels and construction details.",
+                        "location":"Al-Darb Al-Ahmar, Department of the Caliph, Cairo Governorate",
+                        "location_map":{"lang":"30.0322791","late":"31.2583591"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F22.jpg?alt=media&token=24f57172-1845-43d8-b7a9-45dbdacf6f13"
+                    },
+
+                    {
+                        "id":23,
+                        "name":"The Coptic Museum",
+                        "description":"Housing some of the finest collections of Coptic art dating back to Egypt’s Christian era, this museum includes collections of ancient ankhs and Horus-like falcons.",
+                        "location":"No 4 Fakhry Abd el Nour street Abbassia, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.0055737","late":"31.2323178"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F23.jpg?alt=media&token=9ef482fb-7564-47d3-ab4e-6d5f9d3cb718"
+                    },
+
+                    {
+                        "id":24,
+                        "name":"City Stars Mall",
+                        "description":"City Stars Mall is a commercial center that opened in December 2004. It is located in Nasr City and is the first integrated development project of its kind in the Middle East and Africa and is the largest mall in Egypt.",
+                        "location":"Omar Bin Al-Khattab, Mohandeseen Residences, Nasr City, Cairo Governorate",
+                        "location_map":{"lang":"30.072979","late":"31.3482387"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F24.jpg?alt=media&token=240d3b00-7bb3-42f5-beba-c9500e535cd7"
+                    },
+
+                    {
+                        "id":25,
+                        "name":"Museum of Islamic Arts",
+                        "description":"The Museum of Islamic Art in Cairo is the largest Islamic museum in the world. It includes various collections of Islamic arts from India, China and Iran, passing through the arts of Arabia, the Levant, Egypt, North Africa and Andalusia.",
+                        "location":"Port Said, St, Darb al-Ahmar, Cairo Governorate 11638",
+                        "location_map":{"lang":"30.0444039","late":"31.2545405"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F25.jpg?alt=media&token=e5afe730-f51d-464b-85ef-c0de768c76c1"
+                    },
+
+                    {
+                        "id":26,
+                        "name":"Cairo Tower",
+                        "description":"At a height of 600 feet, this tower offers magnificent views of the entire city and monuments from its revolving rooftop restaurant and bar.",
+                        "location":"El-Gezira, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.045915","late":"31.2264785"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F26.jpg?alt=media&token=5b39e148-042f-4e73-b09c-d4227b178787"
+                    },
+
+                    {
+                        "id":27,
+                        "name":"Pharaonic Village",
+                        "description":"the pharaohs cruising restaurants Imagine going to a place a few miles from the center of Cairo, Egypt. Where Egypt's entire history and art comes alive! Such a place exists in the Pharaonic Boat, on Jacob Island in the Nile.",
+                        "location":"3 El Bahr El Aazam St, Giza Egypt",
+                        "location_map":{"lang":"29.9973692","late":"31.2170097"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F27.jpeg?alt=media&token=70a77ffe-dba7-450c-83b6-01ec35c2bb08"
+                    },
+
+                    {
+                        "id":28,
+                        "name":"Mosque of Ibn Tulun",
+                        "description":"This is considered one of Egypt's largest and oldest mosques, which was built between AD 876 and AD 879 by an Abbasid governor sent from Baghdad to rule over Egypt.",
+                        "location":"Al-Basatin, off Al-Saliba Street, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.028691","late":"31.2515828"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F28.jpg?alt=media&token=c080ff63-c251-4877-ac62-969752bfe5c8"
+                    },
+
+                    {
+                        "id":29,
+                        "name":"Manial Palace Museum",
+                        "description":"Built by Prince Mohamed Ali (1875-1955), between 1901 and 1929, this palace complex houses six structures including a hunting museum belonging to the late King Farouk, the prince’s residence and furnishings and a beautiful garden.",
+                        "location":"1 Saray Street Manyal, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.0274437","late":"31.2311671"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F29.jpg?alt=media&token=c4536cac-cb38-424d-86bc-2c9267ee3243"
+                    },
+
+                    {
+                        "id":30,
+                        "name":"Musee de la Barque Solaire",
+                        "description":"The Khufu Boat Museum or the Giza Solar Museum Museum was built in 1985 AD. It is a museum dedicated to displaying the reinstallation of the Khufu Solar Ship.",
+                        "location":"Nazlet Al-Samman, Al-Haram, Giza",
+                        "location_map":{"lang":"29.9779602","late":"31.1367954"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F30.JPG?alt=media&token=8ffd485f-54e6-40a3-9803-9854cdb97354"
+                    },
+
+                    {
+                        "id":31,
+                        "name":"Gayer-Anderson Museum",
+                        "description":"This museum features the items of antiquity collected by John Gayer-Anderson, a British member of the Egyptian civil service in the 1930s and ‘40s, who restored two adjacent 16th- and 17th-century houses decorated with mashrabiyya screens and marble.",
+                        "location":"4 Maydan Ibn Tulun Old Cairo, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.02833","late":"31.2529327"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F31.jpg?alt=media&token=9fbe27f7-6a8f-4032-baab-43bf01cdd6f9"
+                    },
+
+                    {
+                        "id":32,
+                        "name":"Zamalek (Gezira Island)",
+                        "description":"This island is located in the Nile River between downtown Cairo and Giza, and is characterized by upscale hotels, restaurants and pleasant gardens.",
+                        "location":"Cairo Egypt",
+                        "location_map":{"lang":"30.0558686","late":"31.2392809"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F32.jpg?alt=media&token=f8e59846-cc92-4f42-aa53-fce7e254e02d"
+                    },
+
+                    {
+                        "id":33,
+                        "name":"Wekalet El Ghouri Arts Center",
+                        "description":"Performing arts theater in Cairo.",
+                        "location":"3 Mohamed Abdou Street, Off Al-Azhar Street, Dar Al-Ahmar, Cairo Governorate 12411",
+                        "location_map":{"lang":"30.0460471","late":"31.262398"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F33.jpg?alt=media&token=00a97259-0fb1-43a1-a5cc-9112bdaff09d"
+                    },
+
+                    {
+                        "id":34,
+                        "name":"Church of St Sergius and Bacchus",
+                        "description":"The Abu Serjah Archaeological Church or the Church of the Martyrs Sergius and Wakhs is the archaeological church built over the place where the Holy Family lived during the flight and has the cave of escape at the Temple.",
+                        "location":"Mary Gerges, Kom Ghorab, Misr El Kadima District, Cairo Governorate",
+                        "location_map":{"lang":"30.0062632","late":"31.2328547"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F34.jpg?alt=media&token=7e71b717-9383-4f75-b48f-7dd5572b0480"
+                    },
+
+                    {
+                        "id":35,
+                        "name":"Mall of Arabia Cairo",
+                        "description":"Mall of Arabia is Egypt's Biggest Mall in terms of space and number of stores.",
+                        "location":"Mehwer 26th July,6th of October City Juhaynah Square, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.0071845","late":"30.9767315"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F35.jpg?alt=media&token=307ea123-fa29-4809-b73d-488c29bdf883"
+                    },
+
+                    {
+                        "id":36,
+                        "name":"Ramses Wissa Wassef Art Centre",
+                        "description":"Museum in Egypt.",
+                        "location":"Axis of Labini, Al-Harrania, Abu Al-Nomros, Giza",
+                        "location_map":{"lang":"29.9687013","late":"31.1781277"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F36.jpg?alt=media&token=4eda0c8c-9d69-4586-9f68-76e5ba43cb3e"
+                    },
+
+                    {
+                        "id":37,
+                        "name":"Abdeen Palace Museum",
+                        "description":"Formerly serving as a royal palace until the end of the monarchy in 1952, this history museum features a large collection of weapons and medals including knives, guns, cannons and an exhibit of medals.",
+                        "location":"Moustafa Abdel Raziq Street off Abdeen Square, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.0430033","late":"31.2499683"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F37.jpg?alt=media&token=39a8f7c2-0a52-4b17-a507-78e99c8053c9"
+                    },
+
+                    {
+                        "id":38,
+                        "name":"Al Rifai Mosque",
+                        "description":"Al-Rifai Mosque is one of the famous archeological mosques in Cairo. It was ordered to be built by Khushiar Hanim, the mother of Khedive Ismail in 1286 AH / 1869 CE.",
+                        "location":"Al-Rifai, Darb Al-Ahmar, Cairo Governorate",
+                        "location_map":{"lang":"30.0327091","late":"31.2591916"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F38.jpg?alt=media&token=f3efb84d-ab63-496b-8d98-ec3c6cdb7f70"
+                    },
+
+                    {
+                        "id":39,
+                        "name":"Greek Orthodox Church of St. George (Mari Girgis)",
+                        "description":"Originally built in 684 AD by the wealthy scribe Athanasius, this religious site is known for its beautiful Qaa el-Arsan (wedding chamber) that dates from the 4th century.",
+                        "location":"Nearby Roman Fortress Old (Coptic) Cairo, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.0062417","late":"31.2322287"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F39.jpg?alt=media&token=fe2056aa-46c0-4d20-b71d-3608f122571f"
+                    },
+
+                    {
+                        "id":40,
+                        "name":"Heliopolis",
+                        "description":"Heliopolis is one of the finest neighborhoods in Cairo. It is the facade of Cairo from the eastern side, one of the entrances to the capital and the first to receive arrivals from all over the world because of the presence of Cairo International Airport, and one of the entrances to the capital for those coming from Ismailia and Suez.",
+                        "location":"Cairo Egypt",
+                        "location_map":{"lang":"30.1123143","late":"31.3526055"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F40.jpg?alt=media&token=b81cfd70-213c-41ec-b030-5183d7eafeb6"
+                    },
+
+                    {
+                        "id":41,
+                        "name":"Nilometer",
+                        "description":"Historical landmark in Egypt.",
+                        "location":"Cairo Egypt",
+                        "location_map":{"lang":"30.006949","late":"31.2271638"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F41.jpg?alt=media&token=bdd03e7b-1f02-44a4-88da-58fbb08ae4b6"
+                    },
+
+                    {
+                        "id":42,
+                        "name":"St Simon the Tanner Monastery",
+                        "description":"Samaan al-Kharraz, also known as Samaan al-Dabbagh, lived in the tenth century in Egypt during the reign of the caliph al-Muizz al-Din al-Fatimid and during the reign of the Coptic Patriarch Abram al-Syriani, and little is known about the details of his life. He is one of the saints of the Coptic Orthodox Church.",
+                        "location":"Cairo Egypt",
+                        "location_map":{"lang":"30.0307397","late":"31.2781608"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F42.jpg?alt=media&token=4c410d95-decb-49c8-82ee-980fc6630f70"
+                    },
+
+                    {
+                        "id":43,
+                        "name":"Ben Ezra Synagogue",
+                        "description":"The oldest existing synagogue in Cairo was originally a church in the 8th century.",
+                        "location":"Coptic Cairo, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.0057322","late":"31.2332223"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F43.jpg?alt=media&token=199c0cae-7483-43df-8119-627b8ad35999"
+                    },
+
+                    {
+                        "id":44,
+                        "name":"Cairo Opera House",
+                        "description":"This cultural venue, The National Cultural Centre is part of the Ministry of Culture and serves as an umbrella organization for all the music or dance companies, galleries, museums and the educational programs of the Cairo Opera.",
+                        "location":"Gezira Island Ard Elopera, Gezira, Zamalek, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.0424866","late":"31.2266455"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F44.jpg?alt=media&token=ff8de77a-4a56-4798-9798-9397fabc5411"
+                    },
+
+                    {
+                        "id":45,
+                        "name":"City of the Dead (Northern Cemetery)",
+                        "description":"Many magnificent funerary complexes are located here including the Mosque of Qaitbey (completed in 1474 AD), the Complex of Sultan Ashraf Barsbey and the Mausoleum of Ibn Barquq.",
+                        "location":"East of Sharia Salah Salem, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.0419056","late":"31.273325"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F45.jpg?alt=media&token=5f27867e-54f2-433a-9611-0dd81aa7d07e"
+                    },
+
+                    {
+                        "id":46,
+                        "name":"Giza Zoo",
+                        "description":"Giza Zoo or the Animal Garden in Giza was established in 1891 AD. It is the largest zoo in Egypt and the Middle East, and the first and most ancient zoo in Africa.",
+                        "location":"First, Giza",
+                        "location_map":{"lang":"30.02795","late":"31.2181573"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F46.jpg?alt=media&token=7d8cbecf-5dad-4ab0-96ab-1c20a189e303"
+                    },
+
+                    {
+                        "id":47,
+                        "name":"Katameya downtown mall",
+                        "description":"A shopping center in New Cairo City.",
+                        "location":"Area A-City Center, 5th District, Road 90, Cairo Governorate",
+                        "location_map":{"lang":"30.0174272","late":"31.4146092"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F47.jpg?alt=media&token=624a1c7e-34fb-469f-ac41-3bf1b0660950"
+                    },
+
+                    {
+                        "id":48,
+                        "name":"Bab Zuweila",
+                        "description":"The Zuweila Gate, or the Mitwali Gate, is one of the gates of Old Cairo in the Egyptian capital, Cairo.",
+                        "location":"Al-Muiz Din Allah, Al-Darb Al-Ahmar, Cairo Governorate",
+                        "location_map":{"lang":"30.0428454","late":"31.2600258"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F48.jpg?alt=media&token=bbcebff8-d3d2-47f2-b987-bc0411e8ce0d"
+                    },
+
+                    {
+                        "id":49,
+                        "name":"Street of the Tentmakers (Sharia Khayamiya)",
+                        "description":"Street of the Tentmakers (Sharia Khayamiya) is located in Cairo.",
+                        "location":"Cairo Egypt",
+                        "location_map":{"lang":"30.0422066","late":"31.2597839"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F49.jpg?alt=media&token=2f835c04-8394-4c6d-bd46-a4229397fed6"
+                    },
+
+                    {
+                        "id":50,
+                        "name":"Alabaster Sphinx",
+                        "description":"This impressive monument, carved in honor of an unknown Pharaoh during the 18th Dynasty, is 26 feet long, 13 feet tall and weighs approximately 90 tons.",
+                        "location":"Mit Rahina Museum, Cairo 11511 Egypt",
+                        "location_map":{"lang":"29.849537","late":"31.2570977"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F50.jpg?alt=media&token=2e869dcf-df1e-4b76-a50e-f8032d89f887"
+                    },
+
+                    {
+                        "id":51,
+                        "name":"Taha Hussein Museum",
+                        "description":"Taha Hussein Museum, is the Villa of Taha Hussein, or Ramtan, which the Egyptian Ministry of Culture turned into a museum to commemorate the dean of Arabic literature. It consists of two floors and a library.",
+                        "location":"11 Dr. St. Taha Hussein, Western Urbanism, Department of Urbanism, Giza",
+                        "location_map":{"lang":"30.0051881","late":"31.1871148"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F51.jpg?alt=media&token=965f2095-f6b9-46b9-9447-ff2fb4cb0dc9"
+                    },
+
+                    {
+                        "id":52,
+                        "name":"Mosque of Syeda Zainab",
+                        "description":"The Sayyida Zainab Mosque in Cairo is one of the largest and most famous mosques in Cairo, the capital of Egypt, and is attributed to Zainab bint Ali bin Abi Talib.",
+                        "location":"Sayeda Zeinab Square, Sayeda Zeinab ,, Cairo Governorate",
+                        "location_map":{"lang":"30.031645","late":"31.2442961"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F52.jfif?alt=media&token=53dde3fd-34a8-4803-9c24-231906a1efc7"
+                    },
+
+                    {
+                        "id":53,
+                        "name":"Menkaure Pyramid",
+                        "description":"The Pyramid of Menkaure, or the Pyramid of Menkaure, is one of the pyramids of Giza in Egypt. Built by Pharaoh Menkaure, the son of King Khafra. Each side is 108.5 meters long and 65.5 meters high.",
+                        "location":"Al-Ahram, The Desert Back of Giza Governorate, Giza",
+                        "location_map":{"lang":"29.9723877","late":"31.1304712"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F53.jpg?alt=media&token=53469746-e421-43bd-9cac-43307956ca2b"
+                    },
+
+                    {
+                        "id":54,
+                        "name":"Wadi Degla",
+                        "description":"Located only 15 minutes from the Cairo suburb of Maadi, this rugged valley contains a wide variety of animal life including deer, hares, red foxes, reptiles, Egyptian turtles.",
+                        "location":"Cairo Egypt",
+                        "location_map":{"lang":"29.9723691","late":"31.1983234"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F54.jpg?alt=media&token=8294fedd-ebbe-4734-ab77-255f08059ca0"
+                    },
+
+                    {
+                        "id":55,
+                        "name":"Mosque of Amr Ibn El-Aas",
+                        "description":"Mosque of Amr ibn al-As. It was built in the city of Fustat, which was founded by Muslims in Egypt after its conquest. It was also called the Al-Fateh Mosque, the Antique Mosque, and the Crown of the Mosque.",
+                        "location":"Hassan Al-Anwar, Al-Diora, Misr Al-Qadima District, Cairo Governorate",
+                        "location_map":{"lang":"30.0101215","late":"31.2353255"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F55.jpg?alt=media&token=7824100d-a8fc-4c1e-b8c9-78f8981eb4b3"
+                    },
+
+                    {
+                        "id":56,
+                        "name":"Midan Hussein",
+                        "description":"Historic milestone.",
+                        "location":"El-Gamaleya, 6th District, Aesthetic Department",
+                        "location_map":{"lang":"30.0520835","late":"31.2812165"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F56.jpg?alt=media&token=d92fdbe6-ca29-486c-988f-cdd61ae4bb96"
+                    },
+
+                    {
+                        "id":57,
+                        "name":"The Egyptian Renaissance Sculpture",
+                        "description":"The Nahdet Misr statue is a large granite stone statue, which is a symbol of modern Egypt and the most important work of the Egyptian artist, sculptor Mahmoud Mokhtar Ali.",
+                        "location":"First, Omrania, Giza",
+                        "location_map":{"lang":"30.0283309","late":"31.2181218"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F57.jpg?alt=media&token=745f9ced-d014-4974-b0f8-d4286aa0944a"
+                    },
+
+                    {
+                        "id":58,
+                        "name":"Baron Palace",
+                        "description":"The Baron Empain Palace is a historical palace inspired by Indian architecture constructed by the Belgian millionaire Baron Edward Empain, who came to Egypt from India at the end of the nineteenth century.",
+                        "location":"Al-Oruba, Montazah, Heliopolis Department, Cairo Governorate",
+                        "location_map":{"lang":"27.0296432","late":"33.8863993"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F58.jpg?alt=media&token=2669d435-ca75-4e08-8f83-83a6f9e311a0"
+                    },
+
+                    {
+                        "id":59,
+                        "name":"North Pyramid (Pirámide Roja)",
+                        "description":"The Red Pyramid is the highest of the three major pyramids of Dahshur. Its name is red, due to the red rust layer above its stones, and it is the third largest Egyptian pyramid after the pyramids of Khufu and Khafra, which were then built in Giza.",
+                        "location":"Desert Back of Giza Governorate, Giza",
+                        "location_map":{"lang":"29.8088816","late":"31.2083015"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F59.jpg?alt=media&token=11ae5a12-9981-492f-9be9-9dc3f8ed3545"
+                    },
+
+                    {
+                        "id":60,
+                        "name":"Bayt Al-Suhaymi",
+                        "description":"Al-Suhaimi House, or the house of Sheikh Abdel-Wahab Al-Tablawy, is an Arab house with a distinctive Eastern architecture located in the Al Darb Al-Asfar Lane, branching from Al-Moez Street, to the religion of God, Fatimid, in Al-Gamalia neighborhood in the heart of Cairo.",
+                        "location":"9 Al-Tembekash, Al-Gamalia, Aesthetic Department, Cairo Governorate",
+                        "location_map":{"lang":"30.0522899","late":"31.2647657"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F60.jpg?alt=media&token=d93388be-6311-4faf-a303-3c8d7dbf2727"
+                    },
+
+                    {
+                        "id":61,
+                        "name":"National Museum of Egyptian Civilization NEMC",
+                        "description":"The museum is located in the city of Fustat, Cairo, on an area of ​​33.5 acres.",
+                        "location":"Al-Doura, Misr Al-Qadima District, Cairo Governorate",
+                        "location_map":{"lang":"30.0064198","late":"31.2523243"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F61.jpg?alt=media&token=262ed3d2-c5c8-4b89-804b-12753ceb2a97"
+                    },
+
+                    {
+                        "id":62,
+                        "name":"Qalawun Complex",
+                        "description":"Mosque, madrasa and dome of Al-Nasir Muhammad bin Qalawun, Al-Moez Street or Al-Nassiriya School is the school adjacent to the Al-Mansur Qalawun Dome.",
+                        "location":"Al-Gamalia, Aesthetic Department, Cairo Governorate",
+                        "location_map":{"lang":"30.0493992","late":"31.2631504"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F62.jpg?alt=media&token=eb658c8c-41aa-4a31-8963-d730f2160441"
+                    },
+
+                    {
+                        "id":63,
+                        "name":"Genena Mall",
+                        "description":"Genena Mall was established in 1999 on Al Batrawy Street, which is branched from Abbas El Akkad Street in Nasr City, in response to the country's call for development.",
+                        "location":"St, off, 9 El-Batrawy, Abbas el-Akkad, St, Nasr City, Cairo Governorate 11432",
+                        "location_map":{"lang":"30.0611596","late":"31.3342131"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F63.jpg?alt=media&token=15ac73f8-90a0-4250-a1b5-5f119635e6b2"
+                    },
+
+                    {
+                        "id":64,
+                        "name":"Umm Kolthoum Museum",
+                        "description":"Museum in Egypt.",
+                        "location":"1 The Good King, Manial Al-Rawda, Misr Al-Qadima District, Cairo Governorate",
+                        "location_map":{"lang":"30.0074346","late":"31.2272804"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F64.jpg?alt=media&token=080e76cc-90d2-4454-8afe-178dbcd151b2"
+                    },
+
+                    {
+                        "id":65,
+                        "name":"Al-Hakim Mosque",
+                        "description":"Al-Hakim mosque, by the command of God, a mosque built in 380 AH during the reign of Al-Aziz Bellah Al-Fatimi, who began in the year 379 AH in building another mosque outside Bab Al-Futuh, but he died before it was completed.",
+                        "location":"154 Al-Moez Deen Allah Al-Fatimi, Al-Gamalia, Department of Aesthetic, Cairo Governorate",
+                        "location_map":{"lang":"30.0550097","late":"31.2652695"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F65.jpg?alt=media&token=8f881b5d-3555-4d70-be57-fb13d6580557"
+                    },
+
+                    {
+                        "id":66,
+                        "name":"Egyptian Textile Museum",
+                        "description":"Museum in Cairo.",
+                        "location":"Al-Gamalia, Aesthetic Department, Cairo Governorate",
+                        "location_map":{"lang":"30.0498081","late":"31.2634642"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F66.jpg?alt=media&token=f88060a2-f978-42a4-bb09-99b952dcddd1"
+                    },
+
+                    {
+                        "id":67,
+                        "name":"Fort of Babylon",
+                        "description":"The Babylon Fortress is now located in Cairo, in the Masr Al-Qadima neighborhood at the St. Gerges Underground Station. Emperor Trajan had ordered its construction in the second century AD during the Roman occupation of Egypt.",
+                        "location":"Coptic Cairo, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.006235","late":"31.2341774"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F67.jpg?alt=media&token=8706728b-b342-4719-babf-b5cb4274af7a"
+                    },
+
+                    {
+                        "id":68,
+                        "name":"Liberation Square (Midan El-Tahreer)",
+                        "description":"A cultural and historical place.",
+                        "location":"Wasim Hasan Street Cairo",
+                        "location_map":{"lang":"30.0445393","late":"31.2374545"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F68.jpg?alt=media&token=a3729829-8423-4cc9-86b9-db3b1f7ecb5c"
+                    },
+
+                    {
+                        "id":69,
+                        "name":"Church of St. Barbara",
+                        "description":"Church in Egypt.",
+                        "location":"Urban section, Giza",
+                        "location_map":{"lang":"29.9986158","late":"31.210664"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F69.jpg?alt=media&token=8c931bd4-47b3-47d6-9f07-0a1eabaf2476"
+                    },
+
+                    {
+                        "id":70,
+                        "name":"Wadi Natrun",
+                        "description":"Wadi Natrun, follow the Egyptian city of Beheira Governorate. It is located on the northeastern outskirts of the Egyptian Western Desert, about halfway from the desert road linking Cairo and Alexandria, and facing the city of Sadat.",
+                        "location":"Beheira Governorate",
+                        "location_map":{"lang":"30.4533522","late":"30.4245788"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F70.jpg?alt=media&token=ceccab13-7ea8-41fb-984e-39f8704b3faa"
+                    },
+
+                    {
+                        "id":71,
+                        "name":"Child Museum",
+                        "description":"The Child Museum, also known as The Children's Civilization & Creativity Center, is one of The Heliopolis Association major projects.",
+                        "location":"34 Abou Bakr El Seddik St. Heliopolis Heliopolis, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.1022381","late":"31.3391347"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F71.jpg?alt=media&token=c48d0629-e0af-44d0-86b3-7aec9830ca18"
+                    },
+
+                    {
+                        "id":72,
+                        "name":"SunCity Mall",
+                        "description":"Shopping center in Egypt.",
+                        "location":"Nasr Road, Sheraton Airport, Qism El-Nozha, Cairo Governorate",
+                        "location_map":{"lang":"30.1023662","late":"31.3880345"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F72.jpg?alt=media&token=054c84ee-3c4f-4124-9713-14dcfc45ad9c"
+                    },
+
+                    {
+                        "id":73,
+                        "name":"Bab al-Futuh",
+                        "description":"Bab al-Futuh is one of the gates of the Cairo Wall, built in 1087 AD by Jawhar al-Skali, and then Prince Badr al-Jamali renewed it and placed it in its current position at the entrance to al-Mu`izz Street to the religion of God Fatimid next to the al-Hakim mosque by the command of God.",
+                        "location":"Bab Al Foutoh, El-Gamalia, Aesthetic Department, Cairo Governorate",
+                        "location_map":{"lang":"30.0554818","late":"31.2656059"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F73.jpg?alt=media&token=a3313058-403c-4c33-8dc8-639b7dd12488"
+                    },
+
+                    {
+                        "id":74,
+                        "name":"National Geographic Society Museum",
+                        "description":"This complex comprises an ethnographic museum, debating chamber and a small historical library.",
+                        "location":"Kasr El Aini Street El Shura Council Compound, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.041119","late":"31.238236"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F74.jpg?alt=media&token=8a56b529-98c0-40ff-b9d7-56d5ff6e2c67"
+                    },
+
+                    {
+                        "id":75,
+                        "name":"Sixth of October Bridge",
+                        "description":"The 6th of October Bridge, or the 6th of October Bridge as it is known in Egypt, is the longest bridge in Egypt and Africa and extends from the Agricultural Museum in Dokki in Giza Governorate to the Nasr Road in Nasr City in Cairo, through Zamalek and Cairo's most famous square, Tahrir Square and Cairo's busiest square, Ramses Square. The bridge is 20.5 km long.",
+                        "location":"6th of October Bridge, Cairo Governorate",
+                        "location_map":{"lang":"30.0672455","late":"31.2613224"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F75.jpg?alt=media&token=0157c49b-919c-41c0-968b-60abe86ac336"
+                    },
+
+                    {
+                        "id":76,
+                        "name":"Mosque of Sultan Al-Ashraf Barsbay",
+                        "description":"Mosque and Madrasa of Sultan Al-Ashraf Barsbay or the Ashrafieh School.",
+                        "location":"Street No. 67, El Obour, Cairo Governorate",
+                        "location_map":{"lang":"30.0474356","late":"31.2622297"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F76.jfif?alt=media&token=80bb5e1b-36af-451e-b2b0-8c05698c9800"
+                    },
+
+                    {
+                        "id":77,
+                        "name":"Egyptian Air Force Museum",
+                        "description":"Museum in Egypt.",
+                        "location":"Sheraton Airport, Qism El-Nozha, Cairo Governorate",
+                        "location_map":{"lang":"30.0970998","late":"31.3548772"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F77.jpg?alt=media&token=d6b9750e-555f-4bcb-b139-4aa5f64afa95"
+                    },
+
+                    {
+                        "id":78,
+                        "name":"Abu Sir Pyramids",
+                        "description":"This complex consists of four (of the original fifteen) pyramids from the 5th Dynasty: the pyramids of Neferefre, Neferirkare, Niuserre and Sahure.",
+                        "location":"Outside of Cairo, Cairo 11511 Egypt",
+                        "location_map":{"lang":"29.8970955","late":"31.2039891"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F78.jpg?alt=media&token=ac315733-e801-4aaf-8f89-edec9437a96a"
+                    },
+
+                    {
+                        "id":79,
+                        "name":"October War Panorama",
+                        "description":"The October War Panorama was created in cooperation between Egypt and North Korea in 1983 to commemorate and celebrate Egypt's victory in the Sixth of October War. It is located in Heliopolis, Salah Salem Street, next to Cairo International Stadium.",
+                        "location":"Salah Salem, Stadium, Nasr City, Cairo Governorate",
+                        "location_map":{"lang":"30.0742728","late":"31.3089955"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F79.jpg?alt=media&token=226dee0d-bd7a-44ec-b623-f9fd4ddfd4d7"
+                    },
+
+                    {
+                        "id":80,
+                        "name":"Al-Hussein Mosque",
+                        "description":"Imam Al-Hussein Bin Ali Mosque is located in Cairo, Egypt, in Old Cairo, in the neighborhood named after the Imam. Next to the mosque is the famous Khan Al-Khalili and Al-Azhar Mosque.",
+                        "location":"Al-Mashhad Al-Hussaini Al-Mashhad Al-Hussein Street, Hassan Al-Adawi Street, Extension",
+                        "location_map":{"lang":"30.0476847","late":"31.2652472"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F80.jpg?alt=media&token=9f8b6a22-b33f-499d-8a73-47d3df6e2c83"
+                    },
+
+                    {
+                        "id":81,
+                        "name":"Unknown Soldier Memorial",
+                        "description":"The Tomb of the Unknown Soldier or Memorial of the Unknown Soldier in Nasr City is a memorial constructed in the shape of a pyramid in Cairo, Egypt. The monument is located in the suburb of Nasr City.",
+                        "location":"Nasr Road, Stadium, Nasr City, Cairo Governorate",
+                        "location_map":{"lang":"30.0653787","late":"31.3161357"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F81.jpg?alt=media&token=f496ca50-7368-4f73-8efd-d2325f3bdd02"
+                    },
+
+                    {
+                        "id":82,
+                        "name":"Military Museum",
+                        "description":"This military museum records the history of the Egyptian army forces from Pharaonic times to present-day, featuring exhibits of weaponry, medals, military equipment, uniforms and 220 paints of famous battles.",
+                        "location":"Citadel, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.030853","late":"31.2647457"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F81.jpg?alt=media&token=f496ca50-7368-4f73-8efd-d2325f3bdd02"
+                    },
+
+                    {
+                        "id":83,
+                        "name":"Agricultural Museum",
+                        "description":"The Agricultural Museum in Egypt The purpose of its establishment was the documentation of Egypt's agricultural memory, and a window from which all generations overlook Egypt's agricultural civilization, as well as being the center of agricultural culture.",
+                        "location":"October 6 Bridge, Dokki",
+                        "location_map":{"lang":"30.0459262","late":"31.21295"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F83.jpg?alt=media&token=44711319-29de-45ea-9a4d-feb1d662a5cc"
+                    },
+
+                    {
+                        "id":84,
+                        "name":"St. Mercurius Church (Abu Seifien)",
+                        "description":"Built in the 6th century AD, and extensively restored in the 12 century, this church known as the Saint of the two Swords is considered to be the only one in Cairo with its original foundation.",
+                        "location":"Mari Girgis Street, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.015516","late":"31.2345987"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F84.jpg?alt=media&token=08a713e9-0236-4d85-b1a4-95d248e275f2"
+                    },
+
+                    {
+                        "id":85,
+                        "name":"Gray Mosque (El-Aqmar Mosque)",
+                        "description":"The Al-Aqmar Mosque is one of the Fatimid Cairo mosques. This mosque is located in Al-Nahhasin Street and was built by the Minister al-Maamun ibn al-Batayeh by order of the Caliph al-Amir, Ahkam Allah Abi Mansur in the year 519 AH, which is the first mosque in Cairo whose façade contains a special engineering design.",
+                        "location":"Al-Mu'izz Dallah Al-Fatimi, Al-Gamalia, Aesthetic Department, Cairo Governorate",
+                        "location_map":{"lang":"30.0516134","late":"31.2640914"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F85.jpg?alt=media&token=58eae463-3602-4d7b-a317-df42e507dd34"
+                    },
+
+                    {
+                        "id":86,
+                        "name":"St. Mary's Coptic Orthodox Church",
+                        "description":"The Orthodox Church in Cairo.",
+                        "location":"14 st.massara, shoubra, 14 Masarra, Qasr Road El Farag, Cairo Governorate",
+                        "location_map":{"lang":"30.0730838","late":"31.2610844"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F86.jpg?alt=media&token=3984459d-77d7-4de6-b840-70071088ba62"
+                    },
+
+                    {
+                        "id":87,
+                        "name":"Tiba Outlet Mall",
+                        "description":"The Mall was initially established as an outlet with the sole purpose of adding to the shopping experience of the costumers in Cairo and all around Egypt.",
+                        "location":"75 Al Nasr Road, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.0675274","late":"31.3322628"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F87.jpg?alt=media&token=d1a5a77d-f16d-4db1-a1de-4f1d9d5d1a12"
+                    },
+
+                    {
+                        "id":88,
+                        "name":"Arkadia Mall",
+                        "description":"Arkadia Mall was the first of its kind in Egypt and was designed by the renowned American architect firm HOK, which ranked first in the world in multi-purpose building's design.",
+                        "location":"4 A Nile Corniche, Maspero, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.063981","late":"31.2403463"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F88.JPG?alt=media&token=14347f78-d9ba-4d82-8af9-a15e4619fa14"
+                    },
+
+                    {
+                        "id":89,
+                        "name":"Mokkatom Mountain",
+                        "description":"This mountain occupies the areas east of the Salah al-Din Citadel, and it is considered one of the mountains that played an important role in the construction work during the Coptic and Islamic eras.",
+                        "location":"Cairo Egypt",
+                        "location_map":{"lang":"30.0216659","late":"31.3120881"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F89.jpg?alt=media&token=f11f526d-ab68-4ed1-86b6-4742efb7ce88"
+                    },
+
+                    {
+                        "id":90,
+                        "name":"El Muayyad Mosque",
+                        "description":"The Sultan Al-Muayyad Mosque or the Al-Muayyad Mosque or Al-Muayyid Mosque is one of the famous archeological mosques in Cairo, and it is described as the pride of the mosques of the Circassian Mamluks.",
+                        "location":"Al-Sharqia, Al-Darb Al-Ahmar, Cairo Governorate",
+                        "location_map":{"lang":"30.0433568","late":"31.259644"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F90.jpg?alt=media&token=d627bfc2-f291-4de5-8f28-963c871f117f"
+                    },
+
+                    {
+                        "id":91,
+                        "name":"Museum of Islamic Ceramics",
+                        "description":"Located in the palace of Prince Ibrahim in Zamalek, this museum offers a splendid collection of ceramics acquired from different Islamic countries.",
+                        "location":"Prince Ibrahim's Palace, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.0563832","late":"31.2252695"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F91.jpg?alt=media&token=b3887e59-7a58-47e0-8a2c-eeb25798c8db"
+                    },
+
+                    {
+                        "id":92,
+                        "name":"Ahmed Shawki Museum (Karmat Ibn Hani)",
+                        "description":"This museum is in recognition of the great Poet-Laureate Ahmed Shawki, which houses a wide collection of more than 713 manuscripts and drafts, a collection of oil paintings, antique objects and photographs of the poet and his family.",
+                        "location":"6 Ahmed Shawki Street, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.0212625","late":"31.2196228"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F92.jfif?alt=media&token=e63679c3-02e7-443d-8693-798cbd2f8473"
+                    },
+
+                    {
+                        "id":93,
+                        "name":"Bab al-Azab",
+                        "description":"Built in 1754 during the Ottoman period, this main gate protected the original entrance to the Citadel.",
+                        "location":"Al Fustat Khan el Kahlili Market Area, Cairo 11511 Egypt",
+                        "location_map":{"lang":"30.0310472","late":"31.2598726"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F93.jpg?alt=media&token=7d1447ce-8cdb-41a4-b6bb-65a3a4181146"
+                    },
+
+                    {
+                        "id":94,
+                        "name":"Railway Museum",
+                        "description":"Museum in Cairo",
+                        "location":"Cairo Egypt",
+                        "location_map":{"lang":"31.3832778","late":"35.3071263"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F94.jpg?alt=media&token=47e87890-f688-49ba-8fb2-842f578262ed"
+                    },
+
+                    {
+                        "id":95,
+                        "name":"Japanese Garden",
+                        "description":"Japanese garden or gardens are orchards that are cared for in Japan according to traditional methods, and these methods are based on a special art dating back to ancient times.",
+                        "location":"Cairo Egypt",
+                        "location_map":{"lang":"27.5833683","late":"51.2962956"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F95.jpg?alt=media&token=ec6d1335-abdf-46c8-81c5-ed016a647209"
+                    },
+
+                    {
+                        "id":96,
+                        "name":"Mahmoud Mokhtar Museum",
+                        "description":"Mokhtar Museum is a museum in Cairo, Egypt, which includes statues of the Egyptian sculptor Mahmoud Mokhtar. Mokhtar is one of the few pioneers in sculpture and the owner of the famous Renaissance Renaissance statue and has a museum in his name that still exists.",
+                        "location":"Mahmoud Mokhtar Street, Zamalek, Cairo Governorate",
+                        "location_map":{"lang":"30.0421222","late":"31.2255611"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F96.jpg?alt=media&token=2f9d261c-56c6-4c67-8fa1-d60cb12ced96"
+                    },
+
+                    {
+                        "id":97,
+                        "name":"Helwan Wax Museum",
+                        "description":"The Wax Museum in Helwan is an Egyptian museum located in the city of Helwan, Cairo, established in 1934, and the museum includes many works of art from wax as well as rare collections of the stages of the development of Egyptian history, from the Pharaohs to the modern era.",
+                        "location":"Mansour, Qism Helwan, Cairo Governorate",
+                        "location_map":{"lang":"29.8601294","late":"31.3283009"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F97.jpg?alt=media&token=ffd4d43a-43ee-4793-a13b-4ae8b7fda887"
+                    },
+
+                    {
+                        "id":98,
+                        "name":"Suleiman Pasha Mosque",
+                        "description":"Suleiman Pasha Mosque, known as the Sariyat Al-Jabal Mosque, was established in 1528 AD. It is located inside Salah El-Din Al-Ayoubi Castle or Al-Jabal Castle, at the top of Al-Mokattam Mountain It was established by Suleiman Pasha Al-Khadim, one of the Ottoman governors of Egypt, 1528/1529 AD.",
+                        "location":"2 Alley of the Majas, Al-Abajiyya, Qism El-Khalifa, Cairo Governorate",
+                        "location_map":{"lang":"30.0310618","late":"31.2665351"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F98.jpg?alt=media&token=1494a15e-2cc8-48e8-ab37-32b307af48a8"
+                    },
+
+                    {
+                        "id":99,
+                        "name":"University Bridge",
+                        "description":"Cairo in Egypt.",
+                        "location":"The Nile Club called the Giza police officers in front of the Saudi Embassy and next to the University Bridge",
+                        "location_map":{"lang":"30.0310571","late":"31.2993661"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F99.jpg?alt=media&token=cd9426d2-69b1-4dbc-9877-27030ec5207d"
+                    },
+
+                    {
+                        "id":100,
+                        "name":"El Gomhoureya Theatre",
+                        "description":"Performing arts theater in Cairo.",
+                        "location":"12 El Gomhoria Street, ABDIN, Abdin, Cairo Governorate",
+                        "location_map":{"lang":"30.0455959","late":"31.2486119"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/cairo_places%20pic%2F100.jpg?alt=media&token=a5d70b24-5dd2-46eb-a8e2-dc79d2912603"
+                    }
+                ],
+
+
+
+
+
+                "alexandria_tourist_places":
+                    [
+                        {
+                            "id":1,
+                            "name":"Bibliotheca Alexandrina",
+                            "description":"One of the important Landmarks in Alexandria.",
+                            "location":"El Shatby, Alexandria 30100, Egypt",
+                            "location_map":{"lang":"31.2088705","late":"29.9113899"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F1.jpg?alt=media&token=e30b0a25-a4fa-4e65-86d0-6e8a459645a2"
+                        },
+
+                        {
+                            "id":2,
+                            "name":"Montazah Gardens",
+                            "description":"Royal gardens of King Faruk. The king was the last Egyptian monarch.",
+                            "location":"Montaza Palace | Al Mandarah Bahri, Qism El-Montaza, Alexandria 21599, Egypt",
+                            "location_map":{"lang":"31.2884954","late":"30.0181579"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F2.jpg?alt=media&token=a0a64c65-6077-4d10-966f-7e45e386755b"
+                        },
+
+                        {
+                            "id":3,
+                            "name":"Catacombs of Kom el Shoqafa",
+                            "description":"An ancient circular staircase leads down into these tombs that were tunneled into the bedrock during the age of the Antonine emporers (2nd century AD).",
+                            "location":"Mohmad said Al halawane | Mohmad said Al halawane, Alexandria 21599, Egypt",
+                            "location_map":{"lang":"31.1790209","late":"29.8935996"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F3.jpg?alt=media&token=e2f4ad81-1c54-4eea-a8d5-98ad6b61f34e"
+                        },
+
+                        {
+                            "id":4,
+                            "name":"Fort Qaitbey",
+                            "description":"Resembling an imposing castle fortress, this citadel was built in the 1480s by Sultan Qaitbey on the site of the Pharos Lighthouse, to protect the city from the crusaders who used to attack the city by sea.",
+                            "location":"29 88545 N 31. 21372 E, Alexandria 21599, Egypt",
+                            "location_map":{"lang":"31.214011","late":"29.887827"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F4.jpg?alt=media&token=1765fa01-9e89-407d-88c1-ca4f3f2d349c"
+                        },
+
+                        {
+                            "id":5,
+                            "name":"Royal Jewelry Museum",
+                            "description":"Museums in Alexandria.",
+                            "location":"21 Ahmed Yehia Street | Zizinia, Alexandria 21599, Egypt",
+                            "location_map":{"lang":"31.240736","late":"29.9654455"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F5.jpg?alt=media&token=a62917b6-9f5f-41cc-8822-315a1cf9f5db"
+                        },
+
+                        {
+                            "id":6,
+                            "name":"Alexandria National Museum",
+                            "description":"More than 1800 archaeological pieces are exhibited chronologically from one floor to the next.",
+                            "location":"110 El Horreya Rd. Raml Station, Alexandria 21599, Egypt",
+                            "location_map":{"lang":"31.2007666","late":"29.9142795"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F6.jpg?alt=media&token=9cb86d13-8231-4c01-af6f-2d56e15e5415"
+                        },
+
+                        {
+                            "id":7,
+                            "name":"Stanley Bridge",
+                            "description":"Bridge in Alexandria, one of the landmarks.",
+                            "location":"Alexandria, Egypt",
+                            "location_map":{"lang":"31.2350274","late":"29.9507874"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F7.jpg?alt=media&token=08784a93-e91b-474a-bee1-e861f7885a35"
+                        },
+
+                        {
+                            "id":8,
+                            "name":"Corniche",
+                            "description":"The Corniche is a glorious 3km walkway along the harbour dotted with restaurants, markets and historic sights.",
+                            "location":"Alexandria, Egypt.",
+                            "location_map":{"lang":"31.2095857","late":"29.9098199"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F8.jpg?alt=media&token=38acb751-62d2-42ca-8c55-528fca9810ad"
+                        },
+
+                        {
+                            "id":9,
+                            "name":"Lighthouse of Alexandria",
+                            "description":"Lighthouse one of the landmarks in Alexandria.",
+                            "location":"Alexandria, Egypt",
+                            "location_map":{"lang":"31.2142398","late":"29.8935107"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F9.jpg?alt=media&token=efbab6ad-66c7-4725-971f-2ccf248e8169"
+                        },
+
+                        {
+                            "id":10,
+                            "name":"Roman Amphitheatre",
+                            "description":"Built in the 2nd century AD, this Roman amphitheater has 13 semicircular tiers made of white and gray marble.",
+                            "location":"Raml Station Square | At Kom El Dekka near the Roman Museum, Alexandria 21599, Egypt",
+                            "location_map":{"lang":"31.1945194","late":"29.9050429"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F10.jpg?alt=media&token=a59c65ef-46c9-491a-8754-2fda110b8275"
+                        },
+
+                        {
+                            "id":11,
+                            "name":"King Farouk Palace",
+                            "description":"This sprawling property was the summer home of controversial King Farouk who assumed power at the age of 16 in 1936.",
+                            "location":"Alexandria, Egypt",
+                            "location_map":{"lang":"31.2884954","late":"30.0181579"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F11.jpg?alt=media&token=792cc750-d6b5-4752-9595-6349bfa39bff"
+                        },
+
+                        {
+                            "id":12,
+                            "name":"Mosque of Abu al-Abbas al-Mursi",
+                            "description":"Architectural Building.",
+                            "location":"Anfushi | Old Alexandria, Alexandria 21599, Egypt",
+                            "location_map":{"lang":"31.2057854","late":"29.8834883"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F12.jpg?alt=media&token=344e8e43-9218-4b8d-a370-b742268fedf6"
+                        },
+
+                        {
+                            "id":13,
+                            "name":"Pompey's Pillar",
+                            "description":"This 25-meter-high granite column was constructed in honor of the Emperor Diocletian in AD 297.",
+                            "location":"Al Karah WA at Toubageyah WA Kafr Al Ghates, Alexandria 21599, Egypt",
+                            "location_map":{"lang":"31.1823879","late":"29.8973923"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F13.jpg?alt=media&token=4cab6ec5-39bc-4b18-a74b-b536b9972c0b"
+                        },
+
+                        {
+                            "id":14,
+                            "name":"Alexandria Library",
+                            "description":"Library in Alexandria.",
+                            "location":"Alexandria, Egypt",
+                            "location_map":{"lang":"31.2089944","late":"29.9102955"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F14.jpg?alt=media&token=262fd441-b998-4dd4-baf7-c4c90a69dd2f"
+                        },
+
+                        {
+                            "id":15,
+                            "name":"Mamoura Beach",
+                            "description":"Beach on the Mediterranean coast.",
+                            "location":"Alexandria, Egypt",
+                            "location_map":{"lang":"31.2899471","late":"30.0323639"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F15.jpg?alt=media&token=a81ef41a-2edf-462e-9310-9c76f7b938e2"
+                        },
+
+                        {
+                            "id":16,
+                            "name":"El Kobba El Samaweya",
+                            "description":"History Museums in Alexandria.",
+                            "location":"Port Said St. El Shatby, Alexandria 21599, Egypt",
+                            "location_map":{"lang":"31.2176467","late":"29.931426"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F16.jpg?alt=media&token=9509df9a-f00b-425f-a1e9-475d84a083e3"
+                        },
+
+                        {
+                            "id":17,
+                            "name":"Cavafy Museum",
+                            "description":"The Cavafy Museum is a residential museum in the center of Alexandria, Egypt, and was once the residence of the Greek poet Constantine B. Cavafy where he lived most of his life.",
+                            "location":"6 Sharm El Sheikh St. | Off Istanbul St. Raml Station, Alexandria 21599, Egypt",
+                            "location_map":{"lang":"31.197691","late":"29.9023322"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F17.jpg?alt=media&token=0fdc7a96-5795-476b-9975-261fb5c5e50c"
+                        },
+
+                        {
+                            "id":18,
+                            "name":"Deir Mar Mina (St. Mina Monastery)",
+                            "description":"It is located in the Western Desert near Alexandria. It is dedicated to Saint Minas.",
+                            "location":"9 Borg el-Arab el-Gadida | Mariut, Alexandria 21599, Egypt",
+                            "location_map":{"lang":"30.8516487","late":"29.6672567"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F18.jpg?alt=media&token=52ffafd8-cbc6-47e5-8a32-ea93d6551e90"
+                        },
+
+                        {
+                            "id":19,
+                            "name":"Sarapeum (Serapeion)",
+                            "description":"This temple, dedicated to the god Serapis, is from the Ptolemaic and Roman periods.",
+                            "location":"Alexandria, Egypt",
+                            "location_map":{"lang":"31.1824659","late":"29.897403"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F19.jpg?alt=media&token=3230001d-37bb-4db4-9f92-fe9f6e47fc32"
+                        },
+
+                        {
+                            "id":20,
+                            "name":"Saint Mark's Coptic Orthodox Cathedral",
+                            "description":"The former seat of the Coptic Orthodox Patriarch prior to being moved to Cairo in 1968.",
+                            "location":"19 Qesm Al Attarin, Alexandria, Egypt",
+                            "location_map":{"lang":"31.1980937","late":"29.9004577"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F19.jpg?alt=media&token=3230001d-37bb-4db4-9f92-fe9f6e47fc32"
+                        },
+
+                        {
+                            "id":21,
+                            "name":"El Qaed Ibrahim Mosque",
+                            "description":"Religious site in Alexandria.",
+                            "location":"Mahtet El Raml Square, Alexandria 21599, Egypt",
+                            "location_map":{"lang":"31.2037395","late":"29.9068335"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F21.jpg?alt=media&token=afeb4b5d-87a9-474d-8af6-cb5d1d76a329"
+                        },
+
+                        {
+                            "id":22,
+                            "name":"The Fine Arts Museum",
+                            "description":"Art museum in Alexandria.",
+                            "location":"1 Menasha St. Moharram Bey, Alexandria 21599, Egypt",
+                            "location_map":{"lang":"31.1943785","late":"29.9151162"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F22.jpg?alt=media&token=2f979ea7-b1b0-4d02-8099-53c07cd78b5d"
+                        },
+
+                        {
+                            "id":23,
+                            "name":"Alexandria Opera House",
+                            "description":"The place where concerts and shows.",
+                            "location":"22 El Horreya Rd._ | Raml Station, Alexandria, Egypt",
+                            "location_map":{"lang":"31.1967889","late":"29.9042799"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F23.jpg?alt=media&token=5e62bd23-8475-4963-ab62-8f4cc4c158da"
+                        },
+
+                        {
+                            "id":24,
+                            "name":"Aquarium Museum",
+                            "description":"A small museum that includes several species of fish in Bahrain, Mediterranean and Red, as well as other species that live in fresh water, such as Nile and Amazon.",
+                            "location":"Qaitbay St. El Anfoushi, Alexandria 21599, Egypt",
+                            "location_map":{"lang":"31.2128046","late":"29.8871955"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F24.jpg?alt=media&token=6cd6153b-52f2-4dc7-88f0-b7521ff9031f"
+                        },
+
+                        {
+                            "id":25,
+                            "name":"Mustafa Kamel Necropolis",
+                            "description":"One of the landmarks in Alexandria.",
+                            "location":"El Moaaskar El Romani, Alexandria 21599, Egypt",
+                            "location_map":{"lang":"31.2308233","late":"29.948709"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F25.jpg?alt=media&token=b85c0b7c-72b0-40e7-b721-cd3818c507be"
+                        },
+
+                        {
+                            "id":26,
+                            "name":"St. Catherine's Cathedral",
+                            "description":"The St. Catherine's Cathedral is the Roman Catholic cathedral of the Apostolic Vicariate in Alexandria,Egypt.",
+                            "location":"Sant Katren, Alexandria 21599, Egypt",
+                            "location_map":{"lang":"31.1954116","late":"29.8948556"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F26.jpg?alt=media&token=53274ecf-0664-47c6-92d5-52639391fab1"
+                        },
+
+                        {
+                            "id":27,
+                            "name":"Alexandria Unknown Naval Soldier Memorial",
+                            "description":"The memorial to the unknown marine soldier is located in the Mansheya area of ​​Alexandria.",
+                            "location":"Alexandria Corniche, Alexandria 21599, Egypt",
+                            "location_map":{"lang":"31.1999705","late":"29.8947752"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F27.jpg?alt=media&token=2cd7b0aa-3659-4fcb-a387-1fb7bcb67765"
+                        },
+
+                        {
+                            "id":28,
+                            "name":"Alexandria Zoo",
+                            "description":"The second largest animal park in Egypt after the Giza Zoo. It is located in the Al-Nuzha neighborhood, in Alexandria, near the Antoniadis Gardens and the Smouha neighborhood, and is affiliated with the Central Administration of Zoological Gardens.",
+                            "location":"Qism Sidi Gabir | Smouha, oppositie to Smouha Hospital, Alexandria 21599, Egypt",
+                            "location_map":{"lang":"31.2046862","late":"29.9448896"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F28.jpg?alt=media&token=c00d5608-8bc8-47ee-9fad-3c6b297d66db"
+                        },
+
+                        {
+                            "id":29,
+                            "name":"Antoniades Garden",
+                            "description":"Botanical garden in Alexandria.",
+                            "location":"Albeirt El Awal st. | Semouha, Alexandria 21599, Egypt",
+                            "location_map":{"lang":"31.2057545","late":"29.9480771"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F29.jpg?alt=media&token=2cb86809-c6d5-4935-9c17-8176ac92fbe8"
+                        },
+
+                        {
+                            "id":30,
+                            "name":"Mahmoud Said Museum",
+                            "description":"An art museum in Alexandria.",
+                            "location":"6 Mohamed Pasha Said St. Ganaklis, Alexandria 21599, Egypt",
+                            "location_map":{"lang":"31.2442616","late":"29.9700121"},
+                            "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/alex_places_pic%2F30.jpg?alt=media&token=9aaa0534-42f0-4c68-b862-4b8dcc5efd90"
+                        }
+
+                    ],
+
+            "luxor_tourist_places":
+                [
+                    {
+                        "id":1,
+                        "name":"Valley of the Kings",
+                        "description":"This desert valley contains the ancient burial ground of many Egyptian pharaohs. Among over 60 royal tombs is the famous Tomb of Tutankhamen that was found in pristine condition.",
+                        "location":"Luxor City, Luxor 85511, Egypt",
+                        "location_map":{"lang":"25.7402232","late":"32.6015588"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_places_pic%2F1.jpg?alt=media&token=40fa6c3e-ac33-425e-8298-766a0750ad4e"
+                    },
+
+                    {
+                        "id":2,
+                        "name":"Temple of Karnak",
+                        "description":"It is a group of temples, buildings and columns, as expansion and construction continued from the Pharaonic era, specifically the Middle Kingdom kings until the Roman era in Luxor in Egypt on the eastern coast.",
+                        "location":"Karnak, Luxor, Egypt",
+                        "location_map":{"lang":"25.7186444","late":"32.6582319"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_places_pic%2F2.jpg?alt=media&token=253ee94b-bbb4-4202-ac69-81abfcdd3202"
+                    },
+
+                    {
+                        "id":3,
+                        "name":"Luxor Temple",
+                        "description":"A temple built for the ritual practices exercised at the most important Ancient Egyptian festival, The Festival of Opet.",
+                        "location":"Luxor 23512, Egypt",
+                        "location_map":{"lang":"25.6994633","late":"32.6398609"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_places_pic%2F3.jpg?alt=media&token=7893cc67-f8a8-46f3-8230-6ac7dbb5f7c0"
+                    },
+
+                    {
+                        "id":4,
+                        "name":"Luxor Museum",
+                        "description":"A museum featuring items found beneath the Luxor Temple, and from the tomb of King Tut. Also on exhibit is a re-assembled wall from the Temple of Aten.",
+                        "location":"Center Corniche Ave, Luxor, Egypt",
+                        "location_map":{"lang":"25.7077099","late":"32.6451714"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_places_pic%2F4.jpg?alt=media&token=605e30e5-968e-4fb9-a3aa-f426b5d3f64b"
+                    },
+
+                    {
+                        "id":5,
+                        "name":"Temple of Hatshepsut at Deir el Bahari",
+                        "description":"A mortuary temple dedicated to the longest ruling female of Ancient Egypt, Queen Hatshepsut. The temple is decorated with statues, sphinxes, and reliefs, which have been meticulously restored over time.",
+                        "location":"Kings Valley Rd | Deir el-Bahari, Luxor 23512, Egypt",
+                        "location_map":{"lang":"25.7372912","late":"32.6082291"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_places_pic%2F5.jpg?alt=media&token=eefb7701-7e45-43a3-8a9e-5371577bcd1d"
+                    },
+
+                    {
+                        "id":6,
+                        "name":"Temple of Medinat Habu",
+                        "description":"This ancient complex is dominated by the massive memorial temple of Ramses III, similar to the mortuary temple of Ramses II at Ramesseum.",
+                        "location":"Al Bairat, Luxor, Egypt",
+                        "location_map":{"lang":"25.7193131","late":"32.6024344"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_places_pic%2F6.jpg?alt=media&token=84c55c6a-a3d1-4f42-9255-d574a0cf80ca"
+                    },
+
+                    {
+                        "id":7,
+                        "name":"Tomb of King Tutankhamun (Tut)",
+                        "description":"The tomb of King Tut was discovered in the Valley of the Kings in 1922 by Howard Carter and Lord Carnarvon.",
+                        "location":"Valley of the Kings, Luxor, Egypt",
+                        "location_map":{"lang":"25.7403708","late":"32.6035964"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_places_pic%2F7.jpg?alt=media&token=c0e10fe4-6e6c-4f52-a8e7-449935d98182"
+                    },
+
+                    {
+                        "id":8,
+                        "name":"Tomb of Queen Nefertari",
+                        "description":"Sights and Landmarks.",
+                        "location":"Luxor, Egypt",
+                        "location_map":{"lang":"25.7285836","late":"32.5951106"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_places_pic%2F8.jpg?alt=media&token=83be9217-5db8-436a-a204-a764fce0a0a2"
+                    },
+
+                    {
+                        "id":9,
+                        "name":"Tomb of Ramses VI",
+                        "description":"The key feature of this tomb, which was originally built for Ramses V and expanded by Ramses VI during the 20th Dynasty, is its vaulted astronomical ceiling with a double image of the Goddess Nut swallowing the sun.",
+                        "location":"Valley of the Kings | West Bank, Luxor, Egypt",
+                        "location_map":{"lang":"25.7394488","late":"32.6033962"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_places_pic%2F9.jpg?alt=media&token=c4216f4d-33fa-40e6-af54-40121d4fae39"
+                    },
+
+                    {
+                        "id":10,
+                        "name":"Karnak Open Air Museum",
+                        "description":"Museums, History Museums.",
+                        "location":"within the walls of Karnak Temple, Luxor, Egypt",
+                        "location_map":{"lang":"25.7188636","late":"32.657855"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/luxor_places_pic%2F10.jpg?alt=media&token=ab689adc-c85a-4582-bdcc-3fb13a7d5172"
+                    }
+                ],
+
+
+            "aswan_tourist_places":
+                [
+                    {
+                        "id":1,
+                        "name":"Temple of Philae",
+                        "description":"This large temple complex, relocated to the island of Agilika with the building of the High Dam in Aswan, features the magnificent Temple of Isis that was built in the late Ptolemaic and early Roman periods.",
+                        "location":"Island of Agilika, Aswan, Egypt",
+                        "location_map":{"lang":"24.0123737","late":"32.8802772"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_places_pic%2F1.jpg?alt=media&token=46f455f0-ad0c-4137-9d28-1d233c6dca98"
+                    },
+
+                    {
+                        "id":2,
+                        "name":"Nubian Museum",
+                        "description":"This museum traces the history from the earliest settlements to present day of Nubia, the region defined as the area between Aswan in Egypt and Khartoum in the Sudan.",
+                        "location":"Assuan, Sheyakhah Oula, Qism Aswan, Aswan, Egypt",
+                        "location_map":{"lang":"24.0793171","late":"32.8899045"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_places_pic%2F2.jpg?alt=media&token=12c331b2-ed1e-46d5-be5d-25f67e01e377"
+                    },
+
+                    {
+                        "id":3,
+                        "name":"Nubian Village",
+                        "description":"Sights and Landmarks, Historic Sites",
+                        "location":"Aswan, Egypt",
+                        "location_map":{"lang":"24.0612433","late":"32.8650158"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_places_pic%2F3.jpg?alt=media&token=c6c68dab-b61d-467e-bc97-89c2771aced8"
+                    },
+
+                    {
+                        "id":4,
+                        "name":"Elephantine Island",
+                        "description":"This island is the oldest inhabited part of Aswan and served as the cult center of the ram headed god Khnum in ancient times.",
+                        "location":"Across the Nile from Aswan | Two parts to this Island, Aswan, Egypt",
+                        "location_map":{"lang":"24.0829406","late":"32.885114"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_places_pic%2F4.jpg?alt=media&token=de379e8f-fcd0-4ba2-a359-d05af95217eb"
+                    },
+
+                    {
+                        "id":5,
+                        "name":"Animalia",
+                        "description":"Center of information about life in nubia(nature and culture)it is an ethno-biological museum which consists of three parts1-traditional nubian house 2- museum shows fauna in nubia(Animals,reptiles,birds,fish,insects all stuffed)",
+                        "location":"Elephantine Island | In the Middle of Agricultural Area Beside the Prep School of the Village, Aswan, Egypt",
+                        "location_map":{"lang":"24.0895585","late":"32.8889249"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_places_pic%2F5.jpg?alt=media&token=411214bd-17de-4da9-904f-c0b5ea93da7b"
+                    },
+
+                    {
+                        "id":6,
+                        "name":"Aswan Market",
+                        "description":"This outdoor market is a central feature of Aswan, Egypt’s southernmost city.",
+                        "location":"Aswan, Egypt",
+                        "location_map":{"lang":"24.097741","late":"32.9027723"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_places_pic%2F6.jpg?alt=media&token=06c0a0ea-d5bf-42c8-8085-eec18c12e8ec"
+                    },
+
+                    {
+                        "id":7,
+                        "name":"Aswan High Dam",
+                        "description":"Supplying water and electricity to all of Egypt, this impressive two-mile dam was a 1960s feat of engineering.",
+                        "location":"Manteqet As Sad Al Aali, Aswan, Egypt",
+                        "location_map":{"lang":"23.970883","late":"32.8783642"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_places_pic%2F7.jpg?alt=media&token=0083514c-5f2b-4a9f-9a98-ad454d954b2a"
+                    },
+
+                    {
+                        "id":8,
+                        "name":"Unfinished Obelisk",
+                        "description":"This gigantic semi-finished obelisk, dating from the New Kingdom, would have weighed a staggering 1,197 tons if completed.",
+                        "location":"Sheyakhah Oula, Aswan, Egypt",
+                        "location_map":{"lang":"24.0769049","late":"32.8959489"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_places_pic%2F8.jpg?alt=media&token=e65d5fc2-a839-48a8-96f3-f90a627df67e"
+                    },
+
+                    {
+                        "id":9,
+                        "name":"Aswan Botanical Garden",
+                        "description":"Nature and Parks, Gardens",
+                        "location":"Sheyakhah Oula, Aswan, Egypt",
+                        "location_map":{"lang":"24.093748","late":"32.8874442"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_places_pic%2F9.jpg?alt=media&token=949ed587-9bdc-4ce5-8f0b-5e01eb6c1f25"
+                    },
+
+                    {
+                        "id":10,
+                        "name":"Monastery of St. Simeon",
+                        "description":"Sights & Landmarks, Ancient Ruins",
+                        "location":"Aswan, Egypt",
+                        "location_map":{"lang":"24.0945453","late":"32.8765655"},
+                        "photo":"https://firebasestorage.googleapis.com/v0/b/tripto-5f396.appspot.com/o/aswan_places_pic%2F10.jpg?alt=media&token=e948cc26-d815-42ef-b01a-4de610708df0"
+                    }
+                ]
+}
